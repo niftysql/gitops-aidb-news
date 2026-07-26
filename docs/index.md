@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-24T05:47:24.692346-07:00._
+_Last updated: 2026-07-25T18:21:56.686043-07:00._
 
-[Read the latest digest](digests/2026-07-24.html)
+[Read the latest digest](digests/2026-07-25.html)
 
 ## Latest top links
 
-- [InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents](https://arxiv.org/abs/2607.20468) — arXiv cs.AI
-- [AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors](https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/) — TechCrunch AI
-- [DynamicMCPBench: A Trace-Grounded, Effect-Scored Benchmark for LLM Agents over Live MCP Servers](https://arxiv.org/abs/2607.20531) — arXiv cs.AI
-- [Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction](https://arxiv.org/abs/2607.20911) — arXiv cs.CL
-- [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/) — TechCrunch AI
-- [JAXBench: Benchmarking Autonomous TPU Kernel Optimization](https://arxiv.org/abs/2607.20466) — arXiv cs.AI
-- [DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding](https://arxiv.org/abs/2607.20467) — arXiv cs.AI
-- [A Knowledge-Injection Framework for Zero-Shot Adaptation of LLMs to Delirium Prediction](https://arxiv.org/abs/2607.20453) — arXiv cs.CL
+- [Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model](https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/) — AWS Machine Learning Blog
+- [Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release) — The Verge AI
+- [Meta is making its AI chatbot more like an assistant](https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update) — The Verge AI
+- [OpenAI’s new voice mode makes it to the ChatGPT desktop app](https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/) — TechCrunch AI
+- [‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street](https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/) — TechCrunch AI
+- [Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/) — TechCrunch AI
+- [As US weighs response to Chinese AI, industry urges against broad open-weight restrictions](https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-07-25](digests/2026-07-25.html)
 - [2026-07-24](digests/2026-07-24.html)
 - [2026-07-23](digests/2026-07-23.html)
 - [2026-07-22](digests/2026-07-22.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-24T05:47:24.692346-07:00._
 - [2026-06-28](digests/2026-06-28.html)
 - [2026-06-27](digests/2026-06-27.html)
 - [2026-06-26](digests/2026-06-26.html)
-- [2026-06-25](digests/2026-06-25.html)
 
 ## About this site
 
