@@ -1,17 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-26T05:40:02.922673-07:00._
+_Last updated: 2026-07-27T06:20:25.803669-07:00._
 
-[Read the latest digest](digests/2026-07-26.html)
+[Read the latest digest](digests/2026-07-27.html)
 
 ## Latest top links
 
-- [Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) — TechCrunch AI
-- [Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/) — TechCrunch AI
-- [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/) — TechCrunch AI
+- [The Hard Decision Layer: Evidence for Committed Inference in Transformers](https://arxiv.org/abs/2607.21613) — arXiv cs.CL
+- [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science](https://arxiv.org/abs/2607.22513) — arXiv cs.CL
+- [Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity) — The Verge AI
+- [Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents](https://arxiv.org/abs/2607.22014) — arXiv cs.CL
+- [CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference](https://arxiv.org/abs/2607.22511) — arXiv stat.ML
+- [Scaling Laws for Classical Machine Learning on Tabular Data: A Benchmark Study](https://arxiv.org/abs/2607.21866) — arXiv stat.ML
+- [How AI is expanding what people do at work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work) — OpenAI Blog
+- [Agentic Evaluation of Copyright Law Compliance](https://arxiv.org/abs/2607.21799) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-27](digests/2026-07-27.html)
 - [2026-07-26](digests/2026-07-26.html)
 - [2026-07-25](digests/2026-07-25.html)
 - [2026-07-24](digests/2026-07-24.html)
@@ -41,7 +47,6 @@ _Last updated: 2026-07-26T05:40:02.922673-07:00._
 - [2026-06-30](digests/2026-06-30.html)
 - [2026-06-29](digests/2026-06-29.html)
 - [2026-06-28](digests/2026-06-28.html)
-- [2026-06-27](digests/2026-06-27.html)
 
 ## About this site
 
