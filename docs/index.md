@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-27T06:20:25.803669-07:00._
+_Last updated: 2026-07-28T05:55:51.128722-07:00._
 
-[Read the latest digest](digests/2026-07-27.html)
+[Read the latest digest](digests/2026-07-28.html)
 
 ## Latest top links
 
-- [The Hard Decision Layer: Evidence for Committed Inference in Transformers](https://arxiv.org/abs/2607.21613) — arXiv cs.CL
-- [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science](https://arxiv.org/abs/2607.22513) — arXiv cs.CL
-- [Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity) — The Verge AI
-- [Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents](https://arxiv.org/abs/2607.22014) — arXiv cs.CL
-- [CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference](https://arxiv.org/abs/2607.22511) — arXiv stat.ML
-- [Scaling Laws for Classical Machine Learning on Tabular Data: A Benchmark Study](https://arxiv.org/abs/2607.21866) — arXiv stat.ML
-- [How AI is expanding what people do at work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work) — OpenAI Blog
-- [Agentic Evaluation of Copyright Law Compliance](https://arxiv.org/abs/2607.21799) — arXiv cs.CL
+- [CHS-SQL: A Text-to-SQL approach based on Confidence-Guided Heuristic Search Schema Linking process](https://arxiv.org/abs/2607.22624) — arXiv cs.AI
+- [SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs](https://arxiv.org/abs/2607.22571) — arXiv cs.AI
+- [CRAFT: Learn the Schema, Execute the Plan](https://arxiv.org/abs/2607.22642) — arXiv cs.AI
+- [cMoLLM at Scale: Horizontal Scaling Laws for Mixture-of-LLMs](https://arxiv.org/abs/2607.22577) — arXiv cs.AI
+- [Learning When to Reason for Text-to-SQL via SFT and DPO](https://arxiv.org/abs/2607.22622) — arXiv cs.CL
+- [Beyond a Global Norm: Personalizing Toxicity Sensitivity in Language Models Without Retraining](https://arxiv.org/abs/2607.23175) — arXiv cs.CL
+- [Do Diagrams Help Large Language Models Reason? Evidence from Syllogistic Reasoning](https://arxiv.org/abs/2607.23513) — arXiv cs.CL
+- [Modeling Memory-Dependent Reliability of LLMs: A Hidden Markov Model](https://arxiv.org/abs/2607.22951) — arXiv stat.ML
 
 ## Recent digests
 
+- [2026-07-28](digests/2026-07-28.html)
 - [2026-07-27](digests/2026-07-27.html)
 - [2026-07-26](digests/2026-07-26.html)
 - [2026-07-25](digests/2026-07-25.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-27T06:20:25.803669-07:00._
 - [2026-07-01](digests/2026-07-01.html)
 - [2026-06-30](digests/2026-06-30.html)
 - [2026-06-29](digests/2026-06-29.html)
-- [2026-06-28](digests/2026-06-28.html)
 
 ## About this site
 
