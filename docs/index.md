@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-28T05:55:51.128722-07:00._
+_Last updated: 2026-07-29T05:57:21.582748-07:00._
 
-[Read the latest digest](digests/2026-07-28.html)
+[Read the latest digest](digests/2026-07-29.html)
 
 ## Latest top links
 
-- [CHS-SQL: A Text-to-SQL approach based on Confidence-Guided Heuristic Search Schema Linking process](https://arxiv.org/abs/2607.22624) — arXiv cs.AI
-- [SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs](https://arxiv.org/abs/2607.22571) — arXiv cs.AI
-- [CRAFT: Learn the Schema, Execute the Plan](https://arxiv.org/abs/2607.22642) — arXiv cs.AI
-- [cMoLLM at Scale: Horizontal Scaling Laws for Mixture-of-LLMs](https://arxiv.org/abs/2607.22577) — arXiv cs.AI
-- [Learning When to Reason for Text-to-SQL via SFT and DPO](https://arxiv.org/abs/2607.22622) — arXiv cs.CL
-- [Beyond a Global Norm: Personalizing Toxicity Sensitivity in Language Models Without Retraining](https://arxiv.org/abs/2607.23175) — arXiv cs.CL
-- [Do Diagrams Help Large Language Models Reason? Evidence from Syllogistic Reasoning](https://arxiv.org/abs/2607.23513) — arXiv cs.CL
-- [Modeling Memory-Dependent Reliability of LLMs: A Hidden Markov Model](https://arxiv.org/abs/2607.22951) — arXiv stat.ML
+- [Personalization, Personas, and Forecasting in Value Alignment](https://arxiv.org/abs/2607.24782) — arXiv cs.AI
+- [TimeCapsule: Generative Hallucination as a Method for Historical Sensemaking](https://arxiv.org/abs/2607.24750) — arXiv cs.CL
+- [We’re running out of reasons to ignore AI safety](https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning) — The Verge AI
+- [Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels](https://arxiv.org/abs/2607.24762) — arXiv cs.AI
+- [Similar Models Learn Differently: Final-Window Pretraining Shapes Post-Training Beyond SFT](https://arxiv.org/abs/2607.25063) — arXiv cs.AI
+- [Matryoshka Agent: Unfolding Sub-Agents for Long-Horizon Machine Learning Engineering](https://arxiv.org/abs/2607.25090) — arXiv cs.AI
+- [Shieldstral](https://arxiv.org/abs/2607.25857) — arXiv cs.CL
+- [AI's Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology II: Project Planning and Proposal Evaluation](https://arxiv.org/abs/2607.25881) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-29](digests/2026-07-29.html)
 - [2026-07-28](digests/2026-07-28.html)
 - [2026-07-27](digests/2026-07-27.html)
 - [2026-07-26](digests/2026-07-26.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-28T05:55:51.128722-07:00._
 - [2026-07-02](digests/2026-07-02.html)
 - [2026-07-01](digests/2026-07-01.html)
 - [2026-06-30](digests/2026-06-30.html)
-- [2026-06-29](digests/2026-06-29.html)
 
 ## About this site
 
