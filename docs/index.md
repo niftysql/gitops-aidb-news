@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-29T05:57:21.582748-07:00._
+_Last updated: 2026-07-30T05:52:00.908465-07:00._
 
-[Read the latest digest](digests/2026-07-29.html)
+[Read the latest digest](digests/2026-07-30.html)
 
 ## Latest top links
 
-- [Personalization, Personas, and Forecasting in Value Alignment](https://arxiv.org/abs/2607.24782) — arXiv cs.AI
-- [TimeCapsule: Generative Hallucination as a Method for Historical Sensemaking](https://arxiv.org/abs/2607.24750) — arXiv cs.CL
-- [We’re running out of reasons to ignore AI safety](https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning) — The Verge AI
-- [Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels](https://arxiv.org/abs/2607.24762) — arXiv cs.AI
-- [Similar Models Learn Differently: Final-Window Pretraining Shapes Post-Training Beyond SFT](https://arxiv.org/abs/2607.25063) — arXiv cs.AI
-- [Matryoshka Agent: Unfolding Sub-Agents for Long-Horizon Machine Learning Engineering](https://arxiv.org/abs/2607.25090) — arXiv cs.AI
-- [Shieldstral](https://arxiv.org/abs/2607.25857) — arXiv cs.CL
-- [AI's Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology II: Project Planning and Proposal Evaluation](https://arxiv.org/abs/2607.25881) — arXiv cs.CL
+- [Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities](https://arxiv.org/abs/2607.26062) — arXiv cs.CL
+- [Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers) — OpenAI Blog
+- [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](https://arxiv.org/abs/2607.24784) — arXiv cs.AI
+- [PreDiff-LM: Pretrained Discrete Masked Diffusion Language Modeling with Hybrid Attention](https://arxiv.org/abs/2607.25157) — arXiv cs.AI
+- [Everyone is unique: Towards Behaviorally Heterogeneous Negotiation Dialogue Systems for Debt Collection](https://arxiv.org/abs/2607.25218) — arXiv cs.AI
+- [Steering Instruction Hierarchies at Inference Time](https://arxiv.org/abs/2607.26228) — arXiv cs.CL
+- [Knowledge before Reasoning: EC-Reason-Bench, a Training-Free Diagnostic Benchmark for LLM Enzyme Classification](https://arxiv.org/abs/2607.26397) — arXiv cs.CL
+- [DIRECT: Direct Decoding for Efficient and Aligned Sequence Labeling with Large Language Models](https://arxiv.org/abs/2607.26891) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-07-30](digests/2026-07-30.html)
 - [2026-07-29](digests/2026-07-29.html)
 - [2026-07-28](digests/2026-07-28.html)
 - [2026-07-27](digests/2026-07-27.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-29T05:57:21.582748-07:00._
 - [2026-07-03](digests/2026-07-03.html)
 - [2026-07-02](digests/2026-07-02.html)
 - [2026-07-01](digests/2026-07-01.html)
-- [2026-06-30](digests/2026-06-30.html)
 
 ## About this site
 
