@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-30T05:52:00.908465-07:00._
+_Last updated: 2026-07-31T05:56:23.820371-07:00._
 
-[Read the latest digest](digests/2026-07-30.html)
+[Read the latest digest](digests/2026-07-31.html)
 
 ## Latest top links
 
-- [Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities](https://arxiv.org/abs/2607.26062) — arXiv cs.CL
-- [Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers) — OpenAI Blog
-- [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](https://arxiv.org/abs/2607.24784) — arXiv cs.AI
-- [PreDiff-LM: Pretrained Discrete Masked Diffusion Language Modeling with Hybrid Attention](https://arxiv.org/abs/2607.25157) — arXiv cs.AI
-- [Everyone is unique: Towards Behaviorally Heterogeneous Negotiation Dialogue Systems for Debt Collection](https://arxiv.org/abs/2607.25218) — arXiv cs.AI
-- [Steering Instruction Hierarchies at Inference Time](https://arxiv.org/abs/2607.26228) — arXiv cs.CL
-- [Knowledge before Reasoning: EC-Reason-Bench, a Training-Free Diagnostic Benchmark for LLM Enzyme Classification](https://arxiv.org/abs/2607.26397) — arXiv cs.CL
-- [DIRECT: Direct Decoding for Efficient and Aligned Sequence Labeling with Large Language Models](https://arxiv.org/abs/2607.26891) — arXiv cs.CL
+- [LayerRAG-Bench: A Cross-Layer Reliability Benchmark for Agentic Retrieval-Augmented Generation](https://arxiv.org/abs/2607.27353) — arXiv cs.CL
+- [Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Anthropic says its own AI models breached three companies during security tests](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/) — TechCrunch AI
+- [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) — OpenAI Blog
+- [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](https://arxiv.org/abs/2607.27155) — arXiv cs.AI
+- [Google DeepMind’s new AI model can control a robot’s entire body](https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body) — The Verge AI
+- [GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning](https://arxiv.org/abs/2607.26160) — arXiv cs.AI
+- [Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?](https://arxiv.org/abs/2607.26367) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-07-31](digests/2026-07-31.html)
 - [2026-07-30](digests/2026-07-30.html)
 - [2026-07-29](digests/2026-07-29.html)
 - [2026-07-28](digests/2026-07-28.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-30T05:52:00.908465-07:00._
 - [2026-07-04](digests/2026-07-04.html)
 - [2026-07-03](digests/2026-07-03.html)
 - [2026-07-02](digests/2026-07-02.html)
-- [2026-07-01](digests/2026-07-01.html)
 
 ## About this site
 
