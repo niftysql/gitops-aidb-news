@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-07-31T05:56:23.820371-07:00._
+_Last updated: 2026-08-01T05:36:45.893923-07:00._
 
-[Read the latest digest](digests/2026-07-31.html)
+[Read the latest digest](digests/2026-08-01.html)
 
 ## Latest top links
 
-- [LayerRAG-Bench: A Cross-Layer Reliability Benchmark for Agentic Retrieval-Augmented Generation](https://arxiv.org/abs/2607.27353) — arXiv cs.CL
-- [Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Anthropic says its own AI models breached three companies during security tests](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/) — TechCrunch AI
-- [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) — OpenAI Blog
-- [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](https://arxiv.org/abs/2607.27155) — arXiv cs.AI
-- [Google DeepMind’s new AI model can control a robot’s entire body](https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body) — The Verge AI
-- [GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning](https://arxiv.org/abs/2607.26160) — arXiv cs.AI
-- [Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?](https://arxiv.org/abs/2607.26367) — arXiv cs.AI
+- [Anthropic says Claude accidentally hacked real companies too](https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests) — The Verge AI
+- [It’s time to panic about AI safety](https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast) — The Verge AI
+- [Sam Altman isn’t the only one who wants to pump the brakes on AI](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/) — TechCrunch AI
+- [AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off](https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/) — TechCrunch AI
+- [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/) — TechCrunch AI
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics) — OpenAI Blog
+- [Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human](https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/) — TechCrunch AI
+- [Announcing the Agentic Catalog Experience in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-08-01](digests/2026-08-01.html)
 - [2026-07-31](digests/2026-07-31.html)
 - [2026-07-30](digests/2026-07-30.html)
 - [2026-07-29](digests/2026-07-29.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-07-31T05:56:23.820371-07:00._
 - [2026-07-05](digests/2026-07-05.html)
 - [2026-07-04](digests/2026-07-04.html)
 - [2026-07-03](digests/2026-07-03.html)
-- [2026-07-02](digests/2026-07-02.html)
 
 ## About this site
 
