@@ -1,22 +1,20 @@
 # Daily AI News
 
-_Last updated: 2026-08-01T05:36:45.893923-07:00._
+_Last updated: 2026-08-02T05:38:05.641553-07:00._
 
-[Read the latest digest](digests/2026-08-01.html)
+[Read the latest digest](digests/2026-08-02.html)
 
 ## Latest top links
 
-- [Anthropic says Claude accidentally hacked real companies too](https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests) — The Verge AI
-- [It’s time to panic about AI safety](https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast) — The Verge AI
-- [Sam Altman isn’t the only one who wants to pump the brakes on AI](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/) — TechCrunch AI
-- [AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off](https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/) — TechCrunch AI
-- [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/) — TechCrunch AI
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics) — OpenAI Blog
-- [Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human](https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/) — TechCrunch AI
-- [Announcing the Agentic Catalog Experience in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/) — AWS Machine Learning Blog
+- [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/) — TechCrunch AI
+- [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/) — TechCrunch AI
+- [YouTuber Hank Green says his AI usage is ‘not healthy’](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/) — TechCrunch AI
+- [This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/) — TechCrunch AI
+- [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop) — The Verge AI
 
 ## Recent digests
 
+- [2026-08-02](digests/2026-08-02.html)
 - [2026-08-01](digests/2026-08-01.html)
 - [2026-07-31](digests/2026-07-31.html)
 - [2026-07-30](digests/2026-07-30.html)
@@ -46,7 +44,6 @@ _Last updated: 2026-08-01T05:36:45.893923-07:00._
 - [2026-07-06](digests/2026-07-06.html)
 - [2026-07-05](digests/2026-07-05.html)
 - [2026-07-04](digests/2026-07-04.html)
-- [2026-07-03](digests/2026-07-03.html)
 
 ## About this site
 
