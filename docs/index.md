@@ -1,19 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-02T05:38:05.641553-07:00._
+_Last updated: 2026-08-03T06:19:39.127176-07:00._
 
-[Read the latest digest](digests/2026-08-02.html)
+[Read the latest digest](digests/2026-08-03.html)
 
 ## Latest top links
 
-- [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/) — TechCrunch AI
-- [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/) — TechCrunch AI
-- [YouTuber Hank Green says his AI usage is ‘not healthy’](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/) — TechCrunch AI
-- [This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/) — TechCrunch AI
-- [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop) — The Verge AI
+- [OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems](https://arxiv.org/abs/2607.28629) — arXiv cs.AI
+- [Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures](https://arxiv.org/abs/2607.28802) — arXiv cs.AI
+- [Fragility of Value under Imperfect Alignment](https://arxiv.org/abs/2607.28881) — arXiv cs.AI
+- [ZeroR@CHiPSAL 2026: Two-Stage Vision-Language Adaptation with Contrastive Learning for Nepali Meme Classification](https://arxiv.org/abs/2607.28637) — arXiv cs.CL
+- [Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters](https://arxiv.org/abs/2607.29238) — arXiv cs.CL
+- [Data Turnstile: A Scalable Open Framework for Function-Calling Data Generation](https://arxiv.org/abs/2607.29250) — arXiv cs.CL
+- [FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models](https://arxiv.org/abs/2607.29602) — arXiv cs.CL
+- [When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning](https://arxiv.org/abs/2607.29617) — arXiv stat.ML
 
 ## Recent digests
 
+- [2026-08-03](digests/2026-08-03.html)
 - [2026-08-02](digests/2026-08-02.html)
 - [2026-08-01](digests/2026-08-01.html)
 - [2026-07-31](digests/2026-07-31.html)
@@ -43,7 +47,6 @@ _Last updated: 2026-08-02T05:38:05.641553-07:00._
 - [2026-07-07](digests/2026-07-07.html)
 - [2026-07-06](digests/2026-07-06.html)
 - [2026-07-05](digests/2026-07-05.html)
-- [2026-07-04](digests/2026-07-04.html)
 
 ## About this site
 
