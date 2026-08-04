@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-03T06:19:39.127176-07:00._
+_Last updated: 2026-08-04T05:57:09.742955-07:00._
 
-[Read the latest digest](digests/2026-08-03.html)
+[Read the latest digest](digests/2026-08-04.html)
 
 ## Latest top links
 
-- [OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems](https://arxiv.org/abs/2607.28629) — arXiv cs.AI
-- [Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures](https://arxiv.org/abs/2607.28802) — arXiv cs.AI
-- [Fragility of Value under Imperfect Alignment](https://arxiv.org/abs/2607.28881) — arXiv cs.AI
-- [ZeroR@CHiPSAL 2026: Two-Stage Vision-Language Adaptation with Contrastive Learning for Nepali Meme Classification](https://arxiv.org/abs/2607.28637) — arXiv cs.CL
-- [Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters](https://arxiv.org/abs/2607.29238) — arXiv cs.CL
-- [Data Turnstile: A Scalable Open Framework for Function-Calling Data Generation](https://arxiv.org/abs/2607.29250) — arXiv cs.CL
-- [FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models](https://arxiv.org/abs/2607.29602) — arXiv cs.CL
-- [When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning](https://arxiv.org/abs/2607.29617) — arXiv stat.ML
+- [Cost-Effective Automated Judging of Natural-Language Mathematical Proofs](https://arxiv.org/abs/2608.00004) — arXiv cs.CL
+- [What Transfers from Text to Vision? Capability Scaling Laws and Transfer Dynamics for VLMs](https://arxiv.org/abs/2608.00013) — arXiv cs.CL
+- [Deep Research Pretraining via Predictive Navigation](https://arxiv.org/abs/2608.00432) — arXiv cs.CL
+- [Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks](https://arxiv.org/abs/2607.28685) — arXiv cs.AI
+- [NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability](https://arxiv.org/abs/2607.28942) — arXiv cs.AI
+- [MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations](https://arxiv.org/abs/2607.28956) — arXiv cs.AI
+- [Scaling Scientific Discovery Environments for Turn-Level Agentic RL](https://arxiv.org/abs/2607.28990) — arXiv cs.AI
+- [RubricReviewer: From Direct Critique to Objective and Comprehensive Rubric-Driven Peer Review](https://arxiv.org/abs/2608.00005) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-04](digests/2026-08-04.html)
 - [2026-08-03](digests/2026-08-03.html)
 - [2026-08-02](digests/2026-08-02.html)
 - [2026-08-01](digests/2026-08-01.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-03T06:19:39.127176-07:00._
 - [2026-07-08](digests/2026-07-08.html)
 - [2026-07-07](digests/2026-07-07.html)
 - [2026-07-06](digests/2026-07-06.html)
-- [2026-07-05](digests/2026-07-05.html)
 
 ## About this site
 
