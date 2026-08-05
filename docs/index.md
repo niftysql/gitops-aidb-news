@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-04T05:57:09.742955-07:00._
+_Last updated: 2026-08-05T05:55:43.255563-07:00._
 
-[Read the latest digest](digests/2026-08-04.html)
+[Read the latest digest](digests/2026-08-05.html)
 
 ## Latest top links
 
-- [Cost-Effective Automated Judging of Natural-Language Mathematical Proofs](https://arxiv.org/abs/2608.00004) — arXiv cs.CL
-- [What Transfers from Text to Vision? Capability Scaling Laws and Transfer Dynamics for VLMs](https://arxiv.org/abs/2608.00013) — arXiv cs.CL
-- [Deep Research Pretraining via Predictive Navigation](https://arxiv.org/abs/2608.00432) — arXiv cs.CL
-- [Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks](https://arxiv.org/abs/2607.28685) — arXiv cs.AI
-- [NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability](https://arxiv.org/abs/2607.28942) — arXiv cs.AI
-- [MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations](https://arxiv.org/abs/2607.28956) — arXiv cs.AI
-- [Scaling Scientific Discovery Environments for Turn-Level Agentic RL](https://arxiv.org/abs/2607.28990) — arXiv cs.AI
-- [RubricReviewer: From Direct Critique to Objective and Comprehensive Rubric-Driven Peer Review](https://arxiv.org/abs/2608.00005) — arXiv cs.CL
+- [Getting the Parameters Right: A Difficulty-Graded Benchmark and Probe-Guided Training for LLM Tool Calls](https://arxiv.org/abs/2608.03071) — arXiv cs.AI
+- [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](https://arxiv.org/abs/2608.03327) — arXiv cs.AI
+- [ANCHOR-RE: An Agentic Neuro-Symbolic Framework for Grounded Biomedical Relation Extraction](https://arxiv.org/abs/2608.03154) — arXiv cs.CL
+- [Evaluating OpenAI's Privacy Filter: Cross-Lingual, Cross-Domain PII Detection Across 42 Benchmarks](https://arxiv.org/abs/2608.02616) — arXiv cs.CL
+- [ConlangBench: Exploring Language Knowledge and Learning in LLMs through Diverse Constructed Languages](https://arxiv.org/abs/2608.03505) — arXiv cs.CL
+- [VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space](https://arxiv.org/abs/2608.02878) — arXiv cs.AI
+- [TraceCAD: Trace-Guided Repair for Agentic CAD Generation](https://arxiv.org/abs/2608.03062) — arXiv cs.AI
+- [MemArena: An Ego-Centric Benchmark for On-Device Agentic Personal Memory Assistants at Scale](https://arxiv.org/abs/2608.02613) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-05](digests/2026-08-05.html)
 - [2026-08-04](digests/2026-08-04.html)
 - [2026-08-03](digests/2026-08-03.html)
 - [2026-08-02](digests/2026-08-02.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-04T05:57:09.742955-07:00._
 - [2026-07-09](digests/2026-07-09.html)
 - [2026-07-08](digests/2026-07-08.html)
 - [2026-07-07](digests/2026-07-07.html)
-- [2026-07-06](digests/2026-07-06.html)
 
 ## About this site
 
