@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-05T05:55:43.255563-07:00._
+_Last updated: 2026-08-06T07:34:30.066851-07:00._
 
-[Read the latest digest](digests/2026-08-05.html)
+[Read the latest digest](digests/2026-08-06.html)
 
 ## Latest top links
 
-- [Getting the Parameters Right: A Difficulty-Graded Benchmark and Probe-Guided Training for LLM Tool Calls](https://arxiv.org/abs/2608.03071) — arXiv cs.AI
-- [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](https://arxiv.org/abs/2608.03327) — arXiv cs.AI
-- [ANCHOR-RE: An Agentic Neuro-Symbolic Framework for Grounded Biomedical Relation Extraction](https://arxiv.org/abs/2608.03154) — arXiv cs.CL
-- [Evaluating OpenAI's Privacy Filter: Cross-Lingual, Cross-Domain PII Detection Across 42 Benchmarks](https://arxiv.org/abs/2608.02616) — arXiv cs.CL
-- [ConlangBench: Exploring Language Knowledge and Learning in LLMs through Diverse Constructed Languages](https://arxiv.org/abs/2608.03505) — arXiv cs.CL
-- [VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space](https://arxiv.org/abs/2608.02878) — arXiv cs.AI
-- [TraceCAD: Trace-Guided Repair for Agentic CAD Generation](https://arxiv.org/abs/2608.03062) — arXiv cs.AI
-- [MemArena: An Ego-Centric Benchmark for On-Device Agentic Personal Memory Assistants at Scale](https://arxiv.org/abs/2608.02613) — arXiv cs.CL
+- [Rogue AI agents created fake online identities in another hacking attempt](https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking) — The Verge AI
+- [Energy- and Memory-Efficient PEFT Methods for Personalized On-Device SLMs on Consumer GPUs](https://arxiv.org/abs/2608.04488) — arXiv cs.CL
+- [AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering](https://arxiv.org/abs/2411.04440) — arXiv cs.AI
+- [Anthropic is hiring an AI chip design team](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/) — TechCrunch AI
+- [Transfer Learning for Named Entity Recognition of Classical Latin through LLM Prompting](https://arxiv.org/abs/2608.04015) — arXiv cs.CL
+- [FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables](https://arxiv.org/abs/2608.04077) — arXiv cs.AI
+- [FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents](https://arxiv.org/abs/2608.04095) — arXiv cs.AI
+- [Interoceptive Attention as Dynamic Homeostatic Prioritization in a Foraging Agent](https://arxiv.org/abs/2608.04232) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-08-06](digests/2026-08-06.html)
 - [2026-08-05](digests/2026-08-05.html)
 - [2026-08-04](digests/2026-08-04.html)
 - [2026-08-03](digests/2026-08-03.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-05T05:55:43.255563-07:00._
 - [2026-07-10](digests/2026-07-10.html)
 - [2026-07-09](digests/2026-07-09.html)
 - [2026-07-08](digests/2026-07-08.html)
-- [2026-07-07](digests/2026-07-07.html)
 
 ## About this site
 
