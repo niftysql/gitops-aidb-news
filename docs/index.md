@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-06T07:34:30.066851-07:00._
+_Last updated: 2026-08-07T06:39:13.144903-07:00._
 
-[Read the latest digest](digests/2026-08-06.html)
+[Read the latest digest](digests/2026-08-07.html)
 
 ## Latest top links
 
-- [Rogue AI agents created fake online identities in another hacking attempt](https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking) — The Verge AI
-- [Energy- and Memory-Efficient PEFT Methods for Personalized On-Device SLMs on Consumer GPUs](https://arxiv.org/abs/2608.04488) — arXiv cs.CL
-- [AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering](https://arxiv.org/abs/2411.04440) — arXiv cs.AI
-- [Anthropic is hiring an AI chip design team](https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/) — TechCrunch AI
-- [Transfer Learning for Named Entity Recognition of Classical Latin through LLM Prompting](https://arxiv.org/abs/2608.04015) — arXiv cs.CL
-- [FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables](https://arxiv.org/abs/2608.04077) — arXiv cs.AI
-- [FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents](https://arxiv.org/abs/2608.04095) — arXiv cs.AI
-- [Interoceptive Attention as Dynamic Homeostatic Prioritization in a Foraging Agent](https://arxiv.org/abs/2608.04232) — arXiv cs.AI
+- [Human-Like Anaphor Resolution in Large Language Models](https://arxiv.org/abs/2608.05630) — arXiv cs.CL
+- [The Bitter Lesson of Tool Calling](https://arxiv.org/abs/2608.06370) — arXiv cs.CL
+- [Agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks](https://arxiv.org/abs/2608.05266) — arXiv cs.AI
+- [EcoAgent-Bench: Evaluating Economic Decision-Making in Budget-Constrained LLM Agents](https://arxiv.org/abs/2608.05519) — arXiv cs.AI
+- [Seeing Is Not Deciding: Can Multimodal LLMs Act as Effective CEOs?](https://arxiv.org/abs/2608.05864) — arXiv cs.AI
+- [Recursive Synthesis for Long-Horizon Terminal Tasks](https://arxiv.org/abs/2608.05466) — arXiv cs.AI
+- [Simulator-Grounded Large Language Models for Industrial Causal Reasoning: Tool-Use, Structured Injection, and Plant-Portable Retrieval for Wastewater Treatment Decision Support](https://arxiv.org/abs/2608.05151) — arXiv cs.CL
+- [Scaffold-Mediated Post-Training: Co-Evolving Model Parameters and Procedural Scaffold Graphs](https://arxiv.org/abs/2608.05156) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-07](digests/2026-08-07.html)
 - [2026-08-06](digests/2026-08-06.html)
 - [2026-08-05](digests/2026-08-05.html)
 - [2026-08-04](digests/2026-08-04.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-06T07:34:30.066851-07:00._
 - [2026-07-11](digests/2026-07-11.html)
 - [2026-07-10](digests/2026-07-10.html)
 - [2026-07-09](digests/2026-07-09.html)
-- [2026-07-08](digests/2026-07-08.html)
 
 ## About this site
 
