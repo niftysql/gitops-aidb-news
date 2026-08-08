@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-07T06:39:13.144903-07:00._
+_Last updated: 2026-08-08T06:12:28.645061-07:00._
 
-[Read the latest digest](digests/2026-08-07.html)
+[Read the latest digest](digests/2026-08-08.html)
 
 ## Latest top links
 
-- [Human-Like Anaphor Resolution in Large Language Models](https://arxiv.org/abs/2608.05630) — arXiv cs.CL
-- [The Bitter Lesson of Tool Calling](https://arxiv.org/abs/2608.06370) — arXiv cs.CL
-- [Agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks](https://arxiv.org/abs/2608.05266) — arXiv cs.AI
-- [EcoAgent-Bench: Evaluating Economic Decision-Making in Budget-Constrained LLM Agents](https://arxiv.org/abs/2608.05519) — arXiv cs.AI
-- [Seeing Is Not Deciding: Can Multimodal LLMs Act as Effective CEOs?](https://arxiv.org/abs/2608.05864) — arXiv cs.AI
-- [Recursive Synthesis for Long-Horizon Terminal Tasks](https://arxiv.org/abs/2608.05466) — arXiv cs.AI
-- [Simulator-Grounded Large Language Models for Industrial Causal Reasoning: Tool-Use, Structured Injection, and Plant-Portable Retrieval for Wastewater Treatment Decision Support](https://arxiv.org/abs/2608.05151) — arXiv cs.CL
-- [Scaffold-Mediated Post-Training: Co-Evolving Model Parameters and Procedural Scaffold Graphs](https://arxiv.org/abs/2608.05156) — arXiv cs.CL
+- [OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) — The Verge AI
+- [DBLAST: Dependent Block Drafting for Stochastic Speculative Decoding](https://arxiv.org/abs/2608.05448) — arXiv cs.CL
+- [SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries](https://arxiv.org/abs/2608.05604) — arXiv cs.CL
+- [How to Recognize New Words: A Comparison Between Context Biasing Methods and Speech LLMs](https://arxiv.org/abs/2608.05759) — arXiv cs.CL
+- [MameLoshnLM: Yiddish Language Model and Evaluation Benchmark](https://arxiv.org/abs/2608.05850) — arXiv cs.CL
+- [What’s behind the Google AI shake-up](https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast) — The Verge AI
+- [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/) — TechCrunch AI
+- [Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers](https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-08-08](digests/2026-08-08.html)
 - [2026-08-07](digests/2026-08-07.html)
 - [2026-08-06](digests/2026-08-06.html)
 - [2026-08-05](digests/2026-08-05.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-07T06:39:13.144903-07:00._
 - [2026-07-12](digests/2026-07-12.html)
 - [2026-07-11](digests/2026-07-11.html)
 - [2026-07-10](digests/2026-07-10.html)
-- [2026-07-09](digests/2026-07-09.html)
 
 ## About this site
 
