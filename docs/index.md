@@ -1,22 +1,19 @@
 # Daily AI News
 
-_Last updated: 2026-08-08T06:12:28.645061-07:00._
+_Last updated: 2026-08-09T06:15:26.308638-07:00._
 
-[Read the latest digest](digests/2026-08-08.html)
+[Read the latest digest](digests/2026-08-09.html)
 
 ## Latest top links
 
-- [OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) — The Verge AI
-- [DBLAST: Dependent Block Drafting for Stochastic Speculative Decoding](https://arxiv.org/abs/2608.05448) — arXiv cs.CL
-- [SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries](https://arxiv.org/abs/2608.05604) — arXiv cs.CL
-- [How to Recognize New Words: A Comparison Between Context Biasing Methods and Speech LLMs](https://arxiv.org/abs/2608.05759) — arXiv cs.CL
-- [MameLoshnLM: Yiddish Language Model and Evaluation Benchmark](https://arxiv.org/abs/2608.05850) — arXiv cs.CL
-- [What’s behind the Google AI shake-up](https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast) — The Verge AI
-- [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/) — TechCrunch AI
-- [Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers](https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/) — TechCrunch AI
+- [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/) — TechCrunch AI
+- [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion) — The Verge AI
+- [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/) — TechCrunch AI
+- [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant) — The Verge AI
 
 ## Recent digests
 
+- [2026-08-09](digests/2026-08-09.html)
 - [2026-08-08](digests/2026-08-08.html)
 - [2026-08-07](digests/2026-08-07.html)
 - [2026-08-06](digests/2026-08-06.html)
@@ -46,7 +43,6 @@ _Last updated: 2026-08-08T06:12:28.645061-07:00._
 - [2026-07-13](digests/2026-07-13.html)
 - [2026-07-12](digests/2026-07-12.html)
 - [2026-07-11](digests/2026-07-11.html)
-- [2026-07-10](digests/2026-07-10.html)
 
 ## About this site
 
