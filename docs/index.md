@@ -1,18 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-09T06:15:26.308638-07:00._
+_Last updated: 2026-08-10T06:44:08.441743-07:00._
 
-[Read the latest digest](digests/2026-08-09.html)
+[Read the latest digest](digests/2026-08-10.html)
 
 ## Latest top links
 
-- [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/) — TechCrunch AI
-- [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion) — The Verge AI
-- [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/) — TechCrunch AI
-- [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant) — The Verge AI
+- [Critical Acclaim Orientation in Large Language Models: Evidence from Film Preference Elicitation](https://arxiv.org/abs/2608.06955) — arXiv cs.AI
+- [The AI safety test is becoming a safety risk](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/) — TechCrunch AI
+- [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) — arXiv cs.AI
+- [The Horizon Gap: Planning, Memory, Execution, Training, and Evaluation for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.06663) — arXiv cs.CL
+- [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml) — OpenAI Blog
+- [WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader](https://arxiv.org/abs/2608.06474) — arXiv cs.AI
+- [Gated-BEPO: Confidence-Gated Bellman Credit Assignment for Large Language Model Agents](https://arxiv.org/abs/2608.06861) — arXiv cs.AI
+- [Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events](https://arxiv.org/abs/2608.06485) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-10](digests/2026-08-10.html)
 - [2026-08-09](digests/2026-08-09.html)
 - [2026-08-08](digests/2026-08-08.html)
 - [2026-08-07](digests/2026-08-07.html)
@@ -42,7 +47,6 @@ _Last updated: 2026-08-09T06:15:26.308638-07:00._
 - [2026-07-14](digests/2026-07-14.html)
 - [2026-07-13](digests/2026-07-13.html)
 - [2026-07-12](digests/2026-07-12.html)
-- [2026-07-11](digests/2026-07-11.html)
 
 ## About this site
 
