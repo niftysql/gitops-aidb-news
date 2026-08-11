@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-10T06:44:08.441743-07:00._
+_Last updated: 2026-08-11T06:42:20.371444-07:00._
 
-[Read the latest digest](digests/2026-08-10.html)
+[Read the latest digest](digests/2026-08-11.html)
 
 ## Latest top links
 
-- [Critical Acclaim Orientation in Large Language Models: Evidence from Film Preference Elicitation](https://arxiv.org/abs/2608.06955) — arXiv cs.AI
-- [The AI safety test is becoming a safety risk](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/) — TechCrunch AI
-- [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) — arXiv cs.AI
-- [The Horizon Gap: Planning, Memory, Execution, Training, and Evaluation for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.06663) — arXiv cs.CL
-- [Model ML completes finance work more efficiently with GPT-5.6 Sol](https://openai.com/index/model-ml) — OpenAI Blog
-- [WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader](https://arxiv.org/abs/2608.06474) — arXiv cs.AI
-- [Gated-BEPO: Confidence-Gated Bellman Credit Assignment for Large Language Model Agents](https://arxiv.org/abs/2608.06861) — arXiv cs.AI
-- [Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events](https://arxiv.org/abs/2608.06485) — arXiv cs.CL
+- [Expanding Daybreak as the Cyber Defense Window Narrows](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows) — OpenAI Blog
+- [Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation](https://arxiv.org/abs/2608.07762) — arXiv cs.AI
+- [Reason Wide, Not Deep: Amortizing the Reasoning Premium into Distilled Skills](https://arxiv.org/abs/2608.07885) — arXiv cs.AI
+- [The Authority Expectancy Effect in Multi-User Conflict](https://arxiv.org/abs/2608.08026) — arXiv cs.AI
+- [Search-G1: Grounded Search Agents via Representation-Based Intrinsic Rewards](https://arxiv.org/abs/2608.07531) — arXiv cs.CL
+- [Population-Level Generative Modeling for Ranking Data](https://arxiv.org/abs/2608.08422) — arXiv stat.ML
+- [Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives](https://arxiv.org/abs/2608.08160) — arXiv cs.CL
+- [Emotion in an active inference model of human driving](https://arxiv.org/abs/2608.07480) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-08-11](digests/2026-08-11.html)
 - [2026-08-10](digests/2026-08-10.html)
 - [2026-08-09](digests/2026-08-09.html)
 - [2026-08-08](digests/2026-08-08.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-10T06:44:08.441743-07:00._
 - [2026-07-15](digests/2026-07-15.html)
 - [2026-07-14](digests/2026-07-14.html)
 - [2026-07-13](digests/2026-07-13.html)
-- [2026-07-12](digests/2026-07-12.html)
 
 ## About this site
 
