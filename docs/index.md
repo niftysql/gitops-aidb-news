@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-11T06:42:20.371444-07:00._
+_Last updated: 2026-08-12T06:46:57.304907-07:00._
 
-[Read the latest digest](digests/2026-08-11.html)
+[Read the latest digest](digests/2026-08-12.html)
 
 ## Latest top links
 
-- [Expanding Daybreak as the Cyber Defense Window Narrows](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows) — OpenAI Blog
-- [Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation](https://arxiv.org/abs/2608.07762) — arXiv cs.AI
-- [Reason Wide, Not Deep: Amortizing the Reasoning Premium into Distilled Skills](https://arxiv.org/abs/2608.07885) — arXiv cs.AI
-- [The Authority Expectancy Effect in Multi-User Conflict](https://arxiv.org/abs/2608.08026) — arXiv cs.AI
-- [Search-G1: Grounded Search Agents via Representation-Based Intrinsic Rewards](https://arxiv.org/abs/2608.07531) — arXiv cs.CL
-- [Population-Level Generative Modeling for Ranking Data](https://arxiv.org/abs/2608.08422) — arXiv stat.ML
-- [Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives](https://arxiv.org/abs/2608.08160) — arXiv cs.CL
-- [Emotion in an active inference model of human driving](https://arxiv.org/abs/2608.07480) — arXiv cs.AI
+- [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work) — OpenAI Blog
+- [SKILLER: Language-Level Reinforcement Learning for Reusable Skill Extraction in Small Language Models](https://arxiv.org/abs/2608.10538) — arXiv cs.AI
+- [Self-evolving Agentic Customer Support System at LinkedIn](https://arxiv.org/abs/2608.10224) — arXiv cs.AI
+- [Toward a Theory of Value in AI Alignment](https://arxiv.org/abs/2608.10327) — arXiv cs.AI
+- [Locally Deployable Small Language Models for Emergency Department Decision Support: A Systematic Benchmark of Fine-Tuning Strategies](https://arxiv.org/abs/2608.10273) — arXiv cs.CL
+- [Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine](https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/) — AWS Machine Learning Blog
+- [Daybreak models are now available on AWS](https://openai.com/index/daybreak-models-are-now-available-on-aws) — OpenAI Blog
+- [CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation](https://arxiv.org/abs/2608.10090) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-08-12](digests/2026-08-12.html)
 - [2026-08-11](digests/2026-08-11.html)
 - [2026-08-10](digests/2026-08-10.html)
 - [2026-08-09](digests/2026-08-09.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-11T06:42:20.371444-07:00._
 - [2026-07-16](digests/2026-07-16.html)
 - [2026-07-15](digests/2026-07-15.html)
 - [2026-07-14](digests/2026-07-14.html)
-- [2026-07-13](digests/2026-07-13.html)
 
 ## About this site
 
