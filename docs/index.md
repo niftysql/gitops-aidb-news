@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-12T06:46:57.304907-07:00._
+_Last updated: 2026-08-13T06:48:04.700461-07:00._
 
-[Read the latest digest](digests/2026-08-12.html)
+[Read the latest digest](digests/2026-08-13.html)
 
 ## Latest top links
 
-- [From assistance to execution: How enterprises put AI to work](https://openai.com/index/how-enterprises-put-ai-to-work) — OpenAI Blog
-- [SKILLER: Language-Level Reinforcement Learning for Reusable Skill Extraction in Small Language Models](https://arxiv.org/abs/2608.10538) — arXiv cs.AI
-- [Self-evolving Agentic Customer Support System at LinkedIn](https://arxiv.org/abs/2608.10224) — arXiv cs.AI
-- [Toward a Theory of Value in AI Alignment](https://arxiv.org/abs/2608.10327) — arXiv cs.AI
-- [Locally Deployable Small Language Models for Emergency Department Decision Support: A Systematic Benchmark of Fine-Tuning Strategies](https://arxiv.org/abs/2608.10273) — arXiv cs.CL
-- [Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine](https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/) — AWS Machine Learning Blog
-- [Daybreak models are now available on AWS](https://openai.com/index/daybreak-models-are-now-available-on-aws) — OpenAI Blog
-- [CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation](https://arxiv.org/abs/2608.10090) — arXiv cs.AI
+- [MBA: Multimodal Benchmark and Agents for Real-World Business Ideation](https://arxiv.org/abs/2608.11616) — arXiv cs.AI
+- [Language-Conditional Dequantization: Recovering What Quantization Steals from Non-English Languages](https://arxiv.org/abs/2608.11786) — arXiv cs.CL
+- [AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research](https://arxiv.org/abs/2608.11216) — arXiv cs.AI
+- [When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs](https://arxiv.org/abs/2608.11403) — arXiv cs.AI
+- [One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL](https://arxiv.org/abs/2608.12253) — arXiv cs.CL
+- [FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents](https://arxiv.org/abs/2608.11683) — arXiv cs.AI
+- [Self-Evolving Embodied Agents via Skill-Harness Evolution](https://arxiv.org/abs/2608.11350) — arXiv cs.CL
+- [Measure, Don't Optimize: Forecasting Recovery in LLM Unlearning](https://arxiv.org/abs/2608.11408) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-13](digests/2026-08-13.html)
 - [2026-08-12](digests/2026-08-12.html)
 - [2026-08-11](digests/2026-08-11.html)
 - [2026-08-10](digests/2026-08-10.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-12T06:46:57.304907-07:00._
 - [2026-07-17](digests/2026-07-17.html)
 - [2026-07-16](digests/2026-07-16.html)
 - [2026-07-15](digests/2026-07-15.html)
-- [2026-07-14](digests/2026-07-14.html)
 
 ## About this site
 
