@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-13T06:48:04.700461-07:00._
+_Last updated: 2026-08-14T06:42:46.302251-07:00._
 
-[Read the latest digest](digests/2026-08-13.html)
+[Read the latest digest](digests/2026-08-14.html)
 
 ## Latest top links
 
-- [MBA: Multimodal Benchmark and Agents for Real-World Business Ideation](https://arxiv.org/abs/2608.11616) — arXiv cs.AI
-- [Language-Conditional Dequantization: Recovering What Quantization Steals from Non-English Languages](https://arxiv.org/abs/2608.11786) — arXiv cs.CL
-- [AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research](https://arxiv.org/abs/2608.11216) — arXiv cs.AI
-- [When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs](https://arxiv.org/abs/2608.11403) — arXiv cs.AI
-- [One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL](https://arxiv.org/abs/2608.12253) — arXiv cs.CL
-- [FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents](https://arxiv.org/abs/2608.11683) — arXiv cs.AI
-- [Self-Evolving Embodied Agents via Skill-Harness Evolution](https://arxiv.org/abs/2608.11350) — arXiv cs.CL
-- [Measure, Don't Optimize: Forecasting Recovery in LLM Unlearning](https://arxiv.org/abs/2608.11408) — arXiv cs.CL
+- [Predicting consumer-technology ownership without a diffusion history](https://arxiv.org/abs/2608.12344) — arXiv cs.CL
+- [VALG: An Agentic System for ML Theory Research](https://arxiv.org/abs/2608.13060) — arXiv cs.AI
+- [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6) — OpenAI Blog
+- [Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence](https://arxiv.org/abs/2608.12743) — arXiv cs.AI
+- [OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/) — TechCrunch AI
+- [Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments](https://arxiv.org/abs/2608.12368) — arXiv cs.AI
+- [Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation](https://arxiv.org/abs/2608.12385) — arXiv cs.AI
+- [Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance](https://arxiv.org/abs/2608.12323) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-14](digests/2026-08-14.html)
 - [2026-08-13](digests/2026-08-13.html)
 - [2026-08-12](digests/2026-08-12.html)
 - [2026-08-11](digests/2026-08-11.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-13T06:48:04.700461-07:00._
 - [2026-07-18](digests/2026-07-18.html)
 - [2026-07-17](digests/2026-07-17.html)
 - [2026-07-16](digests/2026-07-16.html)
-- [2026-07-15](digests/2026-07-15.html)
 
 ## About this site
 
