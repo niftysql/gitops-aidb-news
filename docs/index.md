@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-14T06:42:46.302251-07:00._
+_Last updated: 2026-08-15T05:58:36.490031-07:00._
 
-[Read the latest digest](digests/2026-08-14.html)
+[Read the latest digest](digests/2026-08-15.html)
 
 ## Latest top links
 
-- [Predicting consumer-technology ownership without a diffusion history](https://arxiv.org/abs/2608.12344) — arXiv cs.CL
-- [VALG: An Agentic System for ML Theory Research](https://arxiv.org/abs/2608.13060) — arXiv cs.AI
-- [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6) — OpenAI Blog
-- [Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence](https://arxiv.org/abs/2608.12743) — arXiv cs.AI
-- [OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/) — TechCrunch AI
-- [Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments](https://arxiv.org/abs/2608.12368) — arXiv cs.AI
-- [Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation](https://arxiv.org/abs/2608.12385) — arXiv cs.AI
-- [Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance](https://arxiv.org/abs/2608.12323) — arXiv cs.CL
+- [Kog is going deeper to squeeze more inference out of GPUs](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/) — TechCrunch AI
+- [Polish Medical Visual Question Answering: Vision-Language Models Underutilize Visual Evidence](https://arxiv.org/abs/2608.12928) — arXiv cs.AI
+- [Explanatory Engagement Under Rare Anomalous Failure: Asymptotic Rarity in Model Behavior (or: The Asymptotic AI)](https://arxiv.org/abs/2608.13063) — arXiv cs.AI
+- [SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries](https://arxiv.org/abs/2608.12654) — arXiv cs.AI
+- [Building agentic workflows with SageMaker AI and Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/) — AWS Machine Learning Blog
+- [Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists](https://arxiv.org/abs/2608.12345) — arXiv cs.AI
+- [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/) — TechCrunch AI
+- [Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge](https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-08-15](digests/2026-08-15.html)
 - [2026-08-14](digests/2026-08-14.html)
 - [2026-08-13](digests/2026-08-13.html)
 - [2026-08-12](digests/2026-08-12.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-14T06:42:46.302251-07:00._
 - [2026-07-19](digests/2026-07-19.html)
 - [2026-07-18](digests/2026-07-18.html)
 - [2026-07-17](digests/2026-07-17.html)
-- [2026-07-16](digests/2026-07-16.html)
 
 ## About this site
 
