@@ -1,22 +1,20 @@
 # Daily AI News
 
-_Last updated: 2026-08-15T05:58:36.490031-07:00._
+_Last updated: 2026-08-16T06:00:31.605567-07:00._
 
-[Read the latest digest](digests/2026-08-15.html)
+[Read the latest digest](digests/2026-08-16.html)
 
 ## Latest top links
 
-- [Kog is going deeper to squeeze more inference out of GPUs](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/) — TechCrunch AI
-- [Polish Medical Visual Question Answering: Vision-Language Models Underutilize Visual Evidence](https://arxiv.org/abs/2608.12928) — arXiv cs.AI
-- [Explanatory Engagement Under Rare Anomalous Failure: Asymptotic Rarity in Model Behavior (or: The Asymptotic AI)](https://arxiv.org/abs/2608.13063) — arXiv cs.AI
-- [SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries](https://arxiv.org/abs/2608.12654) — arXiv cs.AI
-- [Building agentic workflows with SageMaker AI and Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/) — AWS Machine Learning Blog
-- [Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists](https://arxiv.org/abs/2608.12345) — arXiv cs.AI
-- [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/) — TechCrunch AI
-- [Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge](https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/) — AWS Machine Learning Blog
+- [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai) — The Verge AI
+- [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/) — TechCrunch AI
+- [SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/) — TechCrunch AI
+- [Woman claims her stepfather used Grok to transform childhood photo into explicit imagery](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/) — TechCrunch AI
+- [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot) — The Verge AI
 
 ## Recent digests
 
+- [2026-08-16](digests/2026-08-16.html)
 - [2026-08-15](digests/2026-08-15.html)
 - [2026-08-14](digests/2026-08-14.html)
 - [2026-08-13](digests/2026-08-13.html)
@@ -46,7 +44,6 @@ _Last updated: 2026-08-15T05:58:36.490031-07:00._
 - [2026-07-20](digests/2026-07-20.html)
 - [2026-07-19](digests/2026-07-19.html)
 - [2026-07-18](digests/2026-07-18.html)
-- [2026-07-17](digests/2026-07-17.html)
 
 ## About this site
 
