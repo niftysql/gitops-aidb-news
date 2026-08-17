@@ -1,19 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-16T06:00:31.605567-07:00._
+_Last updated: 2026-08-17T06:05:24.494043-07:00._
 
-[Read the latest digest](digests/2026-08-16.html)
+[Read the latest digest](digests/2026-08-17.html)
 
 ## Latest top links
 
-- [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai) — The Verge AI
-- [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/) — TechCrunch AI
-- [SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/) — TechCrunch AI
-- [Woman claims her stepfather used Grok to transform childhood photo into explicit imagery](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/) — TechCrunch AI
-- [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot) — The Verge AI
+- [Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions](https://arxiv.org/abs/2608.13786) — arXiv cs.CL
+- [MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends](https://arxiv.org/abs/2608.13883) — arXiv cs.AI
+- [Jais 2: A Family of Arabic-Centric Open Large Language Models](https://arxiv.org/abs/2608.13580) — arXiv cs.CL
+- [BM25-Augmented Many-Shot Translation for Low-Resource North-Eastern Indian Languages](https://arxiv.org/abs/2608.13722) — arXiv cs.CL
+- [AI Research Preference Models](https://arxiv.org/abs/2608.13940) — arXiv cs.AI
+- [Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis](https://arxiv.org/abs/2608.13608) — arXiv cs.AI
+- [SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data](https://arxiv.org/abs/2608.13612) — arXiv cs.AI
+- [Anthropic explains how Claude’s invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system) — The Verge AI
 
 ## Recent digests
 
+- [2026-08-17](digests/2026-08-17.html)
 - [2026-08-16](digests/2026-08-16.html)
 - [2026-08-15](digests/2026-08-15.html)
 - [2026-08-14](digests/2026-08-14.html)
@@ -43,7 +47,6 @@ _Last updated: 2026-08-16T06:00:31.605567-07:00._
 - [2026-07-21](digests/2026-07-21.html)
 - [2026-07-20](digests/2026-07-20.html)
 - [2026-07-19](digests/2026-07-19.html)
-- [2026-07-18](digests/2026-07-18.html)
 
 ## About this site
 
