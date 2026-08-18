@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-17T06:05:24.494043-07:00._
+_Last updated: 2026-08-18T06:07:24.773765-07:00._
 
-[Read the latest digest](digests/2026-08-17.html)
+[Read the latest digest](digests/2026-08-18.html)
 
 ## Latest top links
 
-- [Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions](https://arxiv.org/abs/2608.13786) — arXiv cs.CL
-- [MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends](https://arxiv.org/abs/2608.13883) — arXiv cs.AI
-- [Jais 2: A Family of Arabic-Centric Open Large Language Models](https://arxiv.org/abs/2608.13580) — arXiv cs.CL
-- [BM25-Augmented Many-Shot Translation for Low-Resource North-Eastern Indian Languages](https://arxiv.org/abs/2608.13722) — arXiv cs.CL
-- [AI Research Preference Models](https://arxiv.org/abs/2608.13940) — arXiv cs.AI
-- [Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis](https://arxiv.org/abs/2608.13608) — arXiv cs.AI
-- [SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data](https://arxiv.org/abs/2608.13612) — arXiv cs.AI
-- [Anthropic explains how Claude’s invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system) — The Verge AI
+- [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) — MIT Technology Review AI
+- [OGX: An Open-Source, Vendor-Neutral Generative AI Application Server](https://arxiv.org/abs/2608.14580) — arXiv cs.AI
+- [Do LLM Agents Negotiate Rationally? A Mechanism-Design Framework for Verifiable Multi-Agent Interaction over A2A/MCP](https://arxiv.org/abs/2608.14613) — arXiv cs.AI
+- [Training Leaves Traces: Centered Residual Signatures for Language Model Lineage Verification](https://arxiv.org/abs/2608.14929) — arXiv cs.CL
+- [When Less Is Enough: Context Selection and Prompting Strategies for Bengali News Headline Generation](https://arxiv.org/abs/2608.15879) — arXiv cs.CL
+- [The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning](https://arxiv.org/abs/2608.14558) — arXiv cs.AI
+- [CEDAR-GRPO: Process-Aware Reinforcement Learning for General Abductive Reasoning in LLMs](https://arxiv.org/abs/2608.14791) — arXiv cs.AI
+- [Beyond Tokens: A Survey on Decoding Methods for Large Language and Vision-Language Models](https://arxiv.org/abs/2608.14797) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-18](digests/2026-08-18.html)
 - [2026-08-17](digests/2026-08-17.html)
 - [2026-08-16](digests/2026-08-16.html)
 - [2026-08-15](digests/2026-08-15.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-17T06:05:24.494043-07:00._
 - [2026-07-22](digests/2026-07-22.html)
 - [2026-07-21](digests/2026-07-21.html)
 - [2026-07-20](digests/2026-07-20.html)
-- [2026-07-19](digests/2026-07-19.html)
 
 ## About this site
 
