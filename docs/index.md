@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-18T06:07:24.773765-07:00._
+_Last updated: 2026-08-19T06:08:27.532846-07:00._
 
-[Read the latest digest](digests/2026-08-18.html)
+[Read the latest digest](digests/2026-08-19.html)
 
 ## Latest top links
 
-- [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/) — MIT Technology Review AI
-- [OGX: An Open-Source, Vendor-Neutral Generative AI Application Server](https://arxiv.org/abs/2608.14580) — arXiv cs.AI
-- [Do LLM Agents Negotiate Rationally? A Mechanism-Design Framework for Verifiable Multi-Agent Interaction over A2A/MCP](https://arxiv.org/abs/2608.14613) — arXiv cs.AI
-- [Training Leaves Traces: Centered Residual Signatures for Language Model Lineage Verification](https://arxiv.org/abs/2608.14929) — arXiv cs.CL
-- [When Less Is Enough: Context Selection and Prompting Strategies for Bengali News Headline Generation](https://arxiv.org/abs/2608.15879) — arXiv cs.CL
-- [The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning](https://arxiv.org/abs/2608.14558) — arXiv cs.AI
-- [CEDAR-GRPO: Process-Aware Reinforcement Learning for General Abductive Reasoning in LLMs](https://arxiv.org/abs/2608.14791) — arXiv cs.AI
-- [Beyond Tokens: A Survey on Decoding Methods for Large Language and Vision-Language Models](https://arxiv.org/abs/2608.14797) — arXiv cs.CL
+- [Write, Execute, Refine: From Skill Followers to Skill Optimizers via Reinforcement Learning from Execution Feedback](https://arxiv.org/abs/2608.17587) — arXiv cs.CL
+- [Benchmarking the Benchmarks: Evaluating Automated Safety Benchmarks for Small Language Models](https://arxiv.org/abs/2608.17183) — arXiv cs.AI
+- [StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows](https://arxiv.org/abs/2608.17800) — arXiv cs.AI
+- [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/) — TechCrunch AI
+- [KernelArc: A Multi-Agent Framework for GPU Kernel Optimization](https://arxiv.org/abs/2608.17071) — arXiv cs.AI
+- [PlanPO: Group Planning-Aware Policy Optimization for Multi-Turn Agentic LLMs](https://arxiv.org/abs/2608.17289) — arXiv cs.AI
+- [AISA: AI Safety Assistant Framework for Continuous Improvement of Highway Construction](https://arxiv.org/abs/2608.17184) — arXiv cs.CL
+- [Temporal Leakage in Financial News NLP: A Multi-Architecture Audit with a Regime-Specific M&A Signal](https://arxiv.org/abs/2608.17223) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-19](digests/2026-08-19.html)
 - [2026-08-18](digests/2026-08-18.html)
 - [2026-08-17](digests/2026-08-17.html)
 - [2026-08-16](digests/2026-08-16.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-18T06:07:24.773765-07:00._
 - [2026-07-23](digests/2026-07-23.html)
 - [2026-07-22](digests/2026-07-22.html)
 - [2026-07-21](digests/2026-07-21.html)
-- [2026-07-20](digests/2026-07-20.html)
 
 ## About this site
 
