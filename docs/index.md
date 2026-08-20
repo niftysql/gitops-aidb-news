@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-19T06:08:27.532846-07:00._
+_Last updated: 2026-08-20T06:11:07.046334-07:00._
 
-[Read the latest digest](digests/2026-08-19.html)
+[Read the latest digest](digests/2026-08-20.html)
 
 ## Latest top links
 
-- [Write, Execute, Refine: From Skill Followers to Skill Optimizers via Reinforcement Learning from Execution Feedback](https://arxiv.org/abs/2608.17587) — arXiv cs.CL
-- [Benchmarking the Benchmarks: Evaluating Automated Safety Benchmarks for Small Language Models](https://arxiv.org/abs/2608.17183) — arXiv cs.AI
-- [StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows](https://arxiv.org/abs/2608.17800) — arXiv cs.AI
-- [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/) — TechCrunch AI
-- [KernelArc: A Multi-Agent Framework for GPU Kernel Optimization](https://arxiv.org/abs/2608.17071) — arXiv cs.AI
-- [PlanPO: Group Planning-Aware Policy Optimization for Multi-Turn Agentic LLMs](https://arxiv.org/abs/2608.17289) — arXiv cs.AI
-- [AISA: AI Safety Assistant Framework for Continuous Improvement of Highway Construction](https://arxiv.org/abs/2608.17184) — arXiv cs.CL
-- [Temporal Leakage in Financial News NLP: A Multi-Architecture Audit with a Regime-Specific M&A Signal](https://arxiv.org/abs/2608.17223) — arXiv cs.CL
+- [Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry](https://arxiv.org/abs/2608.18111) — arXiv cs.AI
+- [Looped Language Models Improve Compositional Tool Calling](https://arxiv.org/abs/2608.18171) — arXiv cs.AI
+- [Cacheable by Design? Training Mixture-of-Experts Routers for Locality Against the Edge Memory-Bandwidth Wall: A Pre-Registered Negative Result with a Systems Measurement Study](https://arxiv.org/abs/2608.18261) — arXiv cs.AI
+- [Do Large Language Models Hallucinate Electric Fata Morganas?](https://arxiv.org/abs/2608.18816) — arXiv cs.CL
+- [A Multi-Agent Platform for Automated Enterprise Analytics and Insight Generation](https://arxiv.org/abs/2608.18740) — arXiv cs.AI
+- [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models) — OpenAI Blog
+- [Binance now lets AI agents trade, but keeping them in check is largely up to users](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/) — TechCrunch AI
+- [Persona-Guided LLM Agents for Task-Oriented Dialogue](https://arxiv.org/abs/2608.18085) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-20](digests/2026-08-20.html)
 - [2026-08-19](digests/2026-08-19.html)
 - [2026-08-18](digests/2026-08-18.html)
 - [2026-08-17](digests/2026-08-17.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-19T06:08:27.532846-07:00._
 - [2026-07-24](digests/2026-07-24.html)
 - [2026-07-23](digests/2026-07-23.html)
 - [2026-07-22](digests/2026-07-22.html)
-- [2026-07-21](digests/2026-07-21.html)
 
 ## About this site
 
