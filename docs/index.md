@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-20T06:11:07.046334-07:00._
+_Last updated: 2026-08-21T06:10:39.050457-07:00._
 
-[Read the latest digest](digests/2026-08-20.html)
+[Read the latest digest](digests/2026-08-21.html)
 
 ## Latest top links
 
-- [Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry](https://arxiv.org/abs/2608.18111) — arXiv cs.AI
-- [Looped Language Models Improve Compositional Tool Calling](https://arxiv.org/abs/2608.18171) — arXiv cs.AI
-- [Cacheable by Design? Training Mixture-of-Experts Routers for Locality Against the Edge Memory-Bandwidth Wall: A Pre-Registered Negative Result with a Systems Measurement Study](https://arxiv.org/abs/2608.18261) — arXiv cs.AI
-- [Do Large Language Models Hallucinate Electric Fata Morganas?](https://arxiv.org/abs/2608.18816) — arXiv cs.CL
-- [A Multi-Agent Platform for Automated Enterprise Analytics and Insight Generation](https://arxiv.org/abs/2608.18740) — arXiv cs.AI
-- [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models) — OpenAI Blog
-- [Binance now lets AI agents trade, but keeping them in check is largely up to users](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/) — TechCrunch AI
-- [Persona-Guided LLM Agents for Task-Oriented Dialogue](https://arxiv.org/abs/2608.18085) — arXiv cs.CL
+- [Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents](https://arxiv.org/abs/2608.19794) — arXiv cs.AI
+- [Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Time-Series Retrieval for Grounding Multimodal Language Models in Remaining Useful Life](https://arxiv.org/abs/2608.19218) — arXiv cs.CL
+- [OpenAI is gaining on Anthropic with business users, new data indicates](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/) — TechCrunch AI
+- [Frequency-Aware Continual Learning for Smart Contract Vulnerability Detection with Large Language Models](https://arxiv.org/abs/2608.19680) — arXiv cs.AI
+- [SafeBranch: Branch-Pair Safety Alignment for Embodied Agents](https://arxiv.org/abs/2608.19729) — arXiv cs.AI
+- [SAPO: Single-Rollout Autoregressive Policy Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.19842) — arXiv cs.AI
+- [ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents](https://arxiv.org/abs/2608.19662) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-21](digests/2026-08-21.html)
 - [2026-08-20](digests/2026-08-20.html)
 - [2026-08-19](digests/2026-08-19.html)
 - [2026-08-18](digests/2026-08-18.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-20T06:11:07.046334-07:00._
 - [2026-07-25](digests/2026-07-25.html)
 - [2026-07-24](digests/2026-07-24.html)
 - [2026-07-23](digests/2026-07-23.html)
-- [2026-07-22](digests/2026-07-22.html)
 
 ## About this site
 
