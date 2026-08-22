@@ -1,22 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-21T06:10:39.050457-07:00._
+_Last updated: 2026-08-22T06:00:49.227870-07:00._
 
-[Read the latest digest](digests/2026-08-21.html)
+[Read the latest digest](digests/2026-08-22.html)
 
 ## Latest top links
 
-- [Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents](https://arxiv.org/abs/2608.19794) — arXiv cs.AI
-- [Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Time-Series Retrieval for Grounding Multimodal Language Models in Remaining Useful Life](https://arxiv.org/abs/2608.19218) — arXiv cs.CL
-- [OpenAI is gaining on Anthropic with business users, new data indicates](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/) — TechCrunch AI
-- [Frequency-Aware Continual Learning for Smart Contract Vulnerability Detection with Large Language Models](https://arxiv.org/abs/2608.19680) — arXiv cs.AI
-- [SafeBranch: Branch-Pair Safety Alignment for Embodied Agents](https://arxiv.org/abs/2608.19729) — arXiv cs.AI
-- [SAPO: Single-Rollout Autoregressive Policy Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.19842) — arXiv cs.AI
-- [ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents](https://arxiv.org/abs/2608.19662) — arXiv cs.CL
+- [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/) — TechCrunch AI
+- [Nvidia just showed that the harness, not the AI model, is now the real hero](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/) — TechCrunch AI
+- [Govern AI agent tool access with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/) — AWS Machine Learning Blog
+- [Agentic Data Operations Platform (ADOP): Data engineering into hours](https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/) — AWS Machine Learning Blog
+- [Reduce RAG costs on Amazon Bedrock with query-aware compression](https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/) — AWS Machine Learning Blog
+- [Accelerating aircraft IFEC diagnostics with agentic AI on AWS](https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/) — AWS Machine Learning Blog
+- [Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/) — TechCrunch AI
+- [The DOJ is investigating a16z. What does this mean for venture capital?](https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-08-22](digests/2026-08-22.html)
 - [2026-08-21](digests/2026-08-21.html)
 - [2026-08-20](digests/2026-08-20.html)
 - [2026-08-19](digests/2026-08-19.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-21T06:10:39.050457-07:00._
 - [2026-07-26](digests/2026-07-26.html)
 - [2026-07-25](digests/2026-07-25.html)
 - [2026-07-24](digests/2026-07-24.html)
-- [2026-07-23](digests/2026-07-23.html)
 
 ## About this site
 
