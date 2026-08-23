@@ -1,22 +1,19 @@
 # Daily AI News
 
-_Last updated: 2026-08-22T06:00:49.227870-07:00._
+_Last updated: 2026-08-23T06:01:58.037542-07:00._
 
-[Read the latest digest](digests/2026-08-22.html)
+[Read the latest digest](digests/2026-08-23.html)
 
 ## Latest top links
 
-- [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/) — TechCrunch AI
-- [Nvidia just showed that the harness, not the AI model, is now the real hero](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/) — TechCrunch AI
-- [Govern AI agent tool access with Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/) — AWS Machine Learning Blog
-- [Agentic Data Operations Platform (ADOP): Data engineering into hours](https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/) — AWS Machine Learning Blog
-- [Reduce RAG costs on Amazon Bedrock with query-aware compression](https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/) — AWS Machine Learning Blog
-- [Accelerating aircraft IFEC diagnostics with agentic AI on AWS](https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/) — AWS Machine Learning Blog
-- [Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/) — TechCrunch AI
-- [The DOJ is investigating a16z. What does this mean for venture capital?](https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/) — TechCrunch AI
+- [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/) — TechCrunch AI
+- [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) — TechCrunch AI
+- [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/) — TechCrunch AI
+- [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-08-23](digests/2026-08-23.html)
 - [2026-08-22](digests/2026-08-22.html)
 - [2026-08-21](digests/2026-08-21.html)
 - [2026-08-20](digests/2026-08-20.html)
@@ -46,7 +43,6 @@ _Last updated: 2026-08-22T06:00:49.227870-07:00._
 - [2026-07-27](digests/2026-07-27.html)
 - [2026-07-26](digests/2026-07-26.html)
 - [2026-07-25](digests/2026-07-25.html)
-- [2026-07-24](digests/2026-07-24.html)
 
 ## About this site
 
