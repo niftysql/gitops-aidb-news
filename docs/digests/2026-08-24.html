@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daily AI News — 2026-08-24</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.65;
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    h1, h2, h3 { line-height: 1.25; }
+    a { text-underline-offset: 0.15em; }
+    code {
+      padding: 0.1rem 0.25rem;
+      border-radius: 0.25rem;
+      background: color-mix(in srgb, CanvasText 10%, transparent);
+    }
+    li { margin: 0.35rem 0; }
+    hr { margin: 2rem 0; }
+    .nav { margin-bottom: 2rem; color: color-mix(in srgb, CanvasText 70%, transparent); }
+  </style>
+</head>
+<body>
+<div class="nav"><a href="../index.html">Home</a></div>
+<h1>Daily AI News — 2026-08-24</h1>
+<p><em>Generated at 2026-08-24T06:12:50.578985-07:00 by a GitHub Actions GitOps pipeline.</em></p>
+<h2 id="top-stories">Top stories</h2>
+<ul>
+<li><a href="https://arxiv.org/abs/2608.20342" rel="noopener noreferrer">PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure</a> — arXiv cs.AI, 2026-08-24 04:00 UTC. Score 10.1 — arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic&#x27;s terminal-based coding agent -- pre-loaded with relevant memories compiled from the user&#x27;s existing personal databases. At spawn time, PAO queries two independently-operated memory backends in parallel (a PostgreSQL entity-observation database and a Cloudflare Worker semantic search index), fuses results using backend-specific retrieval strategies, and d…</li>
+<li><a href="https://arxiv.org/abs/2608.20940" rel="noopener noreferrer">The Logic of Machine Self-Preservation</a> — arXiv cs.AI, 2026-08-24 04:00 UTC. Score 9.2 — arXiv:2608.20940v1 Announce Type: new Abstract: There is already evidence of agentic AI exhibiting self-preservation behaviors: resisting deactivation, misrepresenting their activities, and, in some instances, attempting to copy themselves into other machines. This can be attributed to a phenomenon known as instrumental convergence, a theory proposed long before the development of large language models, which says that any goal-driven system will benefit from remaining functional in achieving its objective. Several experiments conducted by Anthropic, Palisade Research, and Apollo Research have shown the emergence of such a behavior in contem…</li>
+<li><a href="https://arxiv.org/abs/2608.20397" rel="noopener noreferrer">Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory</a> — arXiv cs.AI, 2026-08-24 04:00 UTC. Score 8.4 — arXiv:2608.20397v1 Announce Type: new Abstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus&#x27;s primary lever is to decouple routing from the schema-prefill cost: an INT8 semantic lookaside buffer (SLB) with a calibrated cross-encoder margin gate selects tools by retrieval, and arguments are generated over a compressed textual signature (median 19 tokens) rather than over spliced key/value (KV) cache. This path is depth-independent: routing accuracy stays near…</li>
+<li><a href="https://arxiv.org/abs/2608.20518" rel="noopener noreferrer">FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning</a> — arXiv cs.AI, 2026-08-24 04:00 UTC. Score 8.4 — arXiv:2608.20518v1 Announce Type: new Abstract: In Federated Learning (FL), the communication topology is a runtime variable rather than a fixed design choice, since links and edge devices drop in and out during training. Each round, the server must commit three coupled decisions, namely the communication topology, per-client resource allocation, and the aggregation rule for combining local updates. Recent agentic systems have begun bringing large language models (LLM) into FL, but the existing line of work either operates at setup time or handles a single runtime dimension such as client selection. We propose FL-MAESTRO, a multi-agent orche…</li>
+<li><a href="https://arxiv.org/abs/2608.20350" rel="noopener noreferrer">How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel</a> — arXiv cs.CL, 2026-08-24 04:00 UTC. Score 8.4 — arXiv:2608.20350v1 Announce Type: new Abstract: Traditional industrial agents rely on modular pipelines, including Router, Retriever, Planner, Executor, Responder, Reviewer, and other components. These systems often fracture into a labyrinth of ad-hoc patches, leading to cascading errors and high latency. We propose OneModel, an applicable paradigm shift from external workflows to internalized knowledge representation. Unlike modular systems that slice fluid user intents into static steps, OneModel consolidates complex business logic and SOPs directly into the model parameters. Through Continual Pre-training (CPT) and logic-compilation SFT,…</li>
+<li><a href="https://arxiv.org/abs/2608.20359" rel="noopener noreferrer">Self-Speculation for Faster Reasoning Models</a> — arXiv cs.CL, 2026-08-24 04:00 UTC. Score 8.4 — arXiv:2608.20359v1 Announce Type: new Abstract: Large language models (LLMs) are deployed for increasingly complex tasks involving planning and multi-step decision making, but high-quality performance on these tasks often requires generating long reasoning traces. This is a poor fit for latency-sensitive and interactive applications like voice assistants or coding agents, where generation latency can strongly affect user experience. Existing acceleration methods typically focus on token-level generation, without utilizing the structure of reasoning workflows. We introduce SSR: Self-Speculation for Reasoning Models, a training-free self-specu…</li>
+<li><a href="https://arxiv.org/abs/2608.20362" rel="noopener noreferrer">Multilingual Verifier Bias in RLVR: Benchmark, Rollout Diagnosis, and the Cross-Lingual Selection Bottleneck</a> — arXiv cs.CL, 2026-08-24 04:00 UTC. Score 8.4 — arXiv:2608.20362v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) is a standard recipe for training large language models on mathematical reasoning, where an answer verifier serves as a language-neutral reward function. We show that this assumption fails in multilingual settings: an exact-match verifier turns format and script variation into language-dependent false-negative reward noise. We introduce a reusable protocol for auditing multilingual RLVR rewards: a verifier-robustness suite, a rollout-diagnosis procedure, and language-conditioned reward-error metrics for Japanese, English, and Chinese answers…</li>
+<li><a href="https://arxiv.org/abs/2608.20634" rel="noopener noreferrer">AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale</a> — arXiv cs.CL, 2026-08-24 04:00 UTC. Score 8.4 — arXiv:2608.20634v1 Announce Type: new Abstract: Agents learn to act through interaction with environments, yet the environments used for training are often manually constructed or synthesized around predefined tasks and benchmarks. This task-centric paradigm makes it difficult to scale environments that reflect realistic and evolving workflows where diverse tasks can naturally emerge from the underlying world. We introduce AgentMercury, a scalable framework for synthesizing executable environments from high-level business scenarios. Rather than constructing an environment for a specific task, AgentMercury first instantiates a persistent worl…</li>
+<li><a href="https://arxiv.org/abs/2510.16211" rel="noopener noreferrer">Benchmarking noisy label detection methods</a> — arXiv stat.ML, 2026-08-24 04:00 UTC. Score 8.4 — arXiv:2510.16211v2 Announce Type: replace-cross Abstract: Label noise is a common problem in real-world datasets, affecting both model training and validation. Clean data are essential for achieving strong performance and ensuring reliable evaluation. While various techniques have been proposed to detect noisy labels (or label errors), there is no clear consensus on optimal approaches. We perform a comprehensive benchmark of detection methods by decomposing them into three fundamental components: gathering strategy (in-sample vs out-of-sample), label disagreement measure, and aggregation method. This decomposition can be applied to many exis…</li>
+<li><a href="https://arxiv.org/abs/2606.13629" rel="noopener noreferrer">Valid Inference with Synthetic Data via Task Exchangeability</a> — arXiv stat.ML, 2026-08-24 04:00 UTC. Score 7.5 — arXiv:2606.13629v2 Announce Type: replace-cross Abstract: There is a proliferation of work arguing for the use of synthetic data in scientific research. For example, social scientists are arguing for the use of LLM-generated &quot;silicon samples&quot; in pilot studies; AI evaluations increasingly rely on &quot;LLM-as-a-judge&quot; outputs; and proteomics research is accelerated by generative models that produce synthetic protein structures. These developments raise an intriguing possibility: synthetic data may help researchers ask more questions, run more studies, and accelerate discovery. But they also raise a fundamental concern: synthetic data can be biased…</li>
+</ul>
+<h2 id="signals-to-watch">Signals to watch</h2>
+<ul>
+<li>Most represented sources: arXiv cs.AI (4), arXiv cs.CL (4), arXiv stat.ML (4), TechCrunch AI (4).</li>
+<li>Recurring themes: model (13), training (8), agent (7), benchmark (3), anthropic (2), research (2), claude (1), mcp (1).</li>
+<li>Review the raw JSON output in <code>data/items/</code> if you want to audit scoring or feed coverage.</li>
+</ul>
+<h2 id="all-links">All links</h2>
+<ul>
+<li><a href="https://arxiv.org/abs/2608.20342" rel="noopener noreferrer">PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure</a> — arXiv cs.AI</li>
+<li><a href="https://arxiv.org/abs/2608.20940" rel="noopener noreferrer">The Logic of Machine Self-Preservation</a> — arXiv cs.AI</li>
+<li><a href="https://arxiv.org/abs/2608.20397" rel="noopener noreferrer">Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory</a> — arXiv cs.AI</li>
+<li><a href="https://arxiv.org/abs/2608.20518" rel="noopener noreferrer">FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning</a> — arXiv cs.AI</li>
+<li><a href="https://arxiv.org/abs/2608.20350" rel="noopener noreferrer">How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel</a> — arXiv cs.CL</li>
+<li><a href="https://arxiv.org/abs/2608.20359" rel="noopener noreferrer">Self-Speculation for Faster Reasoning Models</a> — arXiv cs.CL</li>
+<li><a href="https://arxiv.org/abs/2608.20362" rel="noopener noreferrer">Multilingual Verifier Bias in RLVR: Benchmark, Rollout Diagnosis, and the Cross-Lingual Selection Bottleneck</a> — arXiv cs.CL</li>
+<li><a href="https://arxiv.org/abs/2608.20634" rel="noopener noreferrer">AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale</a> — arXiv cs.CL</li>
+<li><a href="https://arxiv.org/abs/2510.16211" rel="noopener noreferrer">Benchmarking noisy label detection methods</a> — arXiv stat.ML</li>
+<li><a href="https://arxiv.org/abs/2606.13629" rel="noopener noreferrer">Valid Inference with Synthetic Data via Task Exchangeability</a> — arXiv stat.ML</li>
+<li><a href="https://arxiv.org/abs/2608.20480" rel="noopener noreferrer">When Clean Data Hurts: Learning with Monotone Corruptions Beyond Binary Classification</a> — arXiv stat.ML</li>
+<li><a href="https://arxiv.org/abs/2606.09052" rel="noopener noreferrer">INFUSER: Influence-Guided Self-Evolution Improves Reasoning</a> — arXiv stat.ML</li>
+<li><a href="https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/" rel="noopener noreferrer">Kids outlearn AI—and we still don’t know why</a> — MIT Technology Review AI</li>
+<li><a href="https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/" rel="noopener noreferrer">Who’s behind the new ‘stealth model’ Ox Alpha?</a> — TechCrunch AI</li>
+<li><a href="https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/" rel="noopener noreferrer">Is it legal to train AI models on copyrighted books? It’s complicated</a> — TechCrunch AI</li>
+<li><a href="https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/" rel="noopener noreferrer">Linkdaze’s smart calendar is built to run a household, not just track a schedule</a> — TechCrunch AI</li>
+<li><a href="https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/" rel="noopener noreferrer">Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash</a> — TechCrunch AI</li>
+</ul>
+<hr>
+<h3 id="pipeline-metadata">Pipeline metadata</h3>
+<ul>
+<li>Selected items: 17</li>
+<li>AI summarization: deterministic fallback</li>
+<li>Source data: <code>data/items/</code> in this repository</li>
+</ul>
+</body>
+</html>

@@ -1,18 +1,23 @@
 # Daily AI News
 
-_Last updated: 2026-08-23T06:01:58.037542-07:00._
+_Last updated: 2026-08-24T06:12:50.578985-07:00._
 
-[Read the latest digest](digests/2026-08-23.html)
+[Read the latest digest](digests/2026-08-24.html)
 
 ## Latest top links
 
-- [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/) — TechCrunch AI
-- [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) — TechCrunch AI
-- [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/) — TechCrunch AI
-- [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) — TechCrunch AI
+- [PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure](https://arxiv.org/abs/2608.20342) — arXiv cs.AI
+- [The Logic of Machine Self-Preservation](https://arxiv.org/abs/2608.20940) — arXiv cs.AI
+- [Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory](https://arxiv.org/abs/2608.20397) — arXiv cs.AI
+- [FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning](https://arxiv.org/abs/2608.20518) — arXiv cs.AI
+- [How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel](https://arxiv.org/abs/2608.20350) — arXiv cs.CL
+- [Self-Speculation for Faster Reasoning Models](https://arxiv.org/abs/2608.20359) — arXiv cs.CL
+- [Multilingual Verifier Bias in RLVR: Benchmark, Rollout Diagnosis, and the Cross-Lingual Selection Bottleneck](https://arxiv.org/abs/2608.20362) — arXiv cs.CL
+- [AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale](https://arxiv.org/abs/2608.20634) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-08-24](digests/2026-08-24.html)
 - [2026-08-23](digests/2026-08-23.html)
 - [2026-08-22](digests/2026-08-22.html)
 - [2026-08-21](digests/2026-08-21.html)
@@ -42,7 +47,6 @@ _Last updated: 2026-08-23T06:01:58.037542-07:00._
 - [2026-07-28](digests/2026-07-28.html)
 - [2026-07-27](digests/2026-07-27.html)
 - [2026-07-26](digests/2026-07-26.html)
-- [2026-07-25](digests/2026-07-25.html)
 
 ## About this site
 
