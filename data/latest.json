@@ -1,6 +1,6 @@
 {
   "digest_date": "2026-08-25",
-  "generated_at": "2026-08-25T13:20:39.406344+12:00",
+  "generated_at": "2026-08-25T13:26:37.147763+12:00",
   "items": [
     {
       "canonical_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
@@ -222,19 +222,6 @@
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Direct-Lake-Calculated-Columns-Preview/ba-p/5357159"
     },
     {
-      "canonical_url": "https://www.sqlbi.com/articles/testing-dax-measures-by-using-ai",
-      "published": "2026-08-24T20:00:44+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model"
-      ],
-      "score": 5.6,
-      "source": "SQLBI",
-      "summary": "This article describes how to use AI to identify relevant test cases in a semantic model and create repeatable DAX tests for a measure. A DAX measure is correct only when it produces the expected result in every situation of…",
-      "title": "Testing DAX measures by using AI",
-      "url": "https://www.sqlbi.com/articles/testing-dax-measures-by-using-ai/"
-    },
-    {
       "canonical_url": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery",
       "published": "2026-08-24T16:22:03+00:00",
       "reasons": [
@@ -259,6 +246,20 @@
       "summary": "Metadata harmonization (standardizing labels, identifiers, and formats so datasets can work together) is still largely manual. This post shows how AI-powered metadata correction works in practice, covering two approaches, human-in-the-loop validation and autonomous agent-driven workflows, plus governance considerations for production deployment.",
       "title": "AI-powered metadata correction and harmonization",
       "url": "https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+      "published": "2026-08-24T18:03:55+00:00",
+      "reasons": [
+        "fresh <12h",
+        "privacy",
+        "security"
+      ],
+      "score": 5.1,
+      "source": "TechCrunch AI",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
     }
   ]
 }
