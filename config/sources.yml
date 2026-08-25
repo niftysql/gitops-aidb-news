@@ -1,6 +1,6 @@
 site:
-  title: "Daily AI News"
-  timezone: "America/Vancouver"
+  title: "Daily AI & DB News"
+  timezone: "Pacific/Auckland"
   hours_back: 36
   max_items: 18
   max_per_source: 4
@@ -37,6 +37,9 @@ keywords:
     - "github copilot"
     - "mcp"
     - "regulation"
+    - "sql server"
+    - "postgreql"
+    - "oracle"
   medium:
     - "machine learning"
     - "robotics"
@@ -49,6 +52,10 @@ keywords:
     - "security"
     - "developer"
     - "enterprise"
+    - "mysql"
+    - "fabric"
+    - "databricks"
+    - "powerbi"
   penalty:
     - "sponsored"
     - "podcast"
@@ -107,3 +114,34 @@ feeds:
   - name: "arXiv stat.ML"
     url: "https://export.arxiv.org/rss/stat.ML"
     weight: 1.0
+  - name: "SQLServerCentral"
+    url: "https://www.sqlservercentral.com/blogs/feed"
+    weight: 1.7
+  - name: "Microsoft SQL Server Blog"
+    url: "https://cloudblogs.microsoft.com/sqlserver/feed/"
+    weight: 1.8
+  - name: "PostgreSQL Official News"
+    url: "https://www.postgresql.org/news/rss.xml"
+    weight: 1.8
+  - name: "Planet PostgreSQL"
+    url: "https://planet.postgresql.org/rss20.xml"
+    weight: 1.5
+  - name: "Chris Webb's BI Blog"
+    url: "https://blog.crossjoin.co.uk/feed"
+    weight: 1.7
+  - name: "Microsoft Power BI Blog"
+    url: "https://powerbi.microsoft.com/en-us/blog/feed/"
+    weight: 1.8
+  - name: "Oracle Database Blog"
+    url: "https://blogs.oracle.com/database/feed"
+    weight: 1.7
+  - name: "AskTom Oracle"
+    url: "https://asktom.oracle.com/pls/apex/f?p=100:ATOM"
+    weight: 1.4
+  - name: "Microsoft Fabric Blog"
+    url: "https://techcommunity.microsoft.com/t5/microsoft-fabric-blog/bg-p/MicrosoftFabricBlog/rss"
+    weight: 1.8
+  - name: "SQLBI"
+    url: "https://www.sqlbi.com/feed/"
+    weight: 1.6
+
