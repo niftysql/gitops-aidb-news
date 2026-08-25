@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-08-25T13:26:37.147763+12:00._
+_Last updated: 2026-08-26T05:47:24.663833+12:00._
 
-[Read the latest digest](digests/2026-08-25.html)
+[Read the latest digest](digests/2026-08-26.html)
 
 ## Latest top links
 
-- [Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics](https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/) — TechCrunch AI
-- [StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models](https://arxiv.org/abs/2608.20414) — arXiv cs.AI
-- [Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.20631) — arXiv cs.AI
-- [DreamBench-SWE: A Multi-Session Memory-Hygiene Benchmark for Software Agents](https://arxiv.org/abs/2608.20664) — arXiv cs.AI
-- [Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization](https://arxiv.org/abs/2608.20768) — arXiv cs.AI
-- [AsmEvo: Agentic Assembly-Level Optimization of AMD GPU Kernels with Functional Equivalence Verification](https://arxiv.org/abs/2608.20711) — arXiv cs.CL
-- [Introducing new Ray capabilities on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/) — AWS Machine Learning Blog
-- [Building a restaurant telephony AI host with Amazon Connect](https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/) — AWS Machine Learning Blog
+- [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results) — OpenAI Blog
+- [OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show](https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/) — TechCrunch AI
+- [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence) — OpenAI Blog
+- [LLM4LLM: Bridging Kernel Benchmarks and Real Deployment via Closed-Loop Agentic Optimization](https://arxiv.org/abs/2608.21836) — arXiv cs.AI
+- [Can LLMs Truly Forget? Revealing Unlearning Gaps Through Adversarial Evaluation](https://arxiv.org/abs/2608.21606) — arXiv cs.CL
+- [Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference](https://arxiv.org/abs/2608.21393) — arXiv cs.AI
+- [CausalSmith: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference](https://arxiv.org/abs/2607.22511) — arXiv stat.ML
+- [Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents](https://arxiv.org/abs/2608.21830) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-08-26](digests/2026-08-26.html)
 - [2026-08-25](digests/2026-08-25.html)
 - [2026-08-24](digests/2026-08-24.html)
 - [2026-08-23](digests/2026-08-23.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-25T13:26:37.147763+12:00._
 - [2026-07-30](digests/2026-07-30.html)
 - [2026-07-29](digests/2026-07-29.html)
 - [2026-07-28](digests/2026-07-28.html)
-- [2026-07-27](digests/2026-07-27.html)
 
 ## About this site
 
