@@ -120,9 +120,6 @@ feeds:
   - name: "Microsoft SQL Server Blog"
     url: "https://cloudblogs.microsoft.com/sqlserver/feed/"
     weight: 1.8
-  - name: "PostgreSQL Official News"
-    url: "https://www.postgresql.org/news/rss.xml"
-    weight: 1.8
   - name: "Planet PostgreSQL"
     url: "https://planet.postgresql.org/rss20.xml"
     weight: 1.5
