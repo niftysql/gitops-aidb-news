@@ -1,22 +1,23 @@
-# Daily AI News
+# Daily AI & DB News
 
-_Last updated: 2026-08-24T06:12:50.578985-07:00._
+_Last updated: 2026-08-25T13:20:39.406344+12:00._
 
-[Read the latest digest](digests/2026-08-24.html)
+[Read the latest digest](digests/2026-08-25.html)
 
 ## Latest top links
 
-- [PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure](https://arxiv.org/abs/2608.20342) — arXiv cs.AI
-- [The Logic of Machine Self-Preservation](https://arxiv.org/abs/2608.20940) — arXiv cs.AI
-- [Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory](https://arxiv.org/abs/2608.20397) — arXiv cs.AI
-- [FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning](https://arxiv.org/abs/2608.20518) — arXiv cs.AI
-- [How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel](https://arxiv.org/abs/2608.20350) — arXiv cs.CL
-- [Self-Speculation for Faster Reasoning Models](https://arxiv.org/abs/2608.20359) — arXiv cs.CL
-- [Multilingual Verifier Bias in RLVR: Benchmark, Rollout Diagnosis, and the Cross-Lingual Selection Bottleneck](https://arxiv.org/abs/2608.20362) — arXiv cs.CL
-- [AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale](https://arxiv.org/abs/2608.20634) — arXiv cs.CL
+- [Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics](https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/) — TechCrunch AI
+- [StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models](https://arxiv.org/abs/2608.20414) — arXiv cs.AI
+- [Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.20631) — arXiv cs.AI
+- [DreamBench-SWE: A Multi-Session Memory-Hygiene Benchmark for Software Agents](https://arxiv.org/abs/2608.20664) — arXiv cs.AI
+- [Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization](https://arxiv.org/abs/2608.20768) — arXiv cs.AI
+- [AsmEvo: Agentic Assembly-Level Optimization of AMD GPU Kernels with Functional Equivalence Verification](https://arxiv.org/abs/2608.20711) — arXiv cs.CL
+- [Introducing new Ray capabilities on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/) — AWS Machine Learning Blog
+- [Building a restaurant telephony AI host with Amazon Connect](https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-08-25](digests/2026-08-25.html)
 - [2026-08-24](digests/2026-08-24.html)
 - [2026-08-23](digests/2026-08-23.html)
 - [2026-08-22](digests/2026-08-22.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-24T06:12:50.578985-07:00._
 - [2026-07-29](digests/2026-07-29.html)
 - [2026-07-28](digests/2026-07-28.html)
 - [2026-07-27](digests/2026-07-27.html)
-- [2026-07-26](digests/2026-07-26.html)
 
 ## About this site
 
