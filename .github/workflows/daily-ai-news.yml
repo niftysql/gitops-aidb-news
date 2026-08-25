@@ -9,9 +9,9 @@ on:
         type: boolean
         default: false
   schedule:
-    # Runs daily at 5:17 AM America/Vancouver. The odd minute avoids top-of-hour load.
+    # Runs daily at 5:17 AM Wellington/New Zealand. The odd minute avoids top-of-hour load.
     - cron: "17 5 * * *"
-      timezone: "America/Vancouver"
+      timezone: "Pacific/Auckland"
 
 permissions:
   contents: write   # commit generated Markdown/JSON back to the repository
