@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-08-26T05:47:24.663833+12:00._
+_Last updated: 2026-08-27T07:22:30.911777+12:00._
 
-[Read the latest digest](digests/2026-08-26.html)
+[Read the latest digest](digests/2026-08-27.html)
 
 ## Latest top links
 
-- [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results) — OpenAI Blog
-- [OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show](https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/) — TechCrunch AI
-- [The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence) — OpenAI Blog
-- [LLM4LLM: Bridging Kernel Benchmarks and Real Deployment via Closed-Loop Agentic Optimization](https://arxiv.org/abs/2608.21836) — arXiv cs.AI
-- [Can LLMs Truly Forget? Revealing Unlearning Gaps Through Adversarial Evaluation](https://arxiv.org/abs/2608.21606) — arXiv cs.CL
-- [Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference](https://arxiv.org/abs/2608.21393) — arXiv cs.AI
-- [CausalSmith: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference](https://arxiv.org/abs/2607.22511) — arXiv stat.ML
-- [Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents](https://arxiv.org/abs/2608.21830) — arXiv cs.AI
+- [Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/) — AWS Machine Learning Blog
+- [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/) — MIT Technology Review AI
+- [ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence](https://arxiv.org/abs/2608.23569) — arXiv cs.AI
+- [OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses](https://arxiv.org/abs/2608.24160) — arXiv cs.AI
+- [Connect Amazon Bedrock AgentCore to cross-account knowledge bases](https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/) — AWS Machine Learning Blog
+- [Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts) — OpenAI Blog
+- [Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops) — OpenAI Blog
+- [RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation](https://arxiv.org/abs/2608.23568) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-08-27](digests/2026-08-27.html)
 - [2026-08-26](digests/2026-08-26.html)
 - [2026-08-25](digests/2026-08-25.html)
 - [2026-08-24](digests/2026-08-24.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-26T05:47:24.663833+12:00._
 - [2026-07-31](digests/2026-07-31.html)
 - [2026-07-30](digests/2026-07-30.html)
 - [2026-07-29](digests/2026-07-29.html)
-- [2026-07-28](digests/2026-07-28.html)
 
 ## About this site
 
