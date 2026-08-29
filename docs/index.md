@@ -1,19 +1,19 @@
 # Daily AI & DB News
 
-_Last updated: 2026-08-29T09:23:23.762048+12:00._
+_Last updated: 2026-08-29T12:59:01.420566+12:00._
 
 [Read the latest digest](digests/2026-08-29.html)
 
 ## Latest top links
 
-- [Agents Don't Paginate: First-Chunk Selection for LLM Tool Responses](https://arxiv.org/abs/2608.26130) — arXiv cs.CL
-- [Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling](https://arxiv.org/abs/2608.26199) — arXiv cs.AI
-- [Assessing mentalization in humans and large language models](https://arxiv.org/abs/2608.26291) — arXiv cs.AI
-- [Don't Overthink, Don't Underthink: Toward Adaptive Reasoning in Agentic AI](https://arxiv.org/abs/2608.26442) — arXiv cs.AI
-- [AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agentic Tool-Calling](https://arxiv.org/abs/2608.26623) — arXiv cs.AI
-- [Survival-Guided Length Control for Efficient Diffusion Language Models](https://arxiv.org/abs/2608.26374) — arXiv cs.CL
-- [AdaThinking-E: One-Token Entropy Regulation for Adaptive Thinking](https://arxiv.org/abs/2608.26141) — arXiv cs.CL
-- [An Anthropic researcher just gave us a peek at self-improving AI](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/) — TechCrunch AI
+- [Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models](https://arxiv.org/abs/2608.26150) — arXiv cs.AI
+- [Same Model, Different Harness: Different Coding-Agent Results](https://arxiv.org/abs/2608.26218) — arXiv cs.AI
+- [AI Control Scientist: LLM-driven Agentic System for Automated Control Design](https://arxiv.org/abs/2608.26780) — arXiv cs.AI
+- [Lost in Compression: A Controlled Cross-Lingual Audit of Extractive Prompt Compressors](https://arxiv.org/abs/2608.26175) — arXiv cs.CL
+- [On Scope Classification and Current Knowledge-Editing Benchmarks: A Negative Result, with INLAY as a Gradient-Free Case Study](https://arxiv.org/abs/2608.26292) — arXiv cs.CL
+- [Knowledge-Verified Emergent Deception in LLM Agents Under Conflicting Incentives](https://arxiv.org/abs/2608.26372) — arXiv cs.CL
+- [Graph-Guided Selective Unlearning for Language Models: Controlling Support Routes Beyond Forget Seeds](https://arxiv.org/abs/2608.26743) — arXiv cs.AI
+- [Hallucinations in LLMs: A Lifecycle-Based Survey of Causes, Detection, Mitigation, and Prevention](https://arxiv.org/abs/2608.26168) — arXiv cs.CL
 
 ## Recent digests
 

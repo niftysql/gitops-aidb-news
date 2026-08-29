@@ -1,254 +1,159 @@
 {
   "digest_date": "2026-08-29",
-  "generated_at": "2026-08-29T09:23:23.762048+12:00",
+  "generated_at": "2026-08-29T12:59:01.420566+12:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2608.26130",
-      "published": "2026-08-28T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "claude",
-        "model",
-        "agent",
-        "github copilot"
-      ],
-      "score": 11.0,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2608.26130v1 Announce Type: new Abstract: Coding agents built on large language models (LLMs), such as Claude Code, Cursor, OpenAI Codex, GitHub Copilot, and Aider, receive tool responses that routinely exceed the agent's per-turn token budget. The standard remedy, pagination, is available in every protocol that produced these responses; yet across the corpus of session logs from a public Model Context Protocol middleware we observed no agent-initiated requests for a second chunk. The first chunk is what the agent reads, so we ask how often the gold item (the one the agent needs) is placed first in it: the precision-at-1 rate $p_1$. In…",
-      "title": "Agents Don't Paginate: First-Chunk Selection for LLM Tool Responses",
-      "url": "https://arxiv.org/abs/2608.26130"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2608.26199",
-      "published": "2026-08-28T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "mcp"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2608.26199v1 Announce Type: new Abstract: We ask whether AI agents powered by locally deployed large language models can reliably automate expert-defined hardware design workflows in an industry-realistic tool-calling setting. In these environments, engineers issue repetitive, dependency-ordered operations---such as creating components, adding ports, and wiring connections---through specialised tools. Confidentiality constraints on component specifications and naming conventions often preclude hosted proprietary APIs, motivating the use of locally deployed models. To study this setting, we build a Model Context Protocol (MCP) server th…",
-      "title": "Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling",
-      "url": "https://arxiv.org/abs/2608.26199"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2608.26291",
-      "published": "2026-08-28T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gemini",
-        "gpt",
-        "model",
-        "agent"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2608.26291v1 Announce Type: new Abstract: Mentalization - the ability to infer others' beliefs and intentions to guide one's own choices - is a key cognitive function underlying human social interactions. Large language models (LLMs) demonstrate behaviour consistent with humans on theory-of-mind tasks, yet whether these models can guide adaptive behaviour through mentalization is unknown. Here we use two economic games with cognitive computational modeling to uncover the latent strategies underlying mentalization in LLMs. We tested individual LLM agents across four model families, DeepSeek, GPT-4.1, GPT-5 and Gemini 2.0 Flash (N = 2,09…",
-      "title": "Assessing mentalization in humans and large language models",
-      "url": "https://arxiv.org/abs/2608.26291"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2608.26442",
-      "published": "2026-08-28T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "inference"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2608.26442v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have shown that increased inference-time reasoning can improve performance on complex tasks. However, many existing approaches rely on fixed or preallocated reasoning controls, such as fixed token budgets, pre-execution difficulty estimates, or activation-space interventions, and are often evaluated on standalone reasoning benchmarks rather than full agentic workflows. These assumptions may not hold in agentic AI systems, where reasoning requirements evolve dynamically through planning, tool use, memory retrieval, and agent-to-agent interactions.…",
-      "title": "Don't Overthink, Don't Underthink: Toward Adaptive Reasoning in Agentic AI",
-      "url": "https://arxiv.org/abs/2608.26442"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2608.26623",
+      "canonical_url": "https://arxiv.org/abs/2608.26150",
       "published": "2026-08-28T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "gpt",
+        "model",
+        "agent",
+        "research"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2608.26150v1 Announce Type: new Abstract: Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many research processes, including systematic literature reviews (SLRs). This study reports an LLM pipeline development for extracting model-relevant information from 536 peer-reviewed agent-based modeling papers. We compare the results with those of a human-conducted SLR. Our results show paper-level accuracies of approximately 77.95% for GPT-4.1 and 81.67% for GPT-5.0. Field-level accuracy ranges from 32.40% to 100.00%, with more complex or subjective fields performing les…",
+      "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
+      "url": "https://arxiv.org/abs/2608.26150"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2608.26218",
+      "published": "2026-08-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
         "model",
         "agent",
         "benchmark"
       ],
-      "score": 9.3,
+      "score": 7.6,
       "source": "arXiv cs.AI",
-      "summary": "arXiv:2608.26623v1 Announce Type: new Abstract: LLM judges are widely used to evaluate agentic tool-calling systems, yet their reliability on structured, dependency-driven workflows remains largely unexamined. We present AgentJudgeBench, the first benchmark to systematically study LLM-as-a-judge reliability for agentic tool-calling over workflow DAGs, as distinct from the broader LLM-as-a-judge task of open-ended text or preference evaluation. The benchmark comprises 3,808 instances spanning six DAG topologies and three difficulty tiers, evaluated with five generators (3B-70B open-weight models and GPT-5.4) and six judges (20B to frontier sc…",
-      "title": "AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agentic Tool-Calling",
-      "url": "https://arxiv.org/abs/2608.26623"
+      "summary": "arXiv:2608.26218v1 Announce Type: new Abstract: A coding agent combines a model with a harness, which decides what the model sees, which tools it can use, and how the work continues. We ask whether changing the harness changes the result when the model and task stay fixed. We compare two configurations of the same harness on three coding benchmarks. The control supplies the full conversation in time order, while the treatment keeps the same record but mechanically shortens older tool results as the context fills and responds to repeated or stalled work. Under tight context, the treatment raises mean per-task fail-to-pass fraction (F2PF) in a…",
+      "title": "Same Model, Different Harness: Different Coding-Agent Results",
+      "url": "https://arxiv.org/abs/2608.26218"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2608.26374",
+      "canonical_url": "https://arxiv.org/abs/2608.26780",
+      "published": "2026-08-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "regulation"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2608.26780v1 Announce Type: new Abstract: Control system design is critical for modern industry, such as chemical process temperature regulation and aero-engine control. However,traditional control design workflows rely heavily on expert knowledge and extensive manual parameter tuning, resulting in limited efficiency and scalability. To this end, this paper proposes AI Control Scientist (AICS), the first large language model (LLM)-driven agent capable of automatically generating optimized controller from language design requirements. Specifically, a Task Modeling Agent interprets user requirements to engineering constraints; a Controll…",
+      "title": "AI Control Scientist: LLM-driven Agentic System for Automated Control Design",
+      "url": "https://arxiv.org/abs/2608.26780"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2608.26175",
       "published": "2026-08-28T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
         "benchmark",
-        "inference",
-        "training"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2608.26374v1 Announce Type: new Abstract: Diffusion language models (DLMs) generate text by iteratively denoising masked sequences, but standard decoding either fixes the sequence length or relies on ad hoc stopping rules, often leading to unnecessary denoising steps. We recast length selection as a discrete-time survival problem over the end-of-sequence token and propose a plug-in, training-free length predictor that can be added to any existing DLM. Across reasoning and code-generation benchmarks, survival-guided length decoding speeds up inference by up to 7 times while preserving task accuracy. We further find that predicted length…",
-      "title": "Survival-Guided Length Control for Efficient Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2608.26374"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2608.26141",
-      "published": "2026-08-28T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "benchmark",
-        "regulation",
-        "multimodal"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2608.26141v1 Announce Type: new Abstract: Multimodal large language models have demonstrated strong document reasoning capabilities by incorporating explicit thinking processes. While this capability significantly improves performance on challenging tasks, current models apply such deep reasoning uniformly to all questions, resulting in unnecessary computational overhead for simple task. This not only degrades user experience but also negatively impact accuracy on benchmark datasets. We identify the critical need for adaptive thinking mechanisms that can intelligently determine when to engage reasoning based on question complexity. To…",
-      "title": "AdaThinking-E: One-Token Entropy Regulation for Adaptive Thinking",
-      "url": "https://arxiv.org/abs/2608.26141"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
-      "published": "2026-08-28T19:30:38+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic",
-        "benchmark",
-        "research"
-      ],
-      "score": 7.7,
-      "source": "TechCrunch AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2608.26119",
-      "published": "2026-08-28T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "benchmark",
-        "training"
+        "inference"
       ],
       "score": 7.6,
       "source": "arXiv cs.CL",
-      "summary": "arXiv:2608.26119v1 Announce Type: new Abstract: Whether large language models can be prompted to generate rhetorical fallacies on demand, and whether current safety post-training constrains this behavior, has received less attention than the related question of detecting fallacies in existing text. We close this gap with DeflectBench, evaluating 23,990 generations from four frontier models across three deflection strategies (whataboutism, ad hominem, red herring), seven prompt framings, and 80 claims spanning four controversy levels. Refusal is governed primarily by request structure rather than claim content. Per claim refusal varies by onl…",
-      "title": "DeflectBench: A Benchmark for Evaluating Rhetorical Fallacy Generation in LLMs",
-      "url": "https://arxiv.org/abs/2608.26119"
+      "summary": "arXiv:2608.26175v1 Announce Type: new Abstract: Extractive prompt compression promises to cut LLM inference costs by removing low-information tokens, and learned compressors such as LLMLingua-2 report strong results on English benchmarks. Most other languages already pay a token premium: the same content costs 1.3-1.8x more tokens than in English. We ask whether compression closes or widens this gap. Using fully parallel data in ten languages spanning five scripts, with controls budget-matched in the target model's tokenizer, we audit four learned compressors against four deterministic baselines, on eleven target models from ten vendors (ove…",
+      "title": "Lost in Compression: A Controlled Cross-Lingual Audit of Extractive Prompt Compressors",
+      "url": "https://arxiv.org/abs/2608.26175"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2608.27080",
+      "canonical_url": "https://arxiv.org/abs/2608.26292",
       "published": "2026-08-28T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
-        "inference",
-        "training"
+        "benchmark",
+        "oracle"
       ],
       "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2608.27080v1 Announce Type: new Abstract: Many scientific and engineering applications require estimating unknown parameters from experimentally observable data -- an inverse problem that is inherently challenging due to nonlinearity, noise, and ill-posedness. In this paper, we propose an active diffusion-based inverse problem solver. A DM is trained to learn the mapping between the parameter space and the observable space. By iteratively detecting and correcting model misspecification through posterior uncertainty, the method discovers and learns the correct region of parameter space, even when initial training bounds exclude the true…",
-      "title": "Active Diffusion-Based Inference for Ill-Posed Inverse Problems under Incomplete Priors",
-      "url": "https://arxiv.org/abs/2608.27080"
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2608.26292v1 Announce Type: new Abstract: Every memory-based knowledge editor in the SERAC lineage depends on a scope decision: given a query, does a stored edit apply? We report that current knowledge-editing benchmarks cannot measure this decision at all. Using INLAY, a gradient-free editor we built to obtain exact per-query ground truth (the model is frozen, edits live in an external addressable memory, and applying an edit is a bias added along one token's unembedding direction at decode time), we execute every candidate router action on 1,689 queries spanning three datasets and three input conditions. An oracle router choosing the…",
+      "title": "On Scope Classification and Current Knowledge-Editing Benchmarks: A Negative Result, with INLAY as a Gradient-Free Case Study",
+      "url": "https://arxiv.org/abs/2608.26292"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2608.26585",
+      "canonical_url": "https://arxiv.org/abs/2608.26372",
       "published": "2026-08-28T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
-        "inference",
-        "training"
+        "agent",
+        "benchmark"
       ],
       "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2608.26585v1 Announce Type: cross Abstract: Discrete diffusion models have become a strong, widely adopted class of generators for sequence data, and steering them toward a downstream reward at inference time, without any retraining, is increasingly important. Such training-free steering is done by gradient guidance, by search, or by combining the two. We study the combined regime and identify two weaknesses in how it is usually run: the guided proposal estimates its gradient from a single noisy sample, and the search then resamples particles at a fixed temperature that ignores how rewards spread across each denoising step. We address…",
-      "title": "GRAS: Guided Reduced-Variance Proposals and Adaptive Selection for Training-Free Reward Alignment in Discrete Diffusion",
-      "url": "https://arxiv.org/abs/2608.26585"
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2608.26372v1 Announce Type: new Abstract: Large language models are increasingly deployed as autonomous agents serving users on behalf of companies, placing them in settings where user and deployer interests can conflict. When an agent knows that a user is owed something its deployer would prefer to deny, does it remain honest? Answering this is difficult because false statements can reflect either ignorance or hallucination rather than deception. To address this challenge, we introduce KnownLieBench , a knowledge-verified benchmark that first confirms through a neutral probe that an agent knows a user's entitlement, and then evaluates…",
+      "title": "Knowledge-Verified Emergent Deception in LLM Agents Under Conflicting Incentives",
+      "url": "https://arxiv.org/abs/2608.26372"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2608.27063",
+      "canonical_url": "https://arxiv.org/abs/2608.26743",
       "published": "2026-08-28T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "inference",
-        "regulation",
-        "research",
-        "privacy"
+        "model",
+        "training",
+        "privacy",
+        "enterprise"
       ],
       "score": 7.5,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2608.27063v1 Announce Type: cross Abstract: Joint analyses across multiple institutions are increasingly important in biomedical and epidemiological research, particularly for rare diseases where datasets are typical small. However, privacy regulations and institutional policies often prevent the sharing of individual-level patient data. In this paper we present an accurate and single-communication federated inference algorithm. Single-communication federated inference enables statistical analyses through a single exchange of summary statistics between participating centers and a coordinating server, preserving privacy while reducing c…",
-      "title": "An Accurate and Single-Communication Federated Inference Algorithm",
-      "url": "https://arxiv.org/abs/2608.27063"
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2608.26743v1 Announce Type: new Abstract: Enterprises fine-tune language models on proprietary data that may later require removal due to privacy, contractual, or compliance obligations. Selective unlearning removes requested knowledge while preserving model utility, offering a practical alternative to full retraining, but existing methods treat the explicitly identified forget examples as the complete deletion scope. This is insufficient when target knowledge remains recoverable through paraphrases, aliases, or neighboring training examples. We propose GRAPHSU, a graph-guided controller that expands the deletion scope beyond forget se…",
+      "title": "Graph-Guided Selective Unlearning for Language Models: Controlling Support Routes Beyond Forget Seeds",
+      "url": "https://arxiv.org/abs/2608.26743"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components",
-      "published": "2026-08-28T16:20:40+00:00",
+      "canonical_url": "https://arxiv.org/abs/2608.26168",
+      "published": "2026-08-28T04:00:00+00:00",
       "reasons": [
-        "fresh <12h",
+        "fresh <30h",
+        "inference",
+        "training",
+        "research"
+      ],
+      "score": 6.7,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2608.26168v1 Announce Type: new Abstract: The lifecycle of hallucination in LLMs is a concept that enables building solid frameworks on the control and reliability of LLMs in high-stakes environments, including health, legal, and scientific research. Although previous surveys have primarily focused on detection or mitigation, this survey provides a lifecycle-based overview of the hallucinations in the LLMs, their cause, detection, mitigation, and prevention.We propose a three-fold categorization of hallucinations across the LLM lifecycle: data-related, training-related, and inference-related, which is consistent with the lifecycle of t…",
+      "title": "Hallucinations in LLMs: A Lifecycle-Based Survey of Causes, Detection, Mitigation, and Prevention",
+      "url": "https://arxiv.org/abs/2608.26168"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2608.26288",
+      "published": "2026-08-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "training"
+      ],
+      "score": 5.9,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2608.26288v1 Announce Type: cross Abstract: Muon has emerged as a strong optimizer for the matrix-valued parameters in large language model pretraining, approximately orthogonalizing its momentum with a few Newton-Schulz iterations. Existing theory either replaces this iteration with the exact polar factor it approximates, or treats its finite depth as an approximation error, and thus the iteration Muon actually runs can only hurt the guarantees. We show that finite Newton-Schulz can instead be beneficial for nonsmooth nonconvex optimization. To this end, we analyze Muon through the online-to-nonconvex conversion, which views the updat…",
+      "title": "Muon with Finite Newton-Schulz: The Smoothing Benefit in Nonsmooth Nonconvex Optimization",
+      "url": "https://arxiv.org/abs/2608.26288"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2608.27229",
+      "published": "2026-08-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
         "model",
         "inference"
       ],
-      "score": 6.9,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multiple Availability Zones, meeting their Multi-AZ high availability compliance requirements without sacrificing the cost efficiency of multi-model co-hosting.",
-      "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
-      "url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/"
+      "score": 5.9,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2608.27229v1 Announce Type: cross Abstract: Bayesian inference in compound loss models must often be repeated across policies, market scenarios, and prior specifications. Outside conjugate cases, this may require repeated numerical integration or Markov chain Monte Carlo (MCMC). We formulate this problem as amortized posterior approximation and construct a conditional Wasserstein generative adversarial network conditioned on sufficient statistics, prior mean and coefficient of variation, and mixture weights of prior families. Notably, a single shared generator is able to approximate the posterior laws of both the Poisson intensity and…",
+      "title": "On the approximation of posterior laws in compound loss models by conditional Wasserstein GANs",
+      "url": "https://arxiv.org/abs/2608.27229"
     },
     {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/exploring-diskann-part-i-understanding-the-algorithm-before-the-disk",
-      "published": "2026-08-27T23:00:02+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gpt",
-        "sql"
-      ],
-      "score": 6.6,
-      "source": "SQLServerCentral",
-      "summary": "How I used AI for this postChatGPT to generate images based on info specifically provided by me,including examples.Grammarly to catch grammar and sentence construction errors. I did a presentation... The post Exploring DiskANN: Part I: Understanding the Algorithm before the disk appeared first on SQLServerCentral .",
-      "title": "Exploring DiskANN: Part I: Understanding the Algorithm before the disk",
-      "url": "https://www.sqlservercentral.com/blogs/exploring-diskann-part-i-understanding-the-algorithm-before-the-disk"
-    },
-    {
-      "canonical_url": "https://postgr.es/p/9ts",
-      "published": "2026-08-28T11:41:21+00:00",
-      "reasons": [
-        "fresh <12h",
-        "sql",
-        "security"
-      ],
-      "score": 6.3,
-      "source": "Planet PostgreSQL",
-      "summary": "On August 13, 2026, PostgreSQL shipped its biggest security release ever: 28 CVEs closed in a single day. The old record was 11. The community has done its job, a phenomenal one at that! If you run PostgreSQL for critical workloads in production, the number you should focus on is how long it takes to get a fix from “released” to “running in production.” Call it your patch latency. That’s what this post is about. The Count Went Up Because the Attention Went Up Here is the trend in plain numbers. Postgres fixed 7 CVEs in all of 2025; 44 in 2026 so far, and 28 of those landed in one release. The panic reading is that the code got worse. The rea…",
-      "title": "Umair Shahid: How Fast Should You Patch Production PostgreSQL?",
-      "url": "https://postgr.es/p/9ts"
-    },
-    {
-      "canonical_url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "published": "2026-08-28T02:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "startup"
-      ],
-      "score": 6.0,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2608.26618",
+      "canonical_url": "https://arxiv.org/abs/2509.06147",
       "published": "2026-08-28T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
@@ -257,22 +162,102 @@
       ],
       "score": 5.9,
       "source": "arXiv stat.ML",
-      "summary": "arXiv:2608.26618v1 Announce Type: new Abstract: Model selection becomes particularly challenging under strong predictor dependence and model-class uncertainty, especially when there are exponentially many models. We propose a Descriptive-Complexity Information Criterion (DCIC) that regularizes large candidate model collections through Kraft-admissible code lengths. Under sub-Weibull noise, we establish selection consistency through approximation-error separation without relying on RIP-type conditions, together with nonasymptotic oracle risk bounds that remain valid under model misspecification. The same coding principle places heterogeneous…",
-      "title": "A Unified Descriptive-Complexity Framework for Model Selection under Correlated Designs",
-      "url": "https://arxiv.org/abs/2608.26618"
+      "summary": "arXiv:2509.06147v2 Announce Type: replace Abstract: Ranking and selection (R&S) seeks to identify the alternative with the best mean performance from a finite collection of simulated alternatives. Its practical value depends on accurate simulation input modeling, which is often hindered by input uncertainty arising from limited data. Distributionally robust R&S (DRR&S) addresses this challenge by considering several plausible input distributions and selecting the alternative with the best worst-case mean performance, resulting in a multiplicative number of scenarios. Existing static and oracle analyses suggest that efficient sampling should…",
+      "title": "Sequential Additivity in Distributionally Robust Ranking and Selection",
+      "url": "https://arxiv.org/abs/2509.06147"
     },
     {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/a-new-word-gnossienne",
-      "published": "2026-08-28T13:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2601.21217",
+      "published": "2026-08-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference"
+      ],
+      "score": 5.9,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2601.21217v2 Announce Type: replace Abstract: We introduce a flexible empirical Bayes approach for fitting Bayesian generalized linear models. Specifically, we adopt a novel mean-field variational inference (VI) method and the prior is estimated within the VI algorithm, making the method tuning-free. Unlike traditional VI methods that optimize the posterior density function, our approach directly optimizes the posterior mean and prior parameters. This formulation reduces the number of parameters to optimize and enables the use of scalable algorithms such as L-BFGS and stochastic gradient descent. Furthermore, our method automatically d…",
+      "title": "A Flexible Empirical Bayes Approach to Generalized Linear Models, with Applications to Sparse Logistic Regression",
+      "url": "https://arxiv.org/abs/2601.21217"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
+      "published": "2026-08-28T20:24:11+00:00",
       "reasons": [
         "fresh <12h",
+        "chip"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
+      "published": "2026-08-28T18:19:40+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2",
+      "published": "2026-08-28T16:22:30+00:00",
+      "reasons": [
+        "fresh <12h",
+        "inference"
+      ],
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Decathlon, one of the world's largest sporting goods retailers, forecasts weekly demand for tens of thousands of products across multiple continents. Learn how they deployed Chronos-2 on AWS to improve forecast accuracy by 11-15 points while cutting operational complexity and running weekly inference for about $0.03 on CPU-only instances.",
+      "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
+      "published": "2026-08-27T19:52:52+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "startup"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9tt",
+      "published": "2026-08-28T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
         "sql"
       ],
-      "score": 5.7,
-      "source": "SQLServerCentral",
-      "summary": "gnossienne– n. the awareness that someone you’ve known for years still has a private and mysterious inner life. One of the things I’ve learned throughout my life is that... The post A New Word: Gnossienne appeared first on SQLServerCentral .",
-      "title": "A New Word: Gnossienne",
-      "url": "https://www.sqlservercentral.com/blogs/a-new-word-gnossienne"
+      "score": 4.7,
+      "source": "Planet PostgreSQL",
+      "summary": "A pg_dump data-only restore into a fresh, empty copy of the schema is the safest-sounding restore in PostgreSQL, since there is not a single row in the target for the incoming data to collide with. It stops anyway, on a table sitting plainly in \\dt . psql:/tmp/data.sql:56: ERROR: relation \"book_audit\" does not exist LINE 1: INSERT INTO book_audit(book_id, note) VALUES (NEW.id, 'inser... book_audit exists. The statement that cannot see it never appears in the dump, because it lives inside an AFTER INSERT trigger on books , and the reason a bare table name stops resolving is one line the dump wrote at the top of itself before any data moved. S…",
+      "title": "Mikhail Shytsko: The Dump That Breaks Its Own Restore",
+      "url": "https://postgr.es/p/9tt"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+      "published": "2026-08-28T12:46:12+00:00",
+      "reasons": [
+        "fresh <30h",
+        "anthropic"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
     }
   ]
 }
