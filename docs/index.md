@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-08-29T12:59:01.420566+12:00._
+_Last updated: 2026-08-30T07:46:40.493611+12:00._
 
-[Read the latest digest](digests/2026-08-29.html)
+[Read the latest digest](digests/2026-08-30.html)
 
 ## Latest top links
 
-- [Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models](https://arxiv.org/abs/2608.26150) — arXiv cs.AI
-- [Same Model, Different Harness: Different Coding-Agent Results](https://arxiv.org/abs/2608.26218) — arXiv cs.AI
-- [AI Control Scientist: LLM-driven Agentic System for Automated Control Design](https://arxiv.org/abs/2608.26780) — arXiv cs.AI
-- [Lost in Compression: A Controlled Cross-Lingual Audit of Extractive Prompt Compressors](https://arxiv.org/abs/2608.26175) — arXiv cs.CL
-- [On Scope Classification and Current Knowledge-Editing Benchmarks: A Negative Result, with INLAY as a Gradient-Free Case Study](https://arxiv.org/abs/2608.26292) — arXiv cs.CL
-- [Knowledge-Verified Emergent Deception in LLM Agents Under Conflicting Incentives](https://arxiv.org/abs/2608.26372) — arXiv cs.CL
-- [Graph-Guided Selective Unlearning for Language Models: Controlling Support Routes Beyond Forget Seeds](https://arxiv.org/abs/2608.26743) — arXiv cs.AI
-- [Hallucinations in LLMs: A Lifecycle-Based Survey of Causes, Detection, Mitigation, and Prevention](https://arxiv.org/abs/2608.26168) — arXiv cs.CL
+- [Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript](https://arxiv.org/abs/2608.26167) — arXiv cs.AI
+- [DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows](https://arxiv.org/abs/2608.26546) — arXiv cs.AI
+- [Five Primitives for Governing Autonomous AI Agents at Runtime](https://arxiv.org/abs/2608.26696) — arXiv cs.AI
+- [Accelerating Scientific Research with Gemini in the Real-World](https://arxiv.org/abs/2608.26701) — arXiv cs.AI
+- [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/) — TechCrunch AI
+- [Nvidia’s AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/) — TechCrunch AI
+- [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright) — The Verge AI
+- [Pavel Stehule: Integration Lua to psql III](https://postgr.es/p/9tw) — Planet PostgreSQL
 
 ## Recent digests
 
+- [2026-08-30](digests/2026-08-30.html)
 - [2026-08-29](digests/2026-08-29.html)
 - [2026-08-28](digests/2026-08-28.html)
 - [2026-08-27](digests/2026-08-27.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-08-29T12:59:01.420566+12:00._
 - [2026-08-03](digests/2026-08-03.html)
 - [2026-08-02](digests/2026-08-02.html)
 - [2026-08-01](digests/2026-08-01.html)
-- [2026-07-31](digests/2026-07-31.html)
 
 ## About this site
 

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daily AI News — 2026-08-30</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.65;
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    h1, h2, h3 { line-height: 1.25; }
+    a { text-underline-offset: 0.15em; }
+    code {
+      padding: 0.1rem 0.25rem;
+      border-radius: 0.25rem;
+      background: color-mix(in srgb, CanvasText 10%, transparent);
+    }
+    li { margin: 0.35rem 0; }
+    hr { margin: 2rem 0; }
+    .nav { margin-bottom: 2rem; color: color-mix(in srgb, CanvasText 70%, transparent); }
+  </style>
+</head>
+<body>
+<div class="nav"><a href="../index.html">Home</a></div>
+<h1>Daily AI &amp; DB News — 2026-08-30</h1>
+<p><em>Generated at 2026-08-30T07:46:40.493611+12:00 by a GitHub Actions GitOps pipeline.</em></p>
+<h2 id="top-stories">Top stories</h2>
+<ul>
+<li><a href="https://arxiv.org/abs/2608.26167" rel="noopener noreferrer">Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript</a> — arXiv cs.AI, 2026-08-29 04:00 UTC. Score 6.7 — arXiv:2608.26167v1 Announce Type: new Abstract: Hallucination and abstention benchmarks rarely establish that a model could not have known the correct answer, making it difficult to distinguish appropriate abstention from an unsupported prediction. Seven large language models were evaluated on the TAME Pain speech corpus. Participants read phonetically balanced Harvard Sentences while one hand was immersed in cold or warm water and reported pain only during periodic pain statements. This protocol generated 5,750 no signal Harvard Sentence utterances whose transcripts contained no lexical pain information and 1,294 signal pain statement utter…</li>
+<li><a href="https://arxiv.org/abs/2608.26546" rel="noopener noreferrer">DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows</a> — arXiv cs.AI, 2026-08-29 04:00 UTC. Score 6.7 — arXiv:2608.26546v1 Announce Type: new Abstract: Autonomous agents are increasingly adopted to complete complex, multi-tool workflows in real-world settings. However, existing benchmarks typically separate tasks by application or capability and evaluate agents in environments that are cleaner and more stable than those encountered in practice. We introduce DuMateBench, a real-session benchmark reconstructed from anonymized and privacy-screened user sessions collected from a large-scale production agent platform. Each task preserves the relevant pre-solution interaction history, persistent configurations, and workspace state, and is then valid…</li>
+<li><a href="https://arxiv.org/abs/2608.26696" rel="noopener noreferrer">Five Primitives for Governing Autonomous AI Agents at Runtime</a> — arXiv cs.AI, 2026-08-29 04:00 UTC. Score 6.7 — arXiv:2608.26696v1 Announce Type: new Abstract: Enterprise deployments of autonomous AI agents inherit a control model built for human users and long-lived services, and the fit fails in three specific ways: agent principals are ephemeral, appearing and vanishing faster than provisioning; their actions are selected by a model rather than programmed, so the set of things they may attempt is not known in advance; and the population is discovered rather than provisioned, because anyone who can call an API can create one. We argue that governing such agents is a runtime problem -- not a model-alignment problem and not a build-time problem -- and…</li>
+<li><a href="https://arxiv.org/abs/2608.26701" rel="noopener noreferrer">Accelerating Scientific Research with Gemini in the Real-World</a> — arXiv cs.AI, 2026-08-29 04:00 UTC. Score 6.7 — arXiv:2608.26701v1 Announce Type: new Abstract: We present an extension and comprehensive real-world validation of Co-Scientist, a Gemini-based multi-agent system designed to accelerate end-to-end scientific research across hypothesis generation, experimentation, and manuscript generation. Moving beyond in silico hypothesis generation, this specialized configuration transitions Co-Scientist into an execution-grounded research partner advancing closed-loop scientific workflows across materials science, biology, and computer science. In materials science, Co-Scientist interfaced with a semi-automated chemical vapor deposition reactor to design…</li>
+<li><a href="https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/" rel="noopener noreferrer">Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft</a> — TechCrunch AI, 2026-08-29 18:41 UTC. Score 5.2 — This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.</li>
+<li><a href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/" rel="noopener noreferrer">Nvidia’s AI advantage is moving beyond the GPU</a> — TechCrunch AI, 2026-08-29 13:00 UTC. Score 5.2 — The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.</li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright" rel="noopener noreferrer">Sony Music and Warner Chappell are suing Anthropic</a> — The Verge AI, 2026-08-29 18:19 UTC. Score 5.1 — Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for &quot;tens of thousands&quot; copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the […]</li>
+<li><a href="https://postgr.es/p/9tw" rel="noopener noreferrer">Pavel Stehule: Integration Lua to psql III</a> — Planet PostgreSQL, 2026-08-29 05:47 UTC. Score 4.7 — I finished patch that integrates Lua language to psql client https://github.com/okbob/lua-psql I wrote two examples. Second is a wrapping VACUUM command. Target is a more readable output in verbose mode. One bonus is printing progress - any second the pg<em>stat</em>progress<em>vacuum is selected and result is printed. function vacuum(args) local options = {} local tables = {} if args == &quot;help&quot; then print &quot;\\lua vacuum {verbose=true}&quot; return end if args then local transfx = load(&quot;return &quot; .. args) options = transfx() end local query = [[SELECT quote</em>ident(n.nspname) AS nspname, quote<em>ident(c.relname) AS relname FROM pg</em>class c, pg_namespace n WHERE n.…</li>
+<li><a href="https://postgr.es/p/9tv" rel="noopener noreferrer">Christophe Pettus: All Your GUCs in a Row: log<em>rotation</em>age, log<em>rotation</em>size, and log<em>truncate</em>on_rotation</a> — Planet PostgreSQL, 2026-08-29 01:00 UTC. Score 4.7 — PostgreSQL&#x27;s log rotation has three parameters that only make sense together: one rotates at clock boundaries, one at file sizes, and one decides whether to…</li>
+<li><a href="https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/" rel="noopener noreferrer">Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India</a> — TechCrunch AI, 2026-08-28 12:21 UTC. Score 3.6 — Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.</li>
+</ul>
+<h2 id="signals-to-watch">Signals to watch</h2>
+<ul>
+<li>Most represented sources: arXiv cs.AI (4), TechCrunch AI (4), The Verge AI (3), Planet PostgreSQL (3).</li>
+<li>Recurring themes: agent (3), model (2), benchmark (2), anthropic (2), sql (2), recent &lt;72h (2), fabric (1), privacy (1).</li>
+<li>Review the raw JSON output in <code>data/items/</code> if you want to audit scoring or feed coverage.</li>
+</ul>
+<h2 id="all-links">All links</h2>
+<ul>
+<li><a href="https://arxiv.org/abs/2608.26167" rel="noopener noreferrer">Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript</a> — arXiv cs.AI</li>
+<li><a href="https://arxiv.org/abs/2608.26546" rel="noopener noreferrer">DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows</a> — arXiv cs.AI</li>
+<li><a href="https://arxiv.org/abs/2608.26696" rel="noopener noreferrer">Five Primitives for Governing Autonomous AI Agents at Runtime</a> — arXiv cs.AI</li>
+<li><a href="https://arxiv.org/abs/2608.26701" rel="noopener noreferrer">Accelerating Scientific Research with Gemini in the Real-World</a> — arXiv cs.AI</li>
+<li><a href="https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/" rel="noopener noreferrer">Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft</a> — TechCrunch AI</li>
+<li><a href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/" rel="noopener noreferrer">Nvidia’s AI advantage is moving beyond the GPU</a> — TechCrunch AI</li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright" rel="noopener noreferrer">Sony Music and Warner Chappell are suing Anthropic</a> — The Verge AI</li>
+<li><a href="https://postgr.es/p/9tw" rel="noopener noreferrer">Pavel Stehule: Integration Lua to psql III</a> — Planet PostgreSQL</li>
+<li><a href="https://postgr.es/p/9tv" rel="noopener noreferrer">Christophe Pettus: All Your GUCs in a Row: log<em>rotation</em>age, log<em>rotation</em>size, and log<em>truncate</em>on_rotation</a> — Planet PostgreSQL</li>
+<li><a href="https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/" rel="noopener noreferrer">Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India</a> — TechCrunch AI</li>
+<li><a href="https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/" rel="noopener noreferrer">“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z</a> — TechCrunch AI</li>
+<li><a href="https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai" rel="noopener noreferrer">Musicians-turned-detectives are hunting for AI grifters</a> — The Verge AI</li>
+<li><a href="https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/" rel="noopener noreferrer">Batch write and discover records in Amazon SageMaker Feature Store</a> — AWS Machine Learning Blog</li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit" rel="noopener noreferrer">Trump’s EPA wants to let data centers hide their air pollution</a> — The Verge AI</li>
+<li><a href="https://postgr.es/p/9tu" rel="noopener noreferrer">Shaun Thomas: From the Trenches: My Path Through Postgres</a> — Planet PostgreSQL</li>
+</ul>
+<hr>
+<h3 id="pipeline-metadata">Pipeline metadata</h3>
+<ul>
+<li>Selected items: 15</li>
+<li>AI summarization: deterministic fallback</li>
+<li>Source data: <code>data/items/</code> in this repository</li>
+</ul>
+</body>
+</html>
