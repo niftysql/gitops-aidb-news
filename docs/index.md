@@ -1,22 +1,20 @@
 # Daily AI & DB News
 
-_Last updated: 2026-08-30T07:46:40.493611+12:00._
+_Last updated: 2026-08-31T07:51:27.536819+12:00._
 
-[Read the latest digest](digests/2026-08-30.html)
+[Read the latest digest](digests/2026-08-31.html)
 
 ## Latest top links
 
-- [Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript](https://arxiv.org/abs/2608.26167) — arXiv cs.AI
-- [DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows](https://arxiv.org/abs/2608.26546) — arXiv cs.AI
-- [Five Primitives for Governing Autonomous AI Agents at Runtime](https://arxiv.org/abs/2608.26696) — arXiv cs.AI
-- [Accelerating Scientific Research with Gemini in the Real-World](https://arxiv.org/abs/2608.26701) — arXiv cs.AI
-- [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/) — TechCrunch AI
-- [Nvidia’s AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/) — TechCrunch AI
-- [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright) — The Verge AI
-- [Pavel Stehule: Integration Lua to psql III](https://postgr.es/p/9tw) — Planet PostgreSQL
+- [Referencing Images And Other Files In Power BI Reports Using OneLake URLs](https://blog.crossjoin.co.uk/2026/08/30/referencing-images-and-other-files-in-power-bi-reports-using-onelake-urls/) — Chris Webb's BI Blog
+- [Christophe Pettus: All Your GUCs in a Row: log_line_prefix and log_timezone](https://postgr.es/p/9tx) — Planet PostgreSQL
+- [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras) — The Verge AI
+- [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/) — TechCrunch AI
+- [Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-08-31](digests/2026-08-31.html)
 - [2026-08-30](digests/2026-08-30.html)
 - [2026-08-29](digests/2026-08-29.html)
 - [2026-08-28](digests/2026-08-28.html)
@@ -46,7 +44,6 @@ _Last updated: 2026-08-30T07:46:40.493611+12:00._
 - [2026-08-04](digests/2026-08-04.html)
 - [2026-08-03](digests/2026-08-03.html)
 - [2026-08-02](digests/2026-08-02.html)
-- [2026-08-01](digests/2026-08-01.html)
 
 ## About this site
 
