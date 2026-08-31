@@ -1,19 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-08-31T07:51:27.536819+12:00._
+_Last updated: 2026-09-01T09:55:00.343263+12:00._
 
-[Read the latest digest](digests/2026-08-31.html)
+[Read the latest digest](digests/2026-09-01.html)
 
 ## Latest top links
 
-- [Referencing Images And Other Files In Power BI Reports Using OneLake URLs](https://blog.crossjoin.co.uk/2026/08/30/referencing-images-and-other-files-in-power-bi-reports-using-onelake-urls/) — Chris Webb's BI Blog
-- [Christophe Pettus: All Your GUCs in a Row: log_line_prefix and log_timezone](https://postgr.es/p/9tx) — Planet PostgreSQL
-- [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras) — The Verge AI
-- [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/) — TechCrunch AI
-- [Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/) — TechCrunch AI
+- [PersonaForge: Realistic Multi-Turn User Simulation for Agentic Systems](https://arxiv.org/abs/2608.28378) — arXiv cs.CL
+- [Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents](https://arxiv.org/abs/2608.28458) — arXiv cs.CL
+- [Improved off-policy training of diffusion samplers](https://arxiv.org/abs/2402.05098) — arXiv stat.ML
+- [A Daily Report from Claude](https://www.sqlservercentral.com/blogs/a-daily-report-from-claude) — SQLServerCentral
+- [The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/) — TechCrunch AI
+- [ChatGPT to face tougher regulation in the EU](https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa) — The Verge AI
+- [SciReC: Diagnostic Evaluation of Multimodal, Multi-Turn Relational Reasoning with Adaptive Interaction](https://arxiv.org/abs/2608.27461) — arXiv cs.CL
+- [Fidelity Is Not Enough: Dispatch-Level Instrumentation for Agentic Datasheet Extraction](https://arxiv.org/abs/2608.28439) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-09-01](digests/2026-09-01.html)
 - [2026-08-31](digests/2026-08-31.html)
 - [2026-08-30](digests/2026-08-30.html)
 - [2026-08-29](digests/2026-08-29.html)
@@ -43,7 +47,6 @@ _Last updated: 2026-08-31T07:51:27.536819+12:00._
 - [2026-08-05](digests/2026-08-05.html)
 - [2026-08-04](digests/2026-08-04.html)
 - [2026-08-03](digests/2026-08-03.html)
-- [2026-08-02](digests/2026-08-02.html)
 
 ## About this site
 
