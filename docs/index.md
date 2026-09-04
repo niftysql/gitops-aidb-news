@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-04T07:52:59.154405+12:00._
+_Last updated: 2026-09-05T07:39:02.182143+12:00._
 
-[Read the latest digest](digests/2026-09-04.html)
+[Read the latest digest](digests/2026-09-05.html)
 
 ## Latest top links
 
-- [Modern Power BI architecture choices for reporting on Azure Databricks: A performance benchmark for Power BI storage modes](https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Modern-Power-BI-architecture-choices-for-reporting-on-Azure/ba-p/5364286) — Microsoft Power BI Blog
-- [ChatGPT, Grok, and Claude all went down at the same time](https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down) — The Verge AI
-- [Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/) — AWS Machine Learning Blog
-- [AI-driven development lifecycle using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release) — The Verge AI
-- [HeadWiseKV: Budgeted Per-Head Cache Residency for Hybrid Long-Context Language Models](https://arxiv.org/abs/2609.02029) — arXiv cs.AI
-- [CivBench: A Long-Horizon Benchmark for Tool-Mediated Agents in Civilization VI](https://arxiv.org/abs/2609.02459) — arXiv cs.AI
-- [OBJECTION! Lawyer Agents Mitigate Guilty Bias in Legal Judgment Prediction](https://arxiv.org/abs/2609.02158) — arXiv cs.CL
+- [Run agent-driven Amazon SageMaker HyperPod operations with InstantStart](https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/) — AWS Machine Learning Blog
+- [Speculative Macro Commit for Faster Tool-Using Agents](https://arxiv.org/abs/2609.03236) — arXiv cs.AI
+- [IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations](https://arxiv.org/abs/2609.04030) — arXiv cs.AI
+- [Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/) — AWS Machine Learning Blog
+- [Rogue OpenAI agents appear to have organized another attack using a German wiki](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki) — The Verge AI
+- [Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users](https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout) — The Verge AI
+- [LLM4CKD: Large Language Models for Early Stage Chronic Kidney Disease Screening](https://arxiv.org/abs/2609.04013) — arXiv cs.AI
+- [InSituMeasure: Probing Situated Measurement Grounding in Industrial Scenes with Multimodal Large Language Models](https://arxiv.org/abs/2609.04014) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-09-05](digests/2026-09-05.html)
 - [2026-09-04](digests/2026-09-04.html)
 - [2026-09-03](digests/2026-09-03.html)
 - [2026-09-02](digests/2026-09-02.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-04T07:52:59.154405+12:00._
 - [2026-08-09](digests/2026-08-09.html)
 - [2026-08-08](digests/2026-08-08.html)
 - [2026-08-07](digests/2026-08-07.html)
-- [2026-08-06](digests/2026-08-06.html)
 
 ## About this site
 
