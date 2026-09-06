@@ -1,22 +1,21 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-06T07:04:16.926015+12:00._
+_Last updated: 2026-09-07T07:14:18.595367+12:00._
 
-[Read the latest digest](digests/2026-09-06.html)
+[Read the latest digest](digests/2026-09-07.html)
 
 ## Latest top links
 
-- [Building a DBA Agent for Your SQL Server Estate with MCP](https://www.sqlservercentral.com/blogs/building-a-dba-agent-for-your-sql-server-estate-with-mcp) — SQLServerCentral
-- [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident) — The Verge AI
-- [OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/) — TechCrunch AI
-- [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/) — TechCrunch AI
-- [Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/) — MIT Technology Review AI
-- [Measuring RAG Solutions: Are We Retrieving the Right Information?](https://www.sqlservercentral.com/blogs/measuring-rag-solutions-are-we-retrieving-the-right-information) — SQLServerCentral
-- [AI compute provider Nscale is looking for $3.5B in pre-IPO financing](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/) — TechCrunch AI
+- [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai) — OpenAI Blog
+- [Christophe Pettus: All Your GUCs in a Row: log_parser_stats, log_planner_stats, log_executor_stats, and log_statement_stats](https://postgr.es/p/9tZ) — Planet PostgreSQL
+- [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/) — TechCrunch AI
+- [Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/) — TechCrunch AI
+- [An Alien Mind](https://openai.com/index/an-alien-mind) — OpenAI Blog
+- [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-09-07](digests/2026-09-07.html)
 - [2026-09-06](digests/2026-09-06.html)
 - [2026-09-05](digests/2026-09-05.html)
 - [2026-09-04](digests/2026-09-04.html)
@@ -46,7 +45,6 @@ _Last updated: 2026-09-06T07:04:16.926015+12:00._
 - [2026-08-11](digests/2026-08-11.html)
 - [2026-08-10](digests/2026-08-10.html)
 - [2026-08-09](digests/2026-08-09.html)
-- [2026-08-08](digests/2026-08-08.html)
 
 ## About this site
 
