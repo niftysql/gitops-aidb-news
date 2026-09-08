@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-08T08:36:40.263718+12:00._
+_Last updated: 2026-09-09T07:55:37.594717+12:00._
 
-[Read the latest digest](digests/2026-09-08.html)
+[Read the latest digest](digests/2026-09-09.html)
 
 ## Latest top links
 
-- [A Systematic Evaluation of Cross-Lingual Consistency Enhancement Methods in Multilingual Language Models](https://arxiv.org/abs/2609.04409) — arXiv cs.CL
-- [Cache-Aware Joint Router Adaptation for Memory-Efficient MoE Inference](https://arxiv.org/abs/2609.04895) — arXiv cs.CL
-- [A Cost-Aware Agentic Architecture for NL-to-SQL over Nested Enterprise Schemas, with a New Benchmark](https://arxiv.org/abs/2609.04641) — arXiv cs.AI
-- [ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies](https://arxiv.org/abs/2609.04667) — arXiv cs.AI
-- [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft) — The Verge AI
-- [Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation](https://arxiv.org/abs/2609.04298) — arXiv cs.AI
-- [Iris: Climbing to the Search Frontier](https://arxiv.org/abs/2609.04304) — arXiv cs.AI
-- [You Really Didn't Get That? Benchmarking Social Pragmatic Inference for Indirect and Playful Chinese Online Comments](https://arxiv.org/abs/2609.04384) — arXiv cs.CL
+- [Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6](https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/) — AWS Machine Learning Blog
+- [Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1](https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/) — AWS Machine Learning Blog
+- [Funding grants for new research into AI and teen development](https://openai.com/index/teen-development-research-grants) — OpenAI Blog
+- [Exploring DiskANN: Part 2: PQ, SSDs, caching and beam search](https://www.sqlservercentral.com/blogs/exploring-diskann-part-2-pq-ssds-caching-and-beam-search) — SQLServerCentral
+- [Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions](https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/) — AWS Machine Learning Blog
+- [How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/) — AWS Machine Learning Blog
+- [OpenAI expands initiatives to support journalism from classrooms to newsrooms](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms) — OpenAI Blog
+- [T-SQL Tuesday #202: The Two Outages I Won't Ever Forget](https://www.sqlservercentral.com/blogs/t-sql-tuesday-202-the-two-outages-i-wont-ever-forget) — SQLServerCentral
 
 ## Recent digests
 
+- [2026-09-09](digests/2026-09-09.html)
 - [2026-09-08](digests/2026-09-08.html)
 - [2026-09-07](digests/2026-09-07.html)
 - [2026-09-06](digests/2026-09-06.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-08T08:36:40.263718+12:00._
 - [2026-08-13](digests/2026-08-13.html)
 - [2026-08-12](digests/2026-08-12.html)
 - [2026-08-11](digests/2026-08-11.html)
-- [2026-08-10](digests/2026-08-10.html)
 
 ## About this site
 
