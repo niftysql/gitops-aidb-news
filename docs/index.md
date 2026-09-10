@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-10T07:48:10.849211+12:00._
+_Last updated: 2026-09-11T07:44:39.889011+12:00._
 
-[Read the latest digest](digests/2026-09-10.html)
+[Read the latest digest](digests/2026-09-11.html)
 
 ## Latest top links
 
-- [Dave Stokes: Structured Query Language 101 at Texas Linuxfest](https://postgr.es/p/9uc) — Planet PostgreSQL
-- [Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/) — AWS Machine Learning Blog
-- [Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Viacheslav Sarzhan: Percona Operator for PostgreSQL 3.1.0: Transparent Data Encryption, Logical Replicas, and Persistent Logging](https://postgr.es/p/9ua) — Planet PostgreSQL
-- [Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board) — OpenAI Blog
-- [Sequoia doubles down on Cymphony as AI agents create new enterprise security risks](https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/) — TechCrunch AI
-- [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/) — TechCrunch AI
-- [Apple CEO John Ternus says the best AI device is still the iPhone](https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/) — TechCrunch AI
+- [Agentic BAIM-LLM Evaluation (ABLE): Benchmarking LLM Use of Protein Design Tools](https://arxiv.org/abs/2609.05818) — arXiv cs.AI
+- [The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies](https://arxiv.org/abs/2609.05514) — arXiv cs.AI
+- [MedDeID enables locally governed clinical-text de-identification from real or synthetic training data](https://arxiv.org/abs/2609.10049) — arXiv cs.CL
+- [ICYMI: What landed for AI builders in August 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/) — AWS Machine Learning Blog
+- [CUSP: Decomposable Collective Uncertainty for Multi-Agent Multimodal Reasoning](https://arxiv.org/abs/2609.05708) — arXiv cs.AI
+- [DAREBench: Deployment-Aware and Reliable Evaluation of Models as Agents](https://arxiv.org/abs/2609.06059) — arXiv cs.AI
+- [GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work) — OpenAI Blog
+- [Now everyone can put data to work](https://openai.com/index/put-data-to-work) — OpenAI Blog
 
 ## Recent digests
 
+- [2026-09-11](digests/2026-09-11.html)
 - [2026-09-10](digests/2026-09-10.html)
 - [2026-09-09](digests/2026-09-09.html)
 - [2026-09-08](digests/2026-09-08.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-10T07:48:10.849211+12:00._
 - [2026-08-15](digests/2026-08-15.html)
 - [2026-08-14](digests/2026-08-14.html)
 - [2026-08-13](digests/2026-08-13.html)
-- [2026-08-12](digests/2026-08-12.html)
 
 ## About this site
 
