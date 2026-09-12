@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-12T07:45:38.920338+12:00._
+_Last updated: 2026-09-13T07:24:32.838678+12:00._
 
-[Read the latest digest](digests/2026-09-12.html)
+[Read the latest digest](digests/2026-09-13.html)
 
 ## Latest top links
 
-- [Trust Me, I'm Your Developer: Self-Issued Authentication in Large Language Models](https://arxiv.org/abs/2609.03247) — arXiv cs.AI
-- [VALG: An Agentic System for ML Theory Research](https://arxiv.org/abs/2608.13060) — arXiv stat.ML
-- [Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload](https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/) — AWS Machine Learning Blog
-- [Build interactive MCP Apps using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [Kernel-Managed Shared Memory for System-Wide Personalization](https://arxiv.org/abs/2609.10144) — arXiv cs.AI
-- [Auto-RecSys: Harnessing Autonomous Research Agents for Industry-Scale Recommender System](https://arxiv.org/abs/2609.10922) — arXiv cs.CL
-- [Overview of the NLPCC 2026 Shared Task 11: Agent-Based Experiment Reproduction from Scientific Papers](https://arxiv.org/abs/2609.11117) — arXiv cs.CL
-- [TRACE: Training Reasoning Agents for Causal Exploration with Synthesized Rewards](https://arxiv.org/abs/2609.10315) — arXiv cs.AI
+- [SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics](https://arxiv.org/abs/2609.11180) — arXiv cs.AI
+- [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://arxiv.org/abs/2609.11115) — arXiv cs.AI
+- [Automated SQL Server Benchmarking with HammerDB and Docker: A Complete Testing Framework](https://www.sqlservercentral.com/blogs/automated-sql-server-benchmarking-with-hammerdb-and-docker-a-complete-testing-framework-3) — SQLServerCentral
+- [Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents](https://arxiv.org/abs/2609.11060) — arXiv cs.AI
+- [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) — OpenAI Blog
+- [An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics](https://arxiv.org/abs/2609.10712) — arXiv cs.AI
+- [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development) — The Verge AI
+- [Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-09-13](digests/2026-09-13.html)
 - [2026-09-12](digests/2026-09-12.html)
 - [2026-09-11](digests/2026-09-11.html)
 - [2026-09-10](digests/2026-09-10.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-12T07:45:38.920338+12:00._
 - [2026-08-17](digests/2026-08-17.html)
 - [2026-08-16](digests/2026-08-16.html)
 - [2026-08-15](digests/2026-08-15.html)
-- [2026-08-14](digests/2026-08-14.html)
 
 ## About this site
 
