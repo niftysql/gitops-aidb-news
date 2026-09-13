@@ -1,22 +1,21 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-13T07:24:32.838678+12:00._
+_Last updated: 2026-09-14T07:30:00.133209+12:00._
 
-[Read the latest digest](digests/2026-09-13.html)
+[Read the latest digest](digests/2026-09-14.html)
 
 ## Latest top links
 
-- [SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics](https://arxiv.org/abs/2609.11180) — arXiv cs.AI
-- [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://arxiv.org/abs/2609.11115) — arXiv cs.AI
-- [Automated SQL Server Benchmarking with HammerDB and Docker: A Complete Testing Framework](https://www.sqlservercentral.com/blogs/automated-sql-server-benchmarking-with-hammerdb-and-docker-a-complete-testing-framework-3) — SQLServerCentral
-- [Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents](https://arxiv.org/abs/2609.11060) — arXiv cs.AI
-- [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) — OpenAI Blog
-- [An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics](https://arxiv.org/abs/2609.10712) — arXiv cs.AI
-- [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development) — The Verge AI
-- [Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) — TechCrunch AI
+- [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack) — The Verge AI
+- [Find What Changed And When In Your Power BI Semantic Model](https://blog.crossjoin.co.uk/2026/09/13/find-what-changed-and-when-in-your-power-bi-semantic-model/) — Chris Webb's BI Blog
+- [Christophe Pettus: All Your GUCs in a Row: max_function_args](https://postgr.es/p/9up) — Planet PostgreSQL
+- [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/) — TechCrunch AI
+- [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised) — The Verge AI
+- [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-09-14](digests/2026-09-14.html)
 - [2026-09-13](digests/2026-09-13.html)
 - [2026-09-12](digests/2026-09-12.html)
 - [2026-09-11](digests/2026-09-11.html)
@@ -46,7 +45,6 @@ _Last updated: 2026-09-13T07:24:32.838678+12:00._
 - [2026-08-18](digests/2026-08-18.html)
 - [2026-08-17](digests/2026-08-17.html)
 - [2026-08-16](digests/2026-08-16.html)
-- [2026-08-15](digests/2026-08-15.html)
 
 ## About this site
 
