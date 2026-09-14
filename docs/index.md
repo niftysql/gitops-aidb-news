@@ -1,20 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-14T07:30:00.133209+12:00._
+_Last updated: 2026-09-15T08:57:18.912691+12:00._
 
-[Read the latest digest](digests/2026-09-14.html)
+[Read the latest digest](digests/2026-09-15.html)
 
 ## Latest top links
 
-- [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack) — The Verge AI
-- [Find What Changed And When In Your Power BI Semantic Model](https://blog.crossjoin.co.uk/2026/09/13/find-what-changed-and-when-in-your-power-bi-semantic-model/) — Chris Webb's BI Blog
-- [Christophe Pettus: All Your GUCs in a Row: max_function_args](https://postgr.es/p/9up) — Planet PostgreSQL
-- [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/) — TechCrunch AI
-- [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised) — The Verge AI
-- [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/) — TechCrunch AI
+- [Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite](https://arxiv.org/abs/2609.11987) — arXiv cs.CL
+- [Christophe Pettus: All Your GUCs in a Row: max_identifier_length](https://postgr.es/p/9uq) — Planet PostgreSQL
+- [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer) — OpenAI Blog
+- [AI agents blew the whistle on their cheating colleagues](https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/) — MIT Technology Review AI
+- [Microsoft says ‘people matter more than AI’ following safety concerns](https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct) — The Verge AI
+- [Chopthin-Consensus Power Sampling: A Diversity-Preserving Approach to LLM Decoding](https://arxiv.org/abs/2609.12243) — arXiv cs.CL
+- [AMDKernelVault: Large-Scale Datasets and Agentic Training for AMD GPU Kernel Optimization](https://arxiv.org/abs/2609.12471) — arXiv cs.CL
+- [Doc2FRC: Length-Consistent Document-Level Machine Translation via Fixed-Range Chunking](https://arxiv.org/abs/2609.12674) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-09-15](digests/2026-09-15.html)
 - [2026-09-14](digests/2026-09-14.html)
 - [2026-09-13](digests/2026-09-13.html)
 - [2026-09-12](digests/2026-09-12.html)
@@ -44,7 +47,6 @@ _Last updated: 2026-09-14T07:30:00.133209+12:00._
 - [2026-08-19](digests/2026-08-19.html)
 - [2026-08-18](digests/2026-08-18.html)
 - [2026-08-17](digests/2026-08-17.html)
-- [2026-08-16](digests/2026-08-16.html)
 
 ## About this site
 
