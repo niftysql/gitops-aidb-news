@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-19T07:39:57.787080+12:00._
+_Last updated: 2026-09-20T07:20:35.710955+12:00._
 
-[Read the latest digest](digests/2026-09-19.html)
+[Read the latest digest](digests/2026-09-20.html)
 
 ## Latest top links
 
-- [Researchers used Anthropic’s Claude to hack into OpenAI](https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/) — TechCrunch AI
-- [Security researchers used Claude to help them hack into OpenAI](https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist) — The Verge AI
-- [What Users Think of Generative AI: A Cross-Platform NLP Analysis of Trust and Friction in App Store Reviews](https://arxiv.org/abs/2609.19151) — arXiv cs.CL
-- [Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses](https://arxiv.org/abs/2609.19244) — arXiv cs.AI
-- [Geopolitical Divisions Across Languages in Large Language Models](https://arxiv.org/abs/2609.20005) — arXiv cs.AI
-- [Tell It Once: Setting Up Claude With Skills and MCP Servers](https://www.sqlservercentral.com/blogs/tell-it-once-setting-up-claude-with-skills-and-mcp-servers) — SQLServerCentral
-- [Introducing Amazon SageMaker HyperPod Inference Gateway](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/) — AWS Machine Learning Blog
-- [Closed-World Resolution Against Tool Hallucination in LLM Agents](https://arxiv.org/abs/2609.19425) — arXiv cs.AI
+- [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack) — The Verge AI
+- [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/) — TechCrunch AI
+- [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/) — TechCrunch AI
+- [The AI regulation smackdown isn’t over](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over) — The Verge AI
+- [Shaun Thomas: Looking Forward to Postgres 19: Epilogue](https://postgr.es/p/9v8) — Planet PostgreSQL
+- [Deploy Hugging Face models on Amazon SageMaker AI with coding agents](https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/) — AWS Machine Learning Blog
+- [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero) — The Verge AI
+- [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-09-20](digests/2026-09-20.html)
 - [2026-09-19](digests/2026-09-19.html)
 - [2026-09-18](digests/2026-09-18.html)
 - [2026-09-17](digests/2026-09-17.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-19T07:39:57.787080+12:00._
 - [2026-08-24](digests/2026-08-24.html)
 - [2026-08-23](digests/2026-08-23.html)
 - [2026-08-22](digests/2026-08-22.html)
-- [2026-08-21](digests/2026-08-21.html)
 
 ## About this site
 
