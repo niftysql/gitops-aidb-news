@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-20T07:20:35.710955+12:00._
+_Last updated: 2026-09-21T07:29:34.341766+12:00._
 
-[Read the latest digest](digests/2026-09-20.html)
+[Read the latest digest](digests/2026-09-21.html)
 
 ## Latest top links
 
-- [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack) — The Verge AI
-- [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/) — TechCrunch AI
-- [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/) — TechCrunch AI
-- [The AI regulation smackdown isn’t over](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over) — The Verge AI
-- [Shaun Thomas: Looking Forward to Postgres 19: Epilogue](https://postgr.es/p/9v8) — Planet PostgreSQL
-- [Deploy Hugging Face models on Amazon SageMaker AI with coding agents](https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/) — AWS Machine Learning Blog
-- [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero) — The Verge AI
-- [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/) — TechCrunch AI
+- [Find Unused Objects In Power BI Semantic Models With Semantic Link Labs](https://blog.crossjoin.co.uk/2026/09/20/find-unused-objects-in-power-bi-semantic-models-with-semantic-link-labs/) — Chris Webb's BI Blog
+- [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/) — TechCrunch AI
+- [ScrollEd wants to turn textbooks into TikTok](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/) — TechCrunch AI
+- [No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown) — The Verge AI
+- [Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure) — The Verge AI
+- [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/) — TechCrunch AI
+- [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) — TechCrunch AI
+- [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar) — The Verge AI
 
 ## Recent digests
 
+- [2026-09-21](digests/2026-09-21.html)
 - [2026-09-20](digests/2026-09-20.html)
 - [2026-09-19](digests/2026-09-19.html)
 - [2026-09-18](digests/2026-09-18.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-20T07:20:35.710955+12:00._
 - [2026-08-25](digests/2026-08-25.html)
 - [2026-08-24](digests/2026-08-24.html)
 - [2026-08-23](digests/2026-08-23.html)
-- [2026-08-22](digests/2026-08-22.html)
 
 ## About this site
 
