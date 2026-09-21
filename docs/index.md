@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-21T07:29:34.341766+12:00._
+_Last updated: 2026-09-22T09:06:41.594851+12:00._
 
-[Read the latest digest](digests/2026-09-21.html)
+[Read the latest digest](digests/2026-09-22.html)
 
 ## Latest top links
 
-- [Find Unused Objects In Power BI Semantic Models With Semantic Link Labs](https://blog.crossjoin.co.uk/2026/09/20/find-unused-objects-in-power-bi-semantic-models-with-semantic-link-labs/) — Chris Webb's BI Blog
-- [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/) — TechCrunch AI
-- [ScrollEd wants to turn textbooks into TikTok](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/) — TechCrunch AI
-- [No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown) — The Verge AI
-- [Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure) — The Verge AI
-- [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/) — TechCrunch AI
-- [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) — TechCrunch AI
-- [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar) — The Verge AI
+- [Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks](https://arxiv.org/abs/2609.21181) — arXiv cs.AI
+- [xAI’s Grok 4.6 is now available in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/) — AWS Machine Learning Blog
+- [Meta’s AI agent has been blocked from using Amazon.com](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/) — TechCrunch AI
+- [EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise](https://arxiv.org/abs/2609.21841) — arXiv cs.AI
+- [Boosting Deepresearch and LongContext Ability with Self-Generated Deepresearch Rollouts Traces](https://arxiv.org/abs/2609.20844) — arXiv cs.CL
+- [Omni Demand Understanding: A Benchmark for Contextual User-Intent Inference in Multimodal Interaction](https://arxiv.org/abs/2609.21392) — arXiv cs.CL
+- [Fidel-TS: A High-Fidelity Multimodal Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.24789) — arXiv stat.ML
+- [RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-09-22](digests/2026-09-22.html)
 - [2026-09-21](digests/2026-09-21.html)
 - [2026-09-20](digests/2026-09-20.html)
 - [2026-09-19](digests/2026-09-19.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-21T07:29:34.341766+12:00._
 - [2026-08-26](digests/2026-08-26.html)
 - [2026-08-25](digests/2026-08-25.html)
 - [2026-08-24](digests/2026-08-24.html)
-- [2026-08-23](digests/2026-08-23.html)
 
 ## About this site
 
