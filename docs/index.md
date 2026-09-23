@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-23T08:12:52.522527+12:00._
+_Last updated: 2026-09-24T08:26:05.761553+12:00._
 
-[Read the latest digest](digests/2026-09-23.html)
+[Read the latest digest](digests/2026-09-24.html)
 
 ## Latest top links
 
-- [Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/) — MIT Technology Review AI
-- [Claude Opus 5.5 is now available on AWS](https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/) — AWS Machine Learning Blog
-- [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) — The Verge AI
-- [An Empirical Cost Attribution of Context-Compression Gateways in Multi-Turn Coding Agents](https://arxiv.org/abs/2609.22114) — arXiv cs.CL
-- [Beyond Accuracy and Surface Fluency: Risk-Sensitive Evaluation of LLMs for Legal Clause Generation](https://arxiv.org/abs/2609.22127) — arXiv cs.CL
-- [Do Language Models Know Their Own Constraints?](https://arxiv.org/abs/2609.22151) — arXiv cs.CL
-- [OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/) — TechCrunch AI
-- [Extending public sector intelligence with Agentforce and AWS](https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/) — AWS Machine Learning Blog
+- [The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/) — MIT Technology Review AI
+- [Local Models Using GPUs with Ollama](https://www.sqlservercentral.com/blogs/local-models-using-gpus-with-ollama) — SQLServerCentral
+- [From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/) — AWS Machine Learning Blog
+- [Ringg’s AI agents resolve up to 65% of customer calls with OpenAI](https://openai.com/index/ringg) — OpenAI Blog
+- [Training a Language Model End-to-End in Rust: An Experience Report](https://arxiv.org/abs/2609.25008) — arXiv cs.CL
+- [Parallel cut research time and cost in half with GPT‑6 Astra](https://openai.com/index/parallel-cuts-time-and-cost-with-astra) — OpenAI Blog
+- [AgentRouter: Heterogeneous Model Routing for Cost-Optimal Multi-Step Agentic Workflows](https://arxiv.org/abs/2609.22951) — arXiv cs.AI
+- [FireWorldBench: Benchmarking Complex Physical World Intelligence through Coupled-Field Fire Dynamics](https://arxiv.org/abs/2609.23064) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-09-24](digests/2026-09-24.html)
 - [2026-09-23](digests/2026-09-23.html)
 - [2026-09-22](digests/2026-09-22.html)
 - [2026-09-21](digests/2026-09-21.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-23T08:12:52.522527+12:00._
 - [2026-08-28](digests/2026-08-28.html)
 - [2026-08-27](digests/2026-08-27.html)
 - [2026-08-26](digests/2026-08-26.html)
-- [2026-08-25](digests/2026-08-25.html)
 
 ## About this site
 
