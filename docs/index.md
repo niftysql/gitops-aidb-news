@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-25T08:31:33.115611+12:00._
+_Last updated: 2026-09-26T08:31:00.764991+12:00._
 
-[Read the latest digest](digests/2026-09-25.html)
+[Read the latest digest](digests/2026-09-26.html)
 
 ## Latest top links
 
-- [Improving LLM-based Autonomous Web Agents with Filtering](https://arxiv.org/abs/2609.27770) — arXiv cs.CL
-- [Guides That Cause Actions: An Offline Study of Guide-Action Mutual Reinforcement in Multimodal Web Agents](https://arxiv.org/abs/2609.27353) — arXiv cs.CL
-- [Alignment Inertia: Auditing the Durability of Training Data Influence Through Policy Override Resistance](https://arxiv.org/abs/2609.27333) — arXiv cs.AI
-- [Recognized but Not Produced: A Generation Benchmark for Culturally Specific Kinship Terms](https://arxiv.org/abs/2609.26942) — arXiv cs.CL
-- [Can One Adapted Model Do It All? Fine-Tuning Strategy Selection for Customer Support LLMs](https://arxiv.org/abs/2609.27262) — arXiv cs.CL
-- [Gemini 3.8 Live with Live Avatar gives Google’s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face) — The Verge AI
-- [Reinforcement Learning with Decomposed Subtasks](https://arxiv.org/abs/2609.27035) — arXiv cs.AI
-- [Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms](https://arxiv.org/abs/2609.27321) — arXiv cs.AI
+- [Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic](https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/) — TechCrunch AI
+- [Meta’s AI Tamagotchi bet is…working?](https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/) — TechCrunch AI
+- [One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google) — The Verge AI
+- [Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise](https://arxiv.org/abs/2609.28919) — arXiv cs.AI
+- [Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents](https://arxiv.org/abs/2609.28876) — arXiv cs.AI
+- [ASIRF: An Agentic Framework for Context-Dependent Sensitive Information Redaction](https://arxiv.org/abs/2609.29191) — arXiv cs.AI
+- [Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/) — AWS Machine Learning Blog
+- [TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split](https://arxiv.org/abs/2609.28506) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-09-26](digests/2026-09-26.html)
 - [2026-09-25](digests/2026-09-25.html)
 - [2026-09-24](digests/2026-09-24.html)
 - [2026-09-23](digests/2026-09-23.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-25T08:31:33.115611+12:00._
 - [2026-08-30](digests/2026-08-30.html)
 - [2026-08-29](digests/2026-08-29.html)
 - [2026-08-28](digests/2026-08-28.html)
-- [2026-08-27](digests/2026-08-27.html)
 
 ## About this site
 
