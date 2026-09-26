@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-26T08:31:00.764991+12:00._
+_Last updated: 2026-09-27T08:14:12.083622+13:00._
 
-[Read the latest digest](digests/2026-09-26.html)
+[Read the latest digest](digests/2026-09-27.html)
 
 ## Latest top links
 
-- [Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic](https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/) — TechCrunch AI
-- [Meta’s AI Tamagotchi bet is…working?](https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/) — TechCrunch AI
-- [One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google) — The Verge AI
-- [Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise](https://arxiv.org/abs/2609.28919) — arXiv cs.AI
-- [Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents](https://arxiv.org/abs/2609.28876) — arXiv cs.AI
-- [ASIRF: An Agentic Framework for Context-Dependent Sensitive Information Redaction](https://arxiv.org/abs/2609.29191) — arXiv cs.AI
-- [Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/) — AWS Machine Learning Blog
-- [TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split](https://arxiv.org/abs/2609.28506) — arXiv cs.AI
+- [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) — The Verge AI
+- [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) — TechCrunch AI
+- [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) — TechCrunch AI
+- [Mikhail Shytsko: Our Interleaved Backfill Wrote Three Times the WAL](https://postgr.es/p/9vJ) — Planet PostgreSQL
+- [Umair Shahid: Your Postgres Database Is Slow, and It Isn’t Postgres](https://postgr.es/p/9vF) — Planet PostgreSQL
+- [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) — TechCrunch AI
+- [Astra and Opus just passed Turing’s other test](https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/) — TechCrunch AI
+- [NarrateAI: production-ready LLM quality assurance on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-09-27](digests/2026-09-27.html)
 - [2026-09-26](digests/2026-09-26.html)
 - [2026-09-25](digests/2026-09-25.html)
 - [2026-09-24](digests/2026-09-24.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-26T08:31:00.764991+12:00._
 - [2026-08-31](digests/2026-08-31.html)
 - [2026-08-30](digests/2026-08-30.html)
 - [2026-08-29](digests/2026-08-29.html)
-- [2026-08-28](digests/2026-08-28.html)
 
 ## About this site
 
