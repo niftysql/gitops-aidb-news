@@ -1,22 +1,22 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-27T08:14:12.083622+13:00._
+_Last updated: 2026-09-28T08:46:35.331848+13:00._
 
-[Read the latest digest](digests/2026-09-27.html)
+[Read the latest digest](digests/2026-09-28.html)
 
 ## Latest top links
 
-- [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) — The Verge AI
-- [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) — TechCrunch AI
-- [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) — TechCrunch AI
-- [Mikhail Shytsko: Our Interleaved Backfill Wrote Three Times the WAL](https://postgr.es/p/9vJ) — Planet PostgreSQL
-- [Umair Shahid: Your Postgres Database Is Slow, and It Isn’t Postgres](https://postgr.es/p/9vF) — Planet PostgreSQL
-- [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) — TechCrunch AI
-- [Astra and Opus just passed Turing’s other test](https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/) — TechCrunch AI
-- [NarrateAI: production-ready LLM quality assurance on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website) — The Verge AI
+- [Vibhor Kumar: What “AI-Ready” Actually Means](https://postgr.es/p/9vM) — Planet PostgreSQL
+- [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/) — TechCrunch AI
+- [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/) — TechCrunch AI
+- [Improvements To Power Query Integration In Power BI Report Builder](https://blog.crossjoin.co.uk/2026/09/27/improvements-to-power-query-integration-in-power-bi-report-builder/) — Chris Webb's BI Blog
+- [Christophe Pettus: All Your GUCs in a Row: max_standby_archive_delay and max_standby_streaming_delay](https://postgr.es/p/9vK) — Planet PostgreSQL
+- [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-09-28](digests/2026-09-28.html)
 - [2026-09-27](digests/2026-09-27.html)
 - [2026-09-26](digests/2026-09-26.html)
 - [2026-09-25](digests/2026-09-25.html)
@@ -46,7 +46,6 @@ _Last updated: 2026-09-27T08:14:12.083622+13:00._
 - [2026-09-01](digests/2026-09-01.html)
 - [2026-08-31](digests/2026-08-31.html)
 - [2026-08-30](digests/2026-08-30.html)
-- [2026-08-29](digests/2026-08-29.html)
 
 ## About this site
 
