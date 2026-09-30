@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-09-30T09:51:22.960677+13:00._
+_Last updated: 2026-10-01T09:50:19.342697+13:00._
 
-[Read the latest digest](digests/2026-09-30.html)
+[Read the latest digest](digests/2026-10-01.html)
 
 ## Latest top links
 
-- [OpenAI’s latest features take direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/) — TechCrunch AI
-- [OpenAI launches Dots, its Muse competitor](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor) — The Verge AI
-- [AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews) — The Verge AI
-- [Power BI September 2026 Feature Summary](https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-September-2026-Feature-Summary/ba-p/5325831) — Microsoft Power BI Blog
-- [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap) — OpenAI Blog
-- [Reco raises $55M as AI agent security startups crowd the market](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/) — TechCrunch AI
-- [PTC-Decoder: Towards Intelligent SLMs on Offline Resource-Constrained Edge Devices](https://arxiv.org/abs/2609.30836) — arXiv cs.AI
-- [SkillEvoReg: Regularizing Agent Skill Evolution Against Overfitting](https://arxiv.org/abs/2609.30861) — arXiv cs.AI
+- [Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon) — The Verge AI
+- [Amazon Bedrock expands Claude model availability to in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/) — AWS Machine Learning Blog
+- [Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore](https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/) — AWS Machine Learning Blog
+- [Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models](https://arxiv.org/abs/2609.35875) — arXiv cs.AI
+- [Illusory Truth or Mere Exposure? Model-Dependent Repetition Effects in LLM-Based Social Media Simulations](https://arxiv.org/abs/2609.36278) — arXiv cs.AI
+- [Visual sensitivity is not claim retractability: persistence-aware credit assignment for multimodal reinforcement learning](https://arxiv.org/abs/2609.36572) — arXiv cs.AI
+- [Can Multimodal Large Language Models Generate and Detect Multimodal Social Media Fake News?](https://arxiv.org/abs/2609.35809) — arXiv cs.CL
+- [Elizabeth Garrett Christensen: Query Plan Hints in PostgreSQL 19: How & When to Use Advice](https://postgr.es/p/9wB) — Planet PostgreSQL
 
 ## Recent digests
 
+- [2026-10-01](digests/2026-10-01.html)
 - [2026-09-30](digests/2026-09-30.html)
 - [2026-09-29](digests/2026-09-29.html)
 - [2026-09-28](digests/2026-09-28.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-09-30T09:51:22.960677+13:00._
 - [2026-09-04](digests/2026-09-04.html)
 - [2026-09-03](digests/2026-09-03.html)
 - [2026-09-02](digests/2026-09-02.html)
-- [2026-09-01](digests/2026-09-01.html)
 
 ## About this site
 
