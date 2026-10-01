@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-01T09:50:19.342697+13:00._
+_Last updated: 2026-10-02T10:03:24.351131+13:00._
 
-[Read the latest digest](digests/2026-10-01.html)
+[Read the latest digest](digests/2026-10-02.html)
 
 ## Latest top links
 
-- [Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon) — The Verge AI
-- [Amazon Bedrock expands Claude model availability to in-country inferencing in India](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/) — AWS Machine Learning Blog
-- [Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore](https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/) — AWS Machine Learning Blog
-- [Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models](https://arxiv.org/abs/2609.35875) — arXiv cs.AI
-- [Illusory Truth or Mere Exposure? Model-Dependent Repetition Effects in LLM-Based Social Media Simulations](https://arxiv.org/abs/2609.36278) — arXiv cs.AI
-- [Visual sensitivity is not claim retractability: persistence-aware credit assignment for multimodal reinforcement learning](https://arxiv.org/abs/2609.36572) — arXiv cs.AI
-- [Can Multimodal Large Language Models Generate and Detect Multimodal Social Media Fake News?](https://arxiv.org/abs/2609.35809) — arXiv cs.CL
-- [Elizabeth Garrett Christensen: Query Plan Hints in PostgreSQL 19: How & When to Use Advice](https://postgr.es/p/9wB) — Planet PostgreSQL
+- [The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype](https://arxiv.org/abs/2609.39001) — arXiv cs.CL
+- [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail) — OpenAI Blog
+- [OpenAI’s new agent is a shot at Meta — but can it compete with free?](https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle) — The Verge AI
+- [Where Scientific Search Agents Fail: Decision-Checkpoint Auditing of Exposure and Inspection Attempts](https://arxiv.org/abs/2609.38670) — arXiv cs.AI
+- [Beyond Text: LLM-Based Dimensional Emotion Evaluation in Multimodal Dialogue](https://arxiv.org/abs/2609.39072) — arXiv cs.CL
+- [Prep data for AI vs. Fabric Data Agent Instructions: What Goes Where?](https://www.sqlservercentral.com/blogs/prep-data-for-ai-vs-fabric-data-agent-instructions-what-goes-where) — SQLServerCentral
+- [Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer](https://arxiv.org/abs/2609.38372) — arXiv cs.AI
+- [Demographic Pluralism: Inference-Time Modeling of Pluralistic Human Preference Distributions](https://arxiv.org/abs/2609.38555) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-10-02](digests/2026-10-02.html)
 - [2026-10-01](digests/2026-10-01.html)
 - [2026-09-30](digests/2026-09-30.html)
 - [2026-09-29](digests/2026-09-29.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-01T09:50:19.342697+13:00._
 - [2026-09-05](digests/2026-09-05.html)
 - [2026-09-04](digests/2026-09-04.html)
 - [2026-09-03](digests/2026-09-03.html)
-- [2026-09-02](digests/2026-09-02.html)
 
 ## About this site
 
