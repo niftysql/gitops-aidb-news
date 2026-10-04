@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-04T08:15:30.729236+13:00._
+_Last updated: 2026-10-05T08:40:45.915729+13:00._
 
-[Read the latest digest](digests/2026-10-04.html)
+[Read the latest digest](digests/2026-10-05.html)
 
 ## Latest top links
 
-- [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) — The Verge AI
-- [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) — TechCrunch AI
-- [Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/) — AWS Machine Learning Blog
-- [All the AI agents that can live in your text messages](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/) — TechCrunch AI
-- [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link) — The Verge AI
-- [Redefining enterprise intelligence with autonomous AI](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/) — MIT Technology Review AI
-- [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/) — TechCrunch AI
-- [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief) — Hugging Face Blog
+- [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft) — The Verge AI
+- [The Problem With Approximate Distinct Counts In Power BI – And How To Solve It](https://blog.crossjoin.co.uk/2026/10/04/the-problem-with-approximate-distinct-counts-in-power-bi-and-how-to-solve-it/) — Chris Webb's BI Blog
+- [Architecting Zero Downtime Deployments–Day of Data Boston](https://www.sqlservercentral.com/blogs/architecting-zero-downtime-deployments-day-of-data-boston) — SQLServerCentral
+- [Trump unveils his new Super Intelligence Force](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/) — TechCrunch AI
+- [Christophe Pettus: All Your GUCs in a Row: min_wal_size](https://postgr.es/p/9wX) — Planet PostgreSQL
+- [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) — Hugging Face Blog
+- [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true) — The Verge AI
+- [Splice CEO Kakul Srivastava thinks AI emails are killing conversations](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview) — The Verge AI
 
 ## Recent digests
 
+- [2026-10-05](digests/2026-10-05.html)
 - [2026-10-04](digests/2026-10-04.html)
 - [2026-10-03](digests/2026-10-03.html)
 - [2026-10-02](digests/2026-10-02.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-04T08:15:30.729236+13:00._
 - [2026-09-08](digests/2026-09-08.html)
 - [2026-09-07](digests/2026-09-07.html)
 - [2026-09-06](digests/2026-09-06.html)
-- [2026-09-05](digests/2026-09-05.html)
 
 ## About this site
 
