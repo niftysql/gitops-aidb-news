@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-05T08:40:45.915729+13:00._
+_Last updated: 2026-10-06T11:41:37.509116+13:00._
 
-[Read the latest digest](digests/2026-10-05.html)
+[Read the latest digest](digests/2026-10-06.html)
 
 ## Latest top links
 
-- [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft) — The Verge AI
-- [The Problem With Approximate Distinct Counts In Power BI – And How To Solve It](https://blog.crossjoin.co.uk/2026/10/04/the-problem-with-approximate-distinct-counts-in-power-bi-and-how-to-solve-it/) — Chris Webb's BI Blog
-- [Architecting Zero Downtime Deployments–Day of Data Boston](https://www.sqlservercentral.com/blogs/architecting-zero-downtime-deployments-day-of-data-boston) — SQLServerCentral
-- [Trump unveils his new Super Intelligence Force](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/) — TechCrunch AI
-- [Christophe Pettus: All Your GUCs in a Row: min_wal_size](https://postgr.es/p/9wX) — Planet PostgreSQL
-- [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) — Hugging Face Blog
-- [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true) — The Verge AI
-- [Splice CEO Kakul Srivastava thinks AI emails are killing conversations](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview) — The Verge AI
+- [When Terminal-Agent Training Stalls: Demystifying Data Generation and Verification Challenge](https://arxiv.org/abs/2610.02405) — arXiv cs.AI
+- [New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent](https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/) — AWS Machine Learning Blog
+- [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act) — The Verge AI
+- [Evaluating VQA in Vision Language Models using Cooperative Principles](https://arxiv.org/abs/2610.02878) — arXiv cs.CL
+- [OLMo-Detect: A Multi-Stage, Confounder-Controlled Benchmark for Membership Inference on Large Language Models](https://arxiv.org/abs/2610.02986) — arXiv cs.CL
+- [Supercharge regulated workloads with Claude Code and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/) — AWS Machine Learning Blog
+- [Decoupling Memory from Context: Structured Memory for Token-Efficient Test-Time Continual Learning](https://arxiv.org/abs/2610.02687) — arXiv cs.AI
+- [CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2610.03421) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-06](digests/2026-10-06.html)
 - [2026-10-05](digests/2026-10-05.html)
 - [2026-10-04](digests/2026-10-04.html)
 - [2026-10-03](digests/2026-10-03.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-05T08:40:45.915729+13:00._
 - [2026-09-09](digests/2026-09-09.html)
 - [2026-09-08](digests/2026-09-08.html)
 - [2026-09-07](digests/2026-09-07.html)
-- [2026-09-06](digests/2026-09-06.html)
 
 ## About this site
 
