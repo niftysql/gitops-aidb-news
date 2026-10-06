@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-06T11:41:37.509116+13:00._
+_Last updated: 2026-10-07T10:00:59.526412+13:00._
 
-[Read the latest digest](digests/2026-10-06.html)
+[Read the latest digest](digests/2026-10-07.html)
 
 ## Latest top links
 
-- [When Terminal-Agent Training Stalls: Demystifying Data Generation and Verification Challenge](https://arxiv.org/abs/2610.02405) — arXiv cs.AI
-- [New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent](https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/) — AWS Machine Learning Blog
-- [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act) — The Verge AI
-- [Evaluating VQA in Vision Language Models using Cooperative Principles](https://arxiv.org/abs/2610.02878) — arXiv cs.CL
-- [OLMo-Detect: A Multi-Stage, Confounder-Controlled Benchmark for Membership Inference on Large Language Models](https://arxiv.org/abs/2610.02986) — arXiv cs.CL
-- [Supercharge regulated workloads with Claude Code and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/) — AWS Machine Learning Blog
-- [Decoupling Memory from Context: Structured Memory for Token-Efficient Test-Time Continual Learning](https://arxiv.org/abs/2610.02687) — arXiv cs.AI
-- [CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2610.03421) — arXiv cs.CL
+- [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/) — TechCrunch AI
+- [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad) — OpenAI Blog
+- [Introducing GLM 5.3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership) — OpenAI Blog
+- [Mistral’s new 1T model aims to leapfrog closed and open rivals](https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/) — TechCrunch AI
+- [Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic](https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/) — AWS Machine Learning Blog
+- [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/) — TechCrunch AI
+- [Google is about to remove free access to Gemini Flash and Pro](https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only) — The Verge AI
 
 ## Recent digests
 
+- [2026-10-07](digests/2026-10-07.html)
 - [2026-10-06](digests/2026-10-06.html)
 - [2026-10-05](digests/2026-10-05.html)
 - [2026-10-04](digests/2026-10-04.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-06T11:41:37.509116+13:00._
 - [2026-09-10](digests/2026-09-10.html)
 - [2026-09-09](digests/2026-09-09.html)
 - [2026-09-08](digests/2026-09-08.html)
-- [2026-09-07](digests/2026-09-07.html)
 
 ## About this site
 
