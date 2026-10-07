@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-07T10:00:59.526412+13:00._
+_Last updated: 2026-10-08T10:20:07.223272+13:00._
 
-[Read the latest digest](digests/2026-10-07.html)
+[Read the latest digest](digests/2026-10-08.html)
 
 ## Latest top links
 
-- [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/) — TechCrunch AI
-- [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad) — OpenAI Blog
-- [Introducing GLM 5.3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership) — OpenAI Blog
-- [Mistral’s new 1T model aims to leapfrog closed and open rivals](https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/) — TechCrunch AI
-- [Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic](https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/) — AWS Machine Learning Blog
-- [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/) — TechCrunch AI
-- [Google is about to remove free access to Gemini Flash and Pro](https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only) — The Verge AI
+- [Introducing Claude Haiku 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/) — AWS Machine Learning Blog
+- [GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets](https://arxiv.org/abs/2610.06910) — arXiv cs.AI
+- [Leveraging a four-quadrant approach for evaluating Redpine Science](https://arxiv.org/abs/2610.07937) — arXiv cs.CL
+- [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/) — TechCrunch AI
+- [Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain](https://arxiv.org/abs/2610.06914) — arXiv cs.AI
+- [Large Language Model Orchestration under Heterogeneous Preferences via Explicit Persona Inference](https://arxiv.org/abs/2610.07587) — arXiv cs.CL
+- [How Qlik built grounded, enterprise-scale AI with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/) — AWS Machine Learning Blog
+- [AMBER: Training Long-Horizon Web Agents through Append-Only Memory](https://arxiv.org/abs/2610.07118) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-10-08](digests/2026-10-08.html)
 - [2026-10-07](digests/2026-10-07.html)
 - [2026-10-06](digests/2026-10-06.html)
 - [2026-10-05](digests/2026-10-05.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-07T10:00:59.526412+13:00._
 - [2026-09-11](digests/2026-09-11.html)
 - [2026-09-10](digests/2026-09-10.html)
 - [2026-09-09](digests/2026-09-09.html)
-- [2026-09-08](digests/2026-09-08.html)
 
 ## About this site
 
