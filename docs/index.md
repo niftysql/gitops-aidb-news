@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-10T09:57:29.779954+13:00._
+_Last updated: 2026-10-11T09:06:03.861226+13:00._
 
-[Read the latest digest](digests/2026-10-10.html)
+[Read the latest digest](digests/2026-10-11.html)
 
 ## Latest top links
 
-- [StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents](https://arxiv.org/abs/2610.10942) — arXiv cs.AI
-- [TRACE: Diagnosing Verifier Brittleness in Agentic Evaluation](https://arxiv.org/abs/2610.11678) — arXiv cs.CL
-- [The flight recorder: Replaying what an AI agent did on my SQL Server](https://www.sqlservercentral.com/blogs/the-flight-recorder-replaying-what-an-ai-agent-did-on-my-sql-server) — SQLServerCentral
-- [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent) — OpenAI Blog
-- [When Citations Mislead? A Claim-Level Benchmark for Legal Hallucination Detection](https://arxiv.org/abs/2610.10971) — arXiv cs.CL
-- [SAIL: Scientific Agentic Intelligence via a Science-Aware Loop](https://arxiv.org/abs/2610.11451) — arXiv cs.CL
-- [ICYMI: What landed for AI builders in September 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/) — AWS Machine Learning Blog
-- [OpenAI doubles down on decision to fire three AI safety researchers](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers) — The Verge AI
+- [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet) — The Verge AI
+- [AI agent makers are promising privacy — will they deliver?](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots) — The Verge AI
+- [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) — TechCrunch AI
+- [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip) — The Verge AI
+- [How to Clear the SSMS Cache (SSMS 21 and Later)](https://www.sqlservercentral.com/blogs/how-to-clear-the-ssms-cache-ssms-21-and-later) — SQLServerCentral
+- [Chris van Eijk: new row violates row-level security policy: the causes](https://postgr.es/p/9xw) — Planet PostgreSQL
+- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/) — TechCrunch AI
+- [Amazon drops data center NDAs, and AI agents want your credit card](https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-10-11](digests/2026-10-11.html)
 - [2026-10-10](digests/2026-10-10.html)
 - [2026-10-09](digests/2026-10-09.html)
 - [2026-10-08](digests/2026-10-08.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-10T09:57:29.779954+13:00._
 - [2026-09-14](digests/2026-09-14.html)
 - [2026-09-13](digests/2026-09-13.html)
 - [2026-09-12](digests/2026-09-12.html)
-- [2026-09-11](digests/2026-09-11.html)
 
 ## About this site
 
