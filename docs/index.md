@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-11T09:06:03.861226+13:00._
+_Last updated: 2026-10-12T09:20:36.651031+13:00._
 
-[Read the latest digest](digests/2026-10-11.html)
+[Read the latest digest](digests/2026-10-12.html)
 
 ## Latest top links
 
-- [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet) — The Verge AI
-- [AI agent makers are promising privacy — will they deliver?](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots) — The Verge AI
-- [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) — TechCrunch AI
-- [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip) — The Verge AI
-- [How to Clear the SSMS Cache (SSMS 21 and Later)](https://www.sqlservercentral.com/blogs/how-to-clear-the-ssms-cache-ssms-21-and-later) — SQLServerCentral
-- [Chris van Eijk: new row violates row-level security policy: the causes](https://postgr.es/p/9xw) — Planet PostgreSQL
-- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/) — TechCrunch AI
-- [Amazon drops data center NDAs, and AI agents want your credit card](https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/) — TechCrunch AI
+- [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/) — TechCrunch AI
+- [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress) — The Verge AI
+- [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) — TechCrunch AI
+- [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) — The Verge AI
+- [Radim Marek: How TABLESAMPLE picks rows](https://postgr.es/p/9xB) — Planet PostgreSQL
+- [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/) — TechCrunch AI
+- [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/) — TechCrunch AI
+- [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai) — The Verge AI
 
 ## Recent digests
 
+- [2026-10-12](digests/2026-10-12.html)
 - [2026-10-11](digests/2026-10-11.html)
 - [2026-10-10](digests/2026-10-10.html)
 - [2026-10-09](digests/2026-10-09.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-11T09:06:03.861226+13:00._
 - [2026-09-15](digests/2026-09-15.html)
 - [2026-09-14](digests/2026-09-14.html)
 - [2026-09-13](digests/2026-09-13.html)
-- [2026-09-12](digests/2026-09-12.html)
 
 ## About this site
 
