@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-12T09:20:36.651031+13:00._
+_Last updated: 2026-10-13T12:01:23.697798+13:00._
 
-[Read the latest digest](digests/2026-10-12.html)
+[Read the latest digest](digests/2026-10-13.html)
 
 ## Latest top links
 
-- [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/) — TechCrunch AI
-- [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress) — The Verge AI
-- [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) — TechCrunch AI
-- [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) — The Verge AI
-- [Radim Marek: How TABLESAMPLE picks rows](https://postgr.es/p/9xB) — Planet PostgreSQL
-- [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/) — TechCrunch AI
-- [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/) — TechCrunch AI
-- [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai) — The Verge AI
+- [Devrim GÜNDÜZ: PostgreSQL RPM repository meets AI with pg_statviz](https://postgr.es/p/9xN) — Planet PostgreSQL
+- [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout) — The Verge AI
+- [Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/) — AWS Machine Learning Blog
+- [Deploy decision models with llama.cpp on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/) — AWS Machine Learning Blog
+- [Run multi-node inference workloads using Ray LLM Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/) — AWS Machine Learning Blog
+- [MathVis: Can AI Reason through Drawing? A Benchmark for Mathematical Figure Generation](https://arxiv.org/abs/2610.12954) — arXiv cs.AI
+- [SWE-Duel: Towards a Self-Scaling Arena for Coding Agents](https://arxiv.org/abs/2610.12569) — arXiv cs.CL
+- [Language Models Have Interpretable Narrative Mechanisms](https://arxiv.org/abs/2610.12989) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-13](digests/2026-10-13.html)
 - [2026-10-12](digests/2026-10-12.html)
 - [2026-10-11](digests/2026-10-11.html)
 - [2026-10-10](digests/2026-10-10.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-12T09:20:36.651031+13:00._
 - [2026-09-16](digests/2026-09-16.html)
 - [2026-09-15](digests/2026-09-15.html)
 - [2026-09-14](digests/2026-09-14.html)
-- [2026-09-13](digests/2026-09-13.html)
 
 ## About this site
 
