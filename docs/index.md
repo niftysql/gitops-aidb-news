@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-13T12:01:23.697798+13:00._
+_Last updated: 2026-10-14T10:18:37.678110+13:00._
 
-[Read the latest digest](digests/2026-10-13.html)
+[Read the latest digest](digests/2026-10-14.html)
 
 ## Latest top links
 
-- [Devrim GÜNDÜZ: PostgreSQL RPM repository meets AI with pg_statviz](https://postgr.es/p/9xN) — Planet PostgreSQL
-- [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout) — The Verge AI
-- [Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan](https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/) — AWS Machine Learning Blog
-- [Deploy decision models with llama.cpp on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/) — AWS Machine Learning Blog
-- [Run multi-node inference workloads using Ray LLM Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/) — AWS Machine Learning Blog
-- [MathVis: Can AI Reason through Drawing? A Benchmark for Mathematical Figure Generation](https://arxiv.org/abs/2610.12954) — arXiv cs.AI
-- [SWE-Duel: Towards a Self-Scaling Arena for Coding Agents](https://arxiv.org/abs/2610.12569) — arXiv cs.CL
-- [Language Models Have Interpretable Narrative Mechanisms](https://arxiv.org/abs/2610.12989) — arXiv cs.CL
+- [AdaC-GRPO: Towards Mastering Long-Horizon Visual Sudoku Puzzles via Adaptive Curriculum Learning](https://arxiv.org/abs/2610.13184) — arXiv cs.AI
+- [Epic shifts to ‘AI-accelerated development’ for upcoming Disney game](https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art) — The Verge AI
+- [SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire](https://arxiv.org/abs/2610.12596) — arXiv cs.AI
+- [SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents](https://arxiv.org/abs/2610.12975) — arXiv cs.AI
+- [Forgetting is Not Always Bad: A Neuro-Inspired Memory Repair Mechanism for Poisoned LLM Agents](https://arxiv.org/abs/2610.13267) — arXiv cs.AI
+- [One Model to Loop Them All: Elastic Latent Recurrence for Language Models](https://arxiv.org/abs/2610.12582) — arXiv cs.CL
+- [MADS: Multi-Agent Dialog Simulation for Robust Conversational Agents](https://arxiv.org/abs/2610.12757) — arXiv cs.CL
+- [Evaluating LLM Creativity through Long-Tail Performance](https://arxiv.org/abs/2610.12998) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-14](digests/2026-10-14.html)
 - [2026-10-13](digests/2026-10-13.html)
 - [2026-10-12](digests/2026-10-12.html)
 - [2026-10-11](digests/2026-10-11.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-13T12:01:23.697798+13:00._
 - [2026-09-17](digests/2026-09-17.html)
 - [2026-09-16](digests/2026-09-16.html)
 - [2026-09-15](digests/2026-09-15.html)
-- [2026-09-14](digests/2026-09-14.html)
 
 ## About this site
 
