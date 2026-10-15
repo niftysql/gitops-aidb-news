@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-15T09:13:23.984188+13:00._
+_Last updated: 2026-10-16T08:54:30.894018+13:00._
 
-[Read the latest digest](digests/2026-10-15.html)
+[Read the latest digest](digests/2026-10-16.html)
 
 ## Latest top links
 
-- [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding) — OpenAI Blog
-- [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on) — The Verge AI
-- [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research) — OpenAI Blog
-- [Anthropic’s self-replicating AI warning is alarming deja vu](https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk) — The Verge AI
-- [Microsoft has a new machine learning tool to improve weather forecasts](https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft) — The Verge AI
-- [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) — Google DeepMind Blog
-- [Pavel Luzanov: PostgreSQL 19: part 5.1 (QPT) or CommitFest 2026-03](https://postgr.es/p/9y1) — Planet PostgreSQL
-- [Floqer’s AI agents research sales prospects so teams don’t have to](https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/) — TechCrunch AI
+- [A Reference Architecture for Integrating Agentic AI into Enterprise Software: Responsibilities, Interactions, and Variability](https://arxiv.org/abs/2610.14818) — arXiv cs.AI
+- [Measuring the Inference Energy Efficiency of Open-Weight LLMs across Benchmarks, Reasoning Modes, and Hardware](https://arxiv.org/abs/2610.14389) — arXiv cs.AI
+- [Iterate on an LLM, Serve on an SLM](https://arxiv.org/abs/2610.14576) — arXiv cs.AI
+- [ProgAgent: Learning Tool Orchestration through Programmatic Training](https://arxiv.org/abs/2610.14774) — arXiv cs.AI
+- [Pre-Trained Language Models as Zero-Shot Tools for Social Science Research](https://arxiv.org/abs/2610.19048) — arXiv cs.CL
+- [Databricks ADBC connector for Power BI and Microsoft Fabric (Generally Available)](https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Databricks-ADBC-connector-for-Power-BI-and-Microsoft-Fabric/ba-p/5369591) — Microsoft Power BI Blog
+- [Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/) — TechCrunch AI
+- [Following the Flow the Law Requires: Training Voice Agents to Transfer to Unseen Regulated Procedures in Debt Collection](https://arxiv.org/abs/2610.18881) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-16](digests/2026-10-16.html)
 - [2026-10-15](digests/2026-10-15.html)
 - [2026-10-14](digests/2026-10-14.html)
 - [2026-10-13](digests/2026-10-13.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-15T09:13:23.984188+13:00._
 - [2026-09-19](digests/2026-09-19.html)
 - [2026-09-18](digests/2026-09-18.html)
 - [2026-09-17](digests/2026-09-17.html)
-- [2026-09-16](digests/2026-09-16.html)
 
 ## About this site
 
