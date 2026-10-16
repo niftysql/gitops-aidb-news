@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-16T08:54:30.894018+13:00._
+_Last updated: 2026-10-17T08:34:27.987532+13:00._
 
-[Read the latest digest](digests/2026-10-16.html)
+[Read the latest digest](digests/2026-10-17.html)
 
 ## Latest top links
 
-- [A Reference Architecture for Integrating Agentic AI into Enterprise Software: Responsibilities, Interactions, and Variability](https://arxiv.org/abs/2610.14818) — arXiv cs.AI
-- [Measuring the Inference Energy Efficiency of Open-Weight LLMs across Benchmarks, Reasoning Modes, and Hardware](https://arxiv.org/abs/2610.14389) — arXiv cs.AI
-- [Iterate on an LLM, Serve on an SLM](https://arxiv.org/abs/2610.14576) — arXiv cs.AI
-- [ProgAgent: Learning Tool Orchestration through Programmatic Training](https://arxiv.org/abs/2610.14774) — arXiv cs.AI
-- [Pre-Trained Language Models as Zero-Shot Tools for Social Science Research](https://arxiv.org/abs/2610.19048) — arXiv cs.CL
-- [Databricks ADBC connector for Power BI and Microsoft Fabric (Generally Available)](https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Databricks-ADBC-connector-for-Power-BI-and-Microsoft-Fabric/ba-p/5369591) — Microsoft Power BI Blog
-- [Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/) — TechCrunch AI
-- [Following the Flow the Law Requires: Training Voice Agents to Transfer to Unseen Regulated Procedures in Debt Collection](https://arxiv.org/abs/2610.18881) — arXiv cs.CL
+- [Andrew Atkinson: PostgreSQL in the 2026 Ruby on Rails Community Survey and Book Giveaways](https://postgr.es/p/9yH) — Planet PostgreSQL
+- [Introducing Reflection Beam: an open-weight model for agentic coding on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/) — AWS Machine Learning Blog
+- [Athanor: An Agent-Native System for Autonomous Post-Training Research](https://arxiv.org/abs/2610.21055) — arXiv cs.AI
+- [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](https://arxiv.org/abs/2610.20665) — arXiv cs.AI
+- [OmicsBench: a long-horizon multi-turn benchmark of AI agents on research-study-scale bioinformatics](https://arxiv.org/abs/2610.21074) — arXiv cs.AI
+- [Sci$\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082) — arXiv cs.AI
+- [MeddeX: A Retrieval-Augmented LLaMA-3 System with Gemini Vision for Evidence-Backed Medical Report Analysis](https://arxiv.org/abs/2610.20632) — arXiv cs.CL
+- [ToolBottleneckBench: Measuring Tool-Agent Performance under Controlled Pressures and Fixed Harness Budgets](https://arxiv.org/abs/2610.21098) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-17](digests/2026-10-17.html)
 - [2026-10-16](digests/2026-10-16.html)
 - [2026-10-15](digests/2026-10-15.html)
 - [2026-10-14](digests/2026-10-14.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-16T08:54:30.894018+13:00._
 - [2026-09-20](digests/2026-09-20.html)
 - [2026-09-19](digests/2026-09-19.html)
 - [2026-09-18](digests/2026-09-18.html)
-- [2026-09-17](digests/2026-09-17.html)
 
 ## About this site
 
