@@ -1,22 +1,22 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-18T07:31:52.247048+13:00._
+_Last updated: 2026-10-19T07:39:52.547445+13:00._
 
-[Read the latest digest](digests/2026-10-18.html)
+[Read the latest digest](digests/2026-10-19.html)
 
 ## Latest top links
 
-- [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web) — The Verge AI
-- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/) — TechCrunch AI
-- [Physical AI is more than robots, says the Nvidia veteran now investing in it](https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/) — TechCrunch AI
-- [Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/) — TechCrunch AI
-- [Christophe Pettus: All Your GUCs in a Row: quote_all_identifiers](https://postgr.es/p/9yK) — Planet PostgreSQL
-- [Álvaro Hernández: Open-source Citus matches PlanetScale's Neki at 10M QPS on half the data nodes](https://postgr.es/p/9yG) — Planet PostgreSQL
-- [Chris Travers: PostgreSQL 18 and libnuma](https://postgr.es/p/9yE) — Planet PostgreSQL
-- [Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
+- [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) — TechCrunch AI
+- [Monitoring The Impact Of Full-Text Indexing On Semantic Model Refresh In Power BI](https://blog.crossjoin.co.uk/2026/10/18/monitoring-the-impact-of-full-text-indexing-on-semantic-model-refresh-in-power-bi/) — Chris Webb's BI Blog
+- [Christophe Pettus: All Your GUCs in a Row: random_page_cost and seq_page_cost](https://postgr.es/p/9yN) — Planet PostgreSQL
+- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) — TechCrunch AI
+- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) — TechCrunch AI
+- [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/) — TechCrunch AI
+- [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot) — The Verge AI
 
 ## Recent digests
 
+- [2026-10-19](digests/2026-10-19.html)
 - [2026-10-18](digests/2026-10-18.html)
 - [2026-10-17](digests/2026-10-17.html)
 - [2026-10-16](digests/2026-10-16.html)
@@ -46,7 +46,6 @@ _Last updated: 2026-10-18T07:31:52.247048+13:00._
 - [2026-09-22](digests/2026-09-22.html)
 - [2026-09-21](digests/2026-09-21.html)
 - [2026-09-20](digests/2026-09-20.html)
-- [2026-09-19](digests/2026-09-19.html)
 
 ## About this site
 

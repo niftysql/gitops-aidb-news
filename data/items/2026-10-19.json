@@ -1,0 +1,99 @@
+{
+  "digest_date": "2026-10-19",
+  "generated_at": "2026-10-19T07:39:52.547445+13:00",
+  "items": [
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "published": "2026-10-17T18:48:08+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "anthropic",
+        "claude",
+        "model"
+      ],
+      "score": 9.5,
+      "source": "TechCrunch AI",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "canonical_url": "https://blog.crossjoin.co.uk/2026/10/18/monitoring-the-impact-of-full-text-indexing-on-semantic-model-refresh-in-power-bi",
+      "published": "2026-10-18T13:29:24+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model"
+      ],
+      "score": 5.7,
+      "source": "Chris Webb's BI Blog",
+      "summary": "The September release of Power BI saw the introduction of a powerful new feature: full text indexing, which makes searching and filtering on text columns much faster and enables the use of the new TextContains() and TextSimilarity() DAX functions. You need to enable it on a per-column basis and when you do that you have … Continue reading Monitoring The Impact Of Full-Text Indexing On Semantic Model Refresh In Power BI →",
+      "title": "Monitoring The Impact Of Full-Text Indexing On Semantic Model Refresh In Power BI",
+      "url": "https://blog.crossjoin.co.uk/2026/10/18/monitoring-the-impact-of-full-text-indexing-on-semantic-model-refresh-in-power-bi/"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9yN",
+      "published": "2026-10-18T01:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "sql"
+      ],
+      "score": 4.7,
+      "source": "Planet PostgreSQL",
+      "summary": "The planner charges `random_page_cost` per index page based on how uncorrelated the index is—but the name lies. (I consult on PostgreSQL through PGX Inc..)",
+      "title": "Christophe Pettus: All Your GUCs in a Row: random_page_cost and seq_page_cost",
+      "url": "https://postgr.es/p/9yN"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "published": "2026-10-17T21:31:32+00:00",
+      "reasons": [
+        "fresh <30h",
+        "training"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+      "published": "2026-10-17T20:21:19+00:00",
+      "reasons": [
+        "fresh <30h",
+        "anthropic"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
+      "published": "2026-10-18T16:30:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "startup"
+      ],
+      "score": 4.3,
+      "source": "TechCrunch AI",
+      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […]",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "published": "2026-10-18T18:28:10+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
+    }
+  ]
+}
