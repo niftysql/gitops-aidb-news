@@ -1,21 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-19T07:39:52.547445+13:00._
+_Last updated: 2026-10-20T10:06:56.718639+13:00._
 
-[Read the latest digest](digests/2026-10-19.html)
+[Read the latest digest](digests/2026-10-20.html)
 
 ## Latest top links
 
-- [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) — TechCrunch AI
-- [Monitoring The Impact Of Full-Text Indexing On Semantic Model Refresh In Power BI](https://blog.crossjoin.co.uk/2026/10/18/monitoring-the-impact-of-full-text-indexing-on-semantic-model-refresh-in-power-bi/) — Chris Webb's BI Blog
-- [Christophe Pettus: All Your GUCs in a Row: random_page_cost and seq_page_cost](https://postgr.es/p/9yN) — Planet PostgreSQL
-- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) — TechCrunch AI
-- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) — TechCrunch AI
-- [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/) — TechCrunch AI
-- [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot) — The Verge AI
+- [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://arxiv.org/abs/2610.22408) — arXiv cs.AI
+- [Harness-Delta Attribution: Dissecting Gains From Harness Evolution](https://arxiv.org/abs/2610.22466) — arXiv cs.AI
+- [Adaptation of Computer Use Agents to New Software with User Manuals](https://arxiv.org/abs/2610.23012) — arXiv cs.AI
+- [A Plausible Explanation Is Enough to Mislead Multimodal Judges](https://arxiv.org/abs/2610.22631) — arXiv cs.CL
+- [Nvidia launches new open models to run agents in the enterprise and on PCs](https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/) — TechCrunch AI
+- [AI researchers stranded Claude on a virtual desert island. It started to “play.”](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/) — MIT Technology Review AI
+- [Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](https://arxiv.org/abs/2610.22373) — arXiv cs.AI
+- [AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems](https://arxiv.org/abs/2610.22511) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-20](digests/2026-10-20.html)
 - [2026-10-19](digests/2026-10-19.html)
 - [2026-10-18](digests/2026-10-18.html)
 - [2026-10-17](digests/2026-10-17.html)
@@ -45,7 +47,6 @@ _Last updated: 2026-10-19T07:39:52.547445+13:00._
 - [2026-09-23](digests/2026-09-23.html)
 - [2026-09-22](digests/2026-09-22.html)
 - [2026-09-21](digests/2026-09-21.html)
-- [2026-09-20](digests/2026-09-20.html)
 
 ## About this site
 
