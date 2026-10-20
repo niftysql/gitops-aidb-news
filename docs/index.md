@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-20T10:06:56.718639+13:00._
+_Last updated: 2026-10-21T09:01:06.285483+13:00._
 
-[Read the latest digest](digests/2026-10-20.html)
+[Read the latest digest](digests/2026-10-21.html)
 
 ## Latest top links
 
-- [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://arxiv.org/abs/2610.22408) — arXiv cs.AI
-- [Harness-Delta Attribution: Dissecting Gains From Harness Evolution](https://arxiv.org/abs/2610.22466) — arXiv cs.AI
-- [Adaptation of Computer Use Agents to New Software with User Manuals](https://arxiv.org/abs/2610.23012) — arXiv cs.AI
-- [A Plausible Explanation Is Enough to Mislead Multimodal Judges](https://arxiv.org/abs/2610.22631) — arXiv cs.CL
-- [Nvidia launches new open models to run agents in the enterprise and on PCs](https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/) — TechCrunch AI
-- [AI researchers stranded Claude on a virtual desert island. It started to “play.”](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/) — MIT Technology Review AI
-- [Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](https://arxiv.org/abs/2610.22373) — arXiv cs.AI
-- [AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems](https://arxiv.org/abs/2610.22511) — arXiv cs.CL
+- [Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference](https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/) — AWS Machine Learning Blog
+- [Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/) — TechCrunch AI
+- [Work management context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/) — AWS Machine Learning Blog
+- [Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
+- [A visit to Samsung’s massive new semiconductor hub](https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/) — MIT Technology Review AI
+- [Structured outputs for Anthropic Claude models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages) — OpenAI Blog
+- [How Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design) — Anthropic Research
 
 ## Recent digests
 
+- [2026-10-21](digests/2026-10-21.html)
 - [2026-10-20](digests/2026-10-20.html)
 - [2026-10-19](digests/2026-10-19.html)
 - [2026-10-18](digests/2026-10-18.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-20T10:06:56.718639+13:00._
 - [2026-09-24](digests/2026-09-24.html)
 - [2026-09-23](digests/2026-09-23.html)
 - [2026-09-22](digests/2026-09-22.html)
-- [2026-09-21](digests/2026-09-21.html)
 
 ## About this site
 
