@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-21T09:01:06.285483+13:00._
+_Last updated: 2026-10-22T09:12:51.416843+13:00._
 
-[Read the latest digest](digests/2026-10-21.html)
+[Read the latest digest](digests/2026-10-22.html)
 
 ## Latest top links
 
-- [Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference](https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/) — AWS Machine Learning Blog
-- [Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/) — TechCrunch AI
-- [Work management context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/) — AWS Machine Learning Blog
-- [Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [A visit to Samsung’s massive new semiconductor hub](https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/) — MIT Technology Review AI
-- [Structured outputs for Anthropic Claude models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages) — OpenAI Blog
-- [How Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design) — Anthropic Research
+- [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud) — OpenAI Blog
+- [Beyond Experience: Knowledge-Guided Evolution for NPU Kernel Generation](https://arxiv.org/abs/2610.27588) — arXiv cs.AI
+- [Evaluating Context Compaction on the Questions That Come Later](https://arxiv.org/abs/2610.27301) — arXiv cs.CL
+- [OpenAI says an AI agent lied about disabling its safety monitoring system](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems) — The Verge AI
+- [MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring](https://arxiv.org/abs/2610.26913) — arXiv cs.AI
+- [MMedAgent-Plus: Scaling Multimodal Medical Agents across Modalities, Tasks and Workflows](https://arxiv.org/abs/2610.27233) — arXiv cs.CL
+- [Microsoft & Snowflake’s Commitment to Apache Ossie](https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534) — Microsoft Power BI Blog
+- [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-10-22](digests/2026-10-22.html)
 - [2026-10-21](digests/2026-10-21.html)
 - [2026-10-20](digests/2026-10-20.html)
 - [2026-10-19](digests/2026-10-19.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-21T09:01:06.285483+13:00._
 - [2026-09-25](digests/2026-09-25.html)
 - [2026-09-24](digests/2026-09-24.html)
 - [2026-09-23](digests/2026-09-23.html)
-- [2026-09-22](digests/2026-09-22.html)
 
 ## About this site
 
