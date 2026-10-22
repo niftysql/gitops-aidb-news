@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-22T09:12:51.416843+13:00._
+_Last updated: 2026-10-23T09:10:45.403533+13:00._
 
-[Read the latest digest](digests/2026-10-22.html)
+[Read the latest digest](digests/2026-10-23.html)
 
 ## Latest top links
 
-- [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud) — OpenAI Blog
-- [Beyond Experience: Knowledge-Guided Evolution for NPU Kernel Generation](https://arxiv.org/abs/2610.27588) — arXiv cs.AI
-- [Evaluating Context Compaction on the Questions That Come Later](https://arxiv.org/abs/2610.27301) — arXiv cs.CL
-- [OpenAI says an AI agent lied about disabling its safety monitoring system](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems) — The Verge AI
-- [MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring](https://arxiv.org/abs/2610.26913) — arXiv cs.AI
-- [MMedAgent-Plus: Scaling Multimodal Medical Agents across Modalities, Tasks and Workflows](https://arxiv.org/abs/2610.27233) — arXiv cs.CL
-- [Microsoft & Snowflake’s Commitment to Apache Ossie](https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534) — Microsoft Power BI Blog
-- [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/) — TechCrunch AI
+- [SANE: Automated Scorer-Specific Metamorphic Testing for LLM Judges](https://arxiv.org/abs/2610.28886) — arXiv cs.CL
+- [Announcing new ways to customize models with SageMaker AI, without managing GPUs](https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/) — AWS Machine Learning Blog
+- [Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs](https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/) — AWS Machine Learning Blog
+- [Claude Duet app is Anthropic’s bet on agents](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/) — TechCrunch AI
+- [Donating Agent Skills to the Agentic AI Foundation](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation) — Anthropic News
+- [AI’s hidden storage bill: What inference leaves behind](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/) — MIT Technology Review AI
+- [Adaptive agentic intelligence framework using Strands Agents](https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/) — AWS Machine Learning Blog
+- [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-10-23](digests/2026-10-23.html)
 - [2026-10-22](digests/2026-10-22.html)
 - [2026-10-21](digests/2026-10-21.html)
 - [2026-10-20](digests/2026-10-20.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-22T09:12:51.416843+13:00._
 - [2026-09-26](digests/2026-09-26.html)
 - [2026-09-25](digests/2026-09-25.html)
 - [2026-09-24](digests/2026-09-24.html)
-- [2026-09-23](digests/2026-09-23.html)
 
 ## About this site
 
