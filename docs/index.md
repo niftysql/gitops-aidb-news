@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-23T09:10:45.403533+13:00._
+_Last updated: 2026-10-24T08:58:18.616458+13:00._
 
-[Read the latest digest](digests/2026-10-23.html)
+[Read the latest digest](digests/2026-10-24.html)
 
 ## Latest top links
 
-- [SANE: Automated Scorer-Specific Metamorphic Testing for LLM Judges](https://arxiv.org/abs/2610.28886) — arXiv cs.CL
-- [Announcing new ways to customize models with SageMaker AI, without managing GPUs](https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/) — AWS Machine Learning Blog
-- [Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs](https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/) — AWS Machine Learning Blog
-- [Claude Duet app is Anthropic’s bet on agents](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/) — TechCrunch AI
-- [Donating Agent Skills to the Agentic AI Foundation](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation) — Anthropic News
-- [AI’s hidden storage bill: What inference leaves behind](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/) — MIT Technology Review AI
-- [Adaptive agentic intelligence framework using Strands Agents](https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/) — AWS Machine Learning Blog
-- [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/) — TechCrunch AI
+- [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment) — OpenAI Blog
+- [D-Skill: Distilling Teacher Knowledge through Agent Skills](https://arxiv.org/abs/2610.28914) — arXiv cs.AI
+- [TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents](https://arxiv.org/abs/2610.30161) — arXiv cs.CL
+- [FusionEval: Benchmarking Model Fusion for Large Language Models](https://arxiv.org/abs/2610.30162) — arXiv cs.CL
+- [Protegrity-PII Technical Report](https://arxiv.org/abs/2610.30518) — arXiv cs.CL
+- [Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/) — AWS Machine Learning Blog
+- [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership) — OpenAI Blog
+- [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-10-24](digests/2026-10-24.html)
 - [2026-10-23](digests/2026-10-23.html)
 - [2026-10-22](digests/2026-10-22.html)
 - [2026-10-21](digests/2026-10-21.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-23T09:10:45.403533+13:00._
 - [2026-09-27](digests/2026-09-27.html)
 - [2026-09-26](digests/2026-09-26.html)
 - [2026-09-25](digests/2026-09-25.html)
-- [2026-09-24](digests/2026-09-24.html)
 
 ## About this site
 
