@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-25T07:49:00.736976+13:00._
+_Last updated: 2026-10-26T08:05:13.242309+13:00._
 
-[Read the latest digest](digests/2026-10-25.html)
+[Read the latest digest](digests/2026-10-26.html)
 
 ## Latest top links
 
-- [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/) — TechCrunch AI
-- [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet) — The Verge AI
-- [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) — TechCrunch AI
-- [Gabriele Bartolini: CNPG Recipe 28 - Generated and rotating PostgreSQL user passwords in CloudNativePG 1.31](https://postgr.es/p/9zS) — Planet PostgreSQL
-- [Cornelia Biacsics: Contributions for week 41 & 42](https://postgr.es/p/9zR) — Planet PostgreSQL
-- [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/) — TechCrunch AI
-- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/) — TechCrunch AI
-- [How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations](https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/) — AWS Machine Learning Blog
+- [Vadim Yatsenko: Commit Sequence Number (CSN) MVCC: Lock-Free Snapshot Acquisition](https://postgr.es/p/9zX) — Planet PostgreSQL
+- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) — TechCrunch AI
+- [Simple Report Bursting With Fabric Dataflows Gen2](https://blog.crossjoin.co.uk/2026/10/25/simple-report-bursting-with-fabric-dataflows-gen2/) — Chris Webb's BI Blog
+- [Christophe Pettus: All Your GUCs in a Row: remove_temp_files_after_crash](https://postgr.es/p/9zU) — Planet PostgreSQL
+- [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban) — The Verge AI
+- [Vadim Yatsenko: Speech at PGDay Israel 2026：Durability, Consistency, and Performance](https://postgr.es/p/9zW) — Planet PostgreSQL
+- [Vadim Yatsenko: DataMax: A Dedicated WAL Log-Store Node for Near-Synchronous Durability](https://postgr.es/p/9zY) — Planet PostgreSQL
+- [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-10-26](digests/2026-10-26.html)
 - [2026-10-25](digests/2026-10-25.html)
 - [2026-10-24](digests/2026-10-24.html)
 - [2026-10-23](digests/2026-10-23.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-25T07:49:00.736976+13:00._
 - [2026-09-29](digests/2026-09-29.html)
 - [2026-09-28](digests/2026-09-28.html)
 - [2026-09-27](digests/2026-09-27.html)
-- [2026-09-26](digests/2026-09-26.html)
 
 ## About this site
 
