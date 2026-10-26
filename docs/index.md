@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-26T08:05:13.242309+13:00._
+_Last updated: 2026-10-27T10:02:43.094349+13:00._
 
-[Read the latest digest](digests/2026-10-26.html)
+[Read the latest digest](digests/2026-10-27.html)
 
 ## Latest top links
 
-- [Vadim Yatsenko: Commit Sequence Number (CSN) MVCC: Lock-Free Snapshot Acquisition](https://postgr.es/p/9zX) — Planet PostgreSQL
-- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) — TechCrunch AI
-- [Simple Report Bursting With Fabric Dataflows Gen2](https://blog.crossjoin.co.uk/2026/10/25/simple-report-bursting-with-fabric-dataflows-gen2/) — Chris Webb's BI Blog
-- [Christophe Pettus: All Your GUCs in a Row: remove_temp_files_after_crash](https://postgr.es/p/9zU) — Planet PostgreSQL
-- [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban) — The Verge AI
-- [Vadim Yatsenko: Speech at PGDay Israel 2026：Durability, Consistency, and Performance](https://postgr.es/p/9zW) — Planet PostgreSQL
-- [Vadim Yatsenko: DataMax: A Dedicated WAL Log-Store Node for Near-Synchronous Durability](https://postgr.es/p/9zY) — Planet PostgreSQL
-- [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/) — TechCrunch AI
+- [PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers](https://arxiv.org/abs/2610.32106) — arXiv cs.AI
+- [MPQ: A Message-Passing View of Post-Training Quantization](https://arxiv.org/abs/2610.32127) — arXiv cs.AI
+- [Training an MoE LLM in MXFP4: How We Closed the Gap to BF16](https://arxiv.org/abs/2610.32229) — arXiv cs.AI
+- [Which Answer Did the Seventeen-Year-Old Write? A Behavioral Case Study of Author-Age Misattribution, Miscalibrated Confidence, and Non-Corrective Self-Explanation in Six Frontier…](https://arxiv.org/abs/2610.31946) — arXiv cs.CL
+- [Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI](https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec) — The Verge AI
+- [TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent](https://arxiv.org/abs/2610.32326) — arXiv cs.AI
+- [An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation](https://arxiv.org/abs/2610.31685) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-10-27](digests/2026-10-27.html)
 - [2026-10-26](digests/2026-10-26.html)
 - [2026-10-25](digests/2026-10-25.html)
 - [2026-10-24](digests/2026-10-24.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-26T08:05:13.242309+13:00._
 - [2026-09-30](digests/2026-09-30.html)
 - [2026-09-29](digests/2026-09-29.html)
 - [2026-09-28](digests/2026-09-28.html)
-- [2026-09-27](digests/2026-09-27.html)
 
 ## About this site
 
