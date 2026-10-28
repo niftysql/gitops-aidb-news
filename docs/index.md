@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-28T09:44:21.471136+13:00._
+_Last updated: 2026-10-29T10:08:35.005400+13:00._
 
-[Read the latest digest](digests/2026-10-28.html)
+[Read the latest digest](digests/2026-10-29.html)
 
 ## Latest top links
 
-- [Two Uncertainties Are Not One: Disagreement versus Decision-Risk in Cheap Structured Content Moderation](https://arxiv.org/abs/2610.33258) — arXiv cs.CL
-- [RSI Arena: Towards Recursive Self-Improvement with Human Feedback](https://arxiv.org/abs/2610.33624) — arXiv cs.CL
-- [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt) — OpenAI Blog
-- [AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?](https://arxiv.org/abs/2610.33375) — arXiv cs.AI
-- [How To Build A Modern Diffusion Language Model](https://arxiv.org/abs/2610.33391) — arXiv cs.AI
-- [Are We Done with UMLS Injection into Language Models for Medical Question Answering?](https://arxiv.org/abs/2610.33801) — arXiv cs.AI
-- [ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment](https://arxiv.org/abs/2610.33432) — arXiv cs.AI
-- [MTA-Zero: Self-Improving Multimodal Deep Search via Online QA-Solver Co-training](https://arxiv.org/abs/2610.33799) — arXiv cs.CL
+- [InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?](https://arxiv.org/abs/2610.36589) — arXiv cs.AI
+- [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion) — OpenAI Blog
+- [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai) — OpenAI Blog
+- [Legora is building the agentic operating system for legal work](https://openai.com/index/legora) — OpenAI Blog
+- [Igor Suhorukov: Which language should an AI agent use to search its memory: SQL or SPARQL?](https://postgr.es/p/9Al) — Planet PostgreSQL
+- [Ontology-guided multi-agent reasoning for explainable differential diagnosis](https://arxiv.org/abs/2610.36325) — arXiv cs.AI
+- [Building an Agentic AI Platform on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
+- [Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks](https://arxiv.org/abs/2610.36298) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-10-29](digests/2026-10-29.html)
 - [2026-10-28](digests/2026-10-28.html)
 - [2026-10-27](digests/2026-10-27.html)
 - [2026-10-26](digests/2026-10-26.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-28T09:44:21.471136+13:00._
 - [2026-10-02](digests/2026-10-02.html)
 - [2026-10-01](digests/2026-10-01.html)
 - [2026-09-30](digests/2026-09-30.html)
-- [2026-09-29](digests/2026-09-29.html)
 
 ## About this site
 

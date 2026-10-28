@@ -1,284 +1,285 @@
 {
-  "digest_date": "2026-10-28",
-  "generated_at": "2026-10-28T09:44:21.471136+13:00",
+  "digest_date": "2026-10-29",
+  "generated_at": "2026-10-29T10:08:35.005400+13:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2610.33258",
-      "published": "2026-10-27T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gemini",
-        "gpt",
-        "claude",
-        "model",
-        "benchmark"
-      ],
-      "score": 11.0,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.33258v1 Announce Type: new Abstract: Content moderation compresses a graded, contested human judgment into a binary act (leave up / take down) over billions of items, at a scale where running a frontier LLM on every post is uneconomical. A new class of frozen \"System One\" models returns typed, calibrated decisions instead of text at ~USD 0.000025 per call and ~100 ms. We run the first independent audit of one such model on 142,658 human-labeled comments, and benchmark it against 14 frontier reasoning models (the GPT-5.x, Claude, Gemini 3, and Grok families) on a shared probe set. Two findings stand out. First, the cheap model is a…",
-      "title": "Two Uncertainties Are Not One: Disagreement versus Decision-Risk in Cheap Structured Content Moderation",
-      "url": "https://arxiv.org/abs/2610.33258"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.33624",
-      "published": "2026-10-27T04:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2610.36589",
+      "published": "2026-10-28T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
         "agent",
         "benchmark",
+        "inference",
         "training",
         "gpu"
       ],
-      "score": 11.0,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.33624v1 Announce Type: new Abstract: Can AI agents autonomously train useful language models and improve them using feedback from users? We introduce RSI Arena, a two-stage study of autonomous post-training as a step toward recursive self-improvement. Ten frontier models act as training agents, each starting from NVIDIA Nemotron 3.5 Lightning 30B-A3B Base. During a six-day first stage, each agent has 1,000 GPU-hours and $300 in API credit on a shared 64-GPU cluster, independently selecting data, implementing training procedures, and choosing checkpoints. We evaluate their models on 20 benchmarks and through blind human evaluations…",
-      "title": "RSI Arena: Towards Recursive Self-Improvement with Human Feedback",
-      "url": "https://arxiv.org/abs/2610.33624"
+      "score": 12.7,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.36589v1 Announce Type: new Abstract: Coding agents are beginning to develop the production-grade AI infrastructure that trains and serves large models, yet existing benchmarks cover only single kernels or single-GPU tasks, and grade with tests and prompts that misjudge both correct and incorrect patches. We introduce InfraDev, a benchmark of 36 tasks built from real-world pull requests to Megatron-LM, vLLM, and verl, covering infrastructure development for training, inference, and reinforcement learning. Each task asks an agent to reimplement a real change that spans many files and must run correctly across many GPUs. To grade suc…",
+      "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?",
+      "url": "https://arxiv.org/abs/2610.36589"
     },
     {
-      "canonical_url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "published": "2026-10-27T07:00:00+00:00",
+      "canonical_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "published": "2026-10-28T13:15:00+00:00",
       "reasons": [
-        "fresh <30h",
+        "fresh <12h",
         "openai",
         "gpt",
+        "model",
         "agent",
-        "oracle"
+        "enterprise"
       ],
-      "score": 10.3,
+      "score": 11.9,
       "source": "OpenAI Blog",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2610.33375",
-      "published": "2026-10-27T04:00:00+00:00",
+      "canonical_url": "https://openai.com/index/retell-ai",
+      "published": "2026-10-27T15:00:00+00:00",
+      "reasons": [
+        "recent <72h",
+        "openai",
+        "gpt",
+        "model",
+        "agent",
+        "benchmark"
+      ],
+      "score": 11.2,
+      "source": "OpenAI Blog",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai"
+    },
+    {
+      "canonical_url": "https://openai.com/index/legora",
+      "published": "2026-10-28T09:30:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt",
+        "model",
+        "agent"
+      ],
+      "score": 11.1,
+      "source": "OpenAI Blog",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9Al",
+      "published": "2026-10-28T09:24:17+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt",
+        "agent",
+        "sql",
+        "enterprise"
+      ],
+      "score": 9.7,
+      "source": "Planet PostgreSQL",
+      "summary": "Agent memory has been in fashion ever since agents appeared: it fights hallucinations and lets an LLM base its answers and decisions on your own information. Whether it is better to query that information from tables or from a graph is often decided on faith, after reading posts on the internet, without experiments and measurements of your own. In a study by Sequeda et al. , GPT-4 answered questions over an enterprise SQL database correctly 16% of the time, and over a knowledge graph on top of the same database 54% of the time; the graph had an ontology with descriptions, while the SQL schema had only DDL: types and table and column names. I…",
+      "title": "Igor Suhorukov: Which language should an AI agent use to search its memory: SQL or SPARQL?",
+      "url": "https://postgr.es/p/9Al"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36325",
+      "published": "2026-10-28T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
         "agent",
         "benchmark",
-        "inference",
-        "enterprise"
-      ],
-      "score": 10.1,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.33375v1 Announce Type: new Abstract: Enterprise workflow agents typically rely on step-by-step interaction (Step-by-Step): the agent executes an action, observes its result, and invokes a large language model (LLM) again to decide the next step. Global orchestration (Global) instead generates a complete executable workflow in advance and executes it without further LLM calls, substantially reducing inference overhead, but it remains less accurate than Step-by-Step. We study how close Global can come to Step-by-Step and what narrows the remaining gap. We introduce AgentOrch, a benchmark that directly compares global orchestration w…",
-      "title": "AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?",
-      "url": "https://arxiv.org/abs/2610.33375"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.33391",
-      "published": "2026-10-27T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "training",
-        "gpu"
+        "training"
       ],
       "score": 9.3,
       "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.33391v1 Announce Type: new Abstract: The frontier of large language model (LLM) performance has advanced rapidly in recent years, fueled by scaling laws for pretraining on large text corpora. However, mainstream LLMs have fundamental limitations: they generate text autoregressively, producing outputs sequentially from left to right one token at a time. This sequential process leaves parallel GPU hardware underutilized during inference--a bottleneck that has grown acute as progress shifts toward scaling post-training and inference-time compute--and commits irreversibly to each token without the ability to revise earlier mistakes. D…",
-      "title": "How To Build A Modern Diffusion Language Model",
-      "url": "https://arxiv.org/abs/2610.33391"
+      "summary": "arXiv:2610.36325v1 Announce Type: new Abstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions, since incomplete or ambiguous clinical information readily leads to diagnostic errors and inconsistent reasoning. Large Language Models (LLMs) have recently shown promising capabilities in medical question answering and clinical reasoning; however, even when achieving competitive performance on medical benchmarks, they often rely on pattern recognition learned from training data rather than grounded clinical evidence, and can generate plausible yet unsupported diagnostic conclusions. Their rea…",
+      "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
+      "url": "https://arxiv.org/abs/2610.36325"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2610.33801",
-      "published": "2026-10-27T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "benchmark",
-        "oracle",
-        "research",
-        "developer"
-      ],
-      "score": 9.2,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.33801v1 Announce Type: new Abstract: Maybe not. The Unified Medical Language System (UMLS) has become an oracle for millions of clinicians and health system developers worldwide. Researchers have increasingly used knowledge graphs derived from UMLS to enhance language models' factual accuracy and reasoning traceability in high-stakes tasks. Medical Question Answering (MQA) is a prime testbed for integration, with benchmarks usually involving professional exercises such as disease diagnosis and drug prescription from patient history. Despite the assumed benefits, empirical evidence shows that UMLS-based graph injection typically yi…",
-      "title": "Are We Done with UMLS Injection into Language Models for Medical Question Answering?",
-      "url": "https://arxiv.org/abs/2610.33801"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.33432",
-      "published": "2026-10-27T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "privacy"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2610.33432v1 Announce Type: new Abstract: Long-term memory is critical for autonomous Large Language Model (LLM) agents executing multi-session, long-horizon tasks. However, existing memories often inappropriately store, retain, or retrieve over-generalized, misattributed, or privacy-sensitive information, a problem we term memory misalignment. To study this problem, we construct \\textbf{MemAlign}, a benchmark comprising 1,079 curated memory cases grounded in synthetic, validated multi-session conversational contexts covering diverse misalignment taxonomies. We then propose ConMem, an algorithm that reframes retention decisions as pros…",
-      "title": "ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment",
-      "url": "https://arxiv.org/abs/2610.33432"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.33799",
-      "published": "2026-10-27T04:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training",
-        "multimodal"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.33799v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have become strong visual reasoners, yet remain limited in open-world, multi-step search that requires grounding images, selecting tools, and integrating web evidence. Existing approaches typically construct and filter fixed offline corpora whose question distributions cannot adapt as the target deep-search agent improves. Building on MTA-Agent's image-grounded QA construction, we present MTA-Zero, an online multimodal QA-Solver co-training framework for self-improving multimodal deep-search agents that requires no precomputed multi-hop corpus. Starting…",
-      "title": "MTA-Zero: Self-Improving Multimodal Deep Search via Online QA-Solver Co-training",
-      "url": "https://arxiv.org/abs/2610.33799"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
-      "published": "2026-10-27T11:00:00+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore",
+      "published": "2026-10-28T18:28:26+00:00",
       "reasons": [
         "fresh <12h",
         "model",
-        "gpu",
-        "startup"
+        "agent",
+        "inference"
       ],
-      "score": 7.7,
-      "source": "TechCrunch AI",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+      "score": 8.6,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline that gates each agent before production.",
+      "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/"
     },
     {
-      "canonical_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "published": "2026-10-26T13:45:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2610.36298",
+      "published": "2026-10-28T04:00:00+00:00",
       "reasons": [
-        "recent <72h",
-        "gpt",
+        "fresh <30h",
+        "model",
+        "benchmark",
+        "training",
+        "machine learning"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.36298v1 Announce Type: new Abstract: Machine learning models deployed behind query interfaces expose more than their predictions, because an adversary can use those predictions to rebuild the model itself. Model stealing attacks (MSAs) exploit this exposure by training a surrogate model that replicates the decision behavior of a target through black-box queries alone, without access to its parameters or training data. These attacks are well characterized for conventional artificial neural networks (ANNs), yet spiking neural networks (SNNs) process information in a fundamentally different way. SNNs communicate through sparse, discr…",
+      "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
+      "url": "https://arxiv.org/abs/2610.36298"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36484",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
         "agent",
-        "security",
+        "benchmark",
+        "multimodal"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2610.36484v1 Announce Type: new Abstract: Claims about the cognitive capabilities of large language models are typically tested by translating behavioral paradigms into text prompts, bypassing the visual interfaces and time pressure through which human participants actually engage with experiments. At the same time, AI agents can now complete online behavioral tasks and produce human-like data, which raises concerns that online datasets in the social and behavioral sciences are increasingly open to contamination. We introduce CogArena, a benchmark of ten experimental paradigms from the social and behavioral sciences. Agents complete th…",
+      "title": "CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments",
+      "url": "https://arxiv.org/abs/2610.36484"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+      "published": "2026-10-28T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gemini",
+        "agent",
         "developer"
       ],
       "score": 7.7,
-      "source": "OpenAI Blog",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+      "source": "TechCrunch AI",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2610.32997",
-      "published": "2026-10-27T04:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2610.36006",
+      "published": "2026-10-28T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "openai",
+        "gpt",
+        "model",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.36006v1 Announce Type: new Abstract: System One decision models such as Jev answer structured questions in a single forward pass without generating text, offering fast and computationally efficient clinical decision support. We evaluate MedJev, an open System One model that runs locally on a laptop, across ten medical benchmarks spanning medical knowledge, diagnosis, and patient level prediction using MIMIC IV and MIMIC IV ED. We compare MedJev against zero shot LLM baselines, published GPT results, and supervised models. MedJev achieves accuracies of 72.5 percent on MedQA, 75.4 percent on USMLE, and 80.1 percent on NEJM, approach…",
+      "title": "MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine",
+      "url": "https://arxiv.org/abs/2610.36006"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36523",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.36523v1 Announce Type: new Abstract: As agents collaborate on longer tasks, responsibility may pass between models before the work is complete. The receiving model must build on prior decisions, observations, and actions while addressing the remaining requirements. Evaluating this transition requires connecting the information preserved at handoff to how the receiver continues the work, a relationship that task-success and memory-retention scores alone do not capture. We introduce the Handoff State Continuity Benchmark (HSC-Bench), comprising 1,039 tasks that evaluate two complementary aspects of task takeover: recovering relevant…",
+      "title": "Benchmarking Task Takeover Across Agent Handoffs",
+      "url": "https://arxiv.org/abs/2610.36523"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36538",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.36538v1 Announce Type: new Abstract: Multilingual automatic speech recognition (ASR) has achieved rapid progress with large-scale pretrained models and multilingual speech corpora. Previous studies have proved the pivotal role of data sampling in multilingual ASR performance. However, existing sampling strategies largely rely on time-consuming manual, heuristic-based designs. To address this, we propose a linguistic-aware agentic data sampling framework that introduces a data sampling LLM agent into the multilingual ASR training loop. The agent is driven by a linguistically grounded rubric that analyzes ASR errors from phonologica…",
+      "title": "Agentic Data Sampling Framework for Multilingual ASR via Linguistic-Aware Error-Driven Optimization",
+      "url": "https://arxiv.org/abs/2610.36538"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.36679",
+      "published": "2026-10-28T04:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
         "model",
         "training"
       ],
       "score": 7.6,
       "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.32997v1 Announce Type: new Abstract: Automatic Speech Recognition (ASR) models such as OpenAIs Whisper have substantially improved speech recognition quality but remain expensive to fine-tune, especially when large amounts of transcribed audio are available. This makes it challenging for many practitioners to adapt these models to new languages or domains. In this work, we introduce an embedding-based subset selection approach for selecting smaller training sets for ASR fine-tuning. Using Whispers pretrained encoder, we map each audio sample into a fixed-dimensional embedding space and apply a greedy k-center algorithm to select d…",
-      "title": "Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning",
-      "url": "https://arxiv.org/abs/2610.32997"
+      "summary": "arXiv:2610.36679v1 Announce Type: new Abstract: Modern language models are trained on far more language than children experience, but we know much less about learning from small, naturalistic datasets. We train small GPT-2 models on transcripts of speech with children from dense home recordings (BabyView) and on synthetic child-directed dialogue (TinyDialogues), varying the amount, source, and diversity of training data. Models trained on one child's language environment predict that environment substantially better than other children's environments. Much of this specialization is lexical and distributional: a simple 5-gram model reproduces…",
+      "title": "Specialization, Diversity, and Scaling in Child-Scale Language Models",
+      "url": "https://arxiv.org/abs/2610.36679"
     },
     {
-      "canonical_url": "https://www.sqlbi.com/blog/marco/2026/10/27/dax-llm-benchmark-v2",
-      "published": "2026-10-27T10:45:53+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "benchmark"
-      ],
-      "score": 7.3,
-      "source": "SQLBI",
-      "summary": "The DAX LLM Benchmark v2 shows that the latest frontier models write DAX very well, and that the model generation matters more than the vendor. This post describes how we built the benchmark, how we read its results, and what…",
-      "title": "DAX LLM Benchmark v2",
-      "url": "https://www.sqlbi.com/blog/marco/2026/10/27/dax-llm-benchmark-v2/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
-      "published": "2026-10-27T17:08:08+00:00",
-      "reasons": [
-        "fresh <12h",
-        "openai",
-        "model"
-      ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs",
-      "published": "2026-10-27T17:00:39+00:00",
-      "reasons": [
-        "fresh <12h",
-        "benchmark",
-        "training"
-      ],
-      "score": 6.9,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the benchmarks and how to adopt it.",
-      "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
-      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
-      "published": "2026-10-27T13:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "inference",
-        "chip"
-      ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
-      "published": "2026-10-27T01:12:21+00:00",
+      "canonical_url": "https://arxiv.org/abs/2502.04309",
+      "published": "2026-10-28T04:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "model",
-        "training",
-        "research"
+        "inference",
+        "training"
       ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+      "score": 7.6,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2502.04309v2 Announce Type: replace-cross Abstract: As algorithmic decision making has become increasingly ubiquitous even in high-stakes settings, significant effort has been invested in defining, detecting, and eliminating unfair model-driven outcomes. Prior work has largely focused on estimating the fairness properties of a given predictive model, and quantifying uncertainty based on variability in a fixed model's performance across evaluation datasets. Alternatively, we can also ask about uncertainty that the model inherits from its training data; here we evaluate data fairness - fairness in the data generating process used for tra…",
+      "title": "Targeted Learning for Inference on Data Fairness",
+      "url": "https://arxiv.org/abs/2502.04309"
     },
     {
-      "canonical_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "published": "2026-10-26T14:30:00+00:00",
+      "canonical_url": "https://www.sqlservercentral.com/blogs/experimenting-with-choose-sqlnewblogger",
+      "published": "2026-10-28T13:00:00+00:00",
       "reasons": [
-        "recent <72h",
-        "openai",
-        "model",
-        "research"
+        "fresh <12h",
+        "sql",
+        "sql server"
       ],
-      "score": 6.9,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+      "score": 7.4,
+      "source": "SQLServerCentral",
+      "summary": "I was looking over the CHOOSE() function while editing an article at SQL Server Central. I realized there isn’t a documentation note on how many parameters can be included.... The post Experimenting with CHOOSE: #SQLNewBlogger appeared first on SQLServerCentral .",
+      "title": "Experimenting with CHOOSE: #SQLNewBlogger",
+      "url": "https://www.sqlservercentral.com/blogs/experimenting-with-choose-sqlnewblogger"
     },
     {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "published": "2026-10-27T16:51:22+00:00",
+      "canonical_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "published": "2026-10-28T17:00:58+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gemini",
+        "model"
+      ],
+      "score": 7.1,
+      "source": "Google DeepMind Blog",
+      "summary": "",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+      "published": "2026-10-28T19:19:58+00:00",
       "reasons": [
         "fresh <12h",
         "anthropic",
         "model"
       ],
-      "score": 6.8,
-      "source": "The Verge AI",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]",
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
     }
   ]
 }
