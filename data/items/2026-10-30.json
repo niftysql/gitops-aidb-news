@@ -1,0 +1,265 @@
+{
+  "digest_date": "2026-10-30",
+  "generated_at": "2026-10-30T10:11:21.449986+13:00",
+  "items": [
+    {
+      "canonical_url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "published": "2026-10-28T20:03:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini",
+        "gpt",
+        "claude",
+        "model",
+        "agent",
+        "benchmark",
+        "security"
+      ],
+      "score": 13.6,
+      "source": "The Verge AI",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+    },
+    {
+      "canonical_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published": "2026-10-29T09:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "model",
+        "agent"
+      ],
+      "score": 8.6,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/the-new-unified-copilot-in-fabric-and-project-osmos-from-ai-assistance-to-agentic-data-engineering",
+      "published": "2026-10-29T15:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "sql",
+        "fabric"
+      ],
+      "score": 8.2,
+      "source": "SQLServerCentral",
+      "summary": "(This post starts a three-part series on how AI is changing the way we build solutions in Microsoft Fabric. First, we’ll explore how the new unified Copilot in Fabric... The post The New Unified Copilot in Fabric and Project Osmos: From AI Assistance to Agentic Data Engineering appeared first on SQLServerCentral .",
+      "title": "The New Unified Copilot in Fabric and Project Osmos: From AI Assistance to Agentic Data Engineering",
+      "url": "https://www.sqlservercentral.com/blogs/the-new-unified-copilot-in-fabric-and-project-osmos-from-ai-assistance-to-agentic-data-engineering"
+    },
+    {
+      "canonical_url": "https://openai.com/index/updated-model-spec",
+      "published": "2026-10-29T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "model"
+      ],
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+      "published": "2026-10-29T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "mistral",
+        "model",
+        "security"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks",
+      "published": "2026-10-29T16:11:08+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent",
+        "multimodal"
+      ],
+      "score": 7.7,
+      "source": "AWS Machine Learning Blog",
+      "summary": "NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores its architecture and use cases, then shows how to deploy it on Amazon EKS, EKS Auto Mode, and Amazon SageMaker HyperPod EKS with NVIDIA Dynamo and vLLM.",
+      "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "published": "2026-10-29T14:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "chip",
+        "research"
+      ],
+      "score": 7.6,
+      "source": "The Verge AI",
+      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
+    },
+    {
+      "canonical_url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
+      "published": "2026-10-29T10:11:12+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "agent",
+        "security"
+      ],
+      "score": 7.6,
+      "source": "MIT Technology Review AI",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/sql-server-problems-you-can-reproduce-measure-and-fix-a-free-demo-library",
+      "published": "2026-10-29T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql",
+        "sql server"
+      ],
+      "score": 7.4,
+      "source": "SQLServerCentral",
+      "summary": "I built a free library of runnable SQL Server demos. Each reproduces a real production problem on purpose, measures the fixes, and checks its own predictions on SQL Server... The post SQL Server Problems You Can Reproduce, Measure and Fix: A Free Demo Library appeared first on SQLServerCentral .",
+      "title": "SQL Server Problems You Can Reproduce, Measure and Fix: A Free Demo Library",
+      "url": "https://www.sqlservercentral.com/blogs/sql-server-problems-you-can-reproduce-measure-and-fix-a-free-demo-library"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
+      "published": "2026-10-29T16:58:57+00:00",
+      "reasons": [
+        "fresh <12h",
+        "training",
+        "gpu"
+      ],
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, all without manual coordination.",
+      "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+      "url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway",
+      "published": "2026-10-29T16:54:52+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "mcp"
+      ],
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "MoEngage turned roughly 400 private REST APIs across 7 AWS Regions into permission-scoped agent tools with Amazon Bedrock AgentCore Gateway. No per-service MCP servers, no public endpoints, and no 400-tool context bloat. See how OpenAPI specs, Cedar policies, and managed Amazon VPC Lattice egress made it work.",
+      "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9AA",
+      "published": "2026-10-29T12:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "security"
+      ],
+      "score": 6.3,
+      "source": "Planet PostgreSQL",
+      "summary": "If you store PHI on Supabase, you need a signed BAA and a project set to High Compliance. That takes care of the platform. It doesn't cover your RLS policies, your functions or your audit tables, and a HIPAA review will ask about those too. Supabase's shared responsibility model says the same. It tells you to \"always apply Row Level Security (RLS)\" and leaves the access rules on sensitive tables to you. The part Supabase handles On the hosted platform, Supabase encrypts data at rest and in transit, signs the BAA and checks your project settings. Its HIPAA guide asks you to turn on Point in Time Recovery, SSL enforcement, network restrictions…",
+      "title": "Munaf Khatri: Supabase is one part of your HIPAA compliance",
+      "url": "https://postgr.es/p/9AA"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks",
+      "published": "2026-10-28T18:19:54+00:00",
+      "reasons": [
+        "fresh <30h",
+        "training",
+        "gpu"
+      ],
+      "score": 6.1,
+      "source": "AWS Machine Learning Blog",
+      "summary": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the container exactly as published.",
+      "title": "Distributed training with Ray Train DLCs and EFA on EKS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+      "published": "2026-10-29T19:56:19+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "security"
+      ],
+      "score": 6.0,
+      "source": "TechCrunch AI",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
+      "published": "2026-10-29T16:42:32+00:00",
+      "reasons": [
+        "fresh <12h",
+        "chip"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+      "published": "2026-10-29T16:21:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "published": "2026-10-29T13:37:07+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model"
+      ],
+      "score": 5.2,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+    },
+    {
+      "canonical_url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published": "2026-10-29T07:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai"
+      ],
+      "score": 5.2,
+      "source": "OpenAI Blog",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence"
+    }
+  ]
+}

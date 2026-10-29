@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-29T10:08:35.005400+13:00._
+_Last updated: 2026-10-30T10:11:21.449986+13:00._
 
-[Read the latest digest](digests/2026-10-29.html)
+[Read the latest digest](digests/2026-10-30.html)
 
 ## Latest top links
 
-- [InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?](https://arxiv.org/abs/2610.36589) — arXiv cs.AI
-- [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion) — OpenAI Blog
-- [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai) — OpenAI Blog
-- [Legora is building the agentic operating system for legal work](https://openai.com/index/legora) — OpenAI Blog
-- [Igor Suhorukov: Which language should an AI agent use to search its memory: SQL or SPARQL?](https://postgr.es/p/9Al) — Planet PostgreSQL
-- [Ontology-guided multi-agent reasoning for explainable differential diagnosis](https://arxiv.org/abs/2610.36325) — arXiv cs.AI
-- [Building an Agentic AI Platform on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks](https://arxiv.org/abs/2610.36298) — arXiv cs.AI
+- [Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier) — The Verge AI
+- [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment) — OpenAI Blog
+- [The New Unified Copilot in Fabric and Project Osmos: From AI Assistance to Agentic Data Engineering](https://www.sqlservercentral.com/blogs/the-new-unified-copilot-in-fabric-and-project-osmos-from-ai-assistance-to-agentic-data-engineering) — SQLServerCentral
+- [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec) — OpenAI Blog
+- [Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity](https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/) — TechCrunch AI
+- [Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS](https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/) — AWS Machine Learning Blog
+- [Anthropic is asking Wall Street to believe in AGI](https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview) — The Verge AI
+- [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/) — MIT Technology Review AI
 
 ## Recent digests
 
+- [2026-10-30](digests/2026-10-30.html)
 - [2026-10-29](digests/2026-10-29.html)
 - [2026-10-28](digests/2026-10-28.html)
 - [2026-10-27](digests/2026-10-27.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-29T10:08:35.005400+13:00._
 - [2026-10-03](digests/2026-10-03.html)
 - [2026-10-02](digests/2026-10-02.html)
 - [2026-10-01](digests/2026-10-01.html)
-- [2026-09-30](digests/2026-09-30.html)
 
 ## About this site
 
