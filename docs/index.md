@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-30T10:11:21.449986+13:00._
+_Last updated: 2026-10-31T09:50:15.672212+13:00._
 
-[Read the latest digest](digests/2026-10-30.html)
+[Read the latest digest](digests/2026-10-31.html)
 
 ## Latest top links
 
-- [Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier) — The Verge AI
-- [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment) — OpenAI Blog
-- [The New Unified Copilot in Fabric and Project Osmos: From AI Assistance to Agentic Data Engineering](https://www.sqlservercentral.com/blogs/the-new-unified-copilot-in-fabric-and-project-osmos-from-ai-assistance-to-agentic-data-engineering) — SQLServerCentral
-- [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec) — OpenAI Blog
-- [Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity](https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/) — TechCrunch AI
-- [Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS](https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/) — AWS Machine Learning Blog
-- [Anthropic is asking Wall Street to believe in AGI](https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview) — The Verge AI
-- [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/) — MIT Technology Review AI
+- [Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/) — AWS Machine Learning Blog
+- [The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out) — The Verge AI
+- [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences) — OpenAI Blog
+- [Community safety report and new protections for teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens) — OpenAI Blog
+- [Igor Suhorukov: pg_vexec one month on: ahead of ClickHouse on Parquet, close behind on MergeTree](https://postgr.es/p/9AF) — Planet PostgreSQL
+- [Google’s first data center satellite is online and writing poetry](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/) — TechCrunch AI
+- [Google’s satellite AI server transmits its first response to Earth](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission) — The Verge AI
+- [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright) — The Verge AI
 
 ## Recent digests
 
+- [2026-10-31](digests/2026-10-31.html)
 - [2026-10-30](digests/2026-10-30.html)
 - [2026-10-29](digests/2026-10-29.html)
 - [2026-10-28](digests/2026-10-28.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-30T10:11:21.449986+13:00._
 - [2026-10-04](digests/2026-10-04.html)
 - [2026-10-03](digests/2026-10-03.html)
 - [2026-10-02](digests/2026-10-02.html)
-- [2026-10-01](digests/2026-10-01.html)
 
 ## About this site
 

@@ -1,0 +1,254 @@
+{
+  "digest_date": "2026-10-31",
+  "generated_at": "2026-10-31T09:50:15.672212+13:00",
+  "items": [
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
+      "published": "2026-10-30T17:27:45+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt",
+        "model",
+        "inference",
+        "security"
+      ],
+      "score": 9.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US). This post walks through a controlled local deployment that routes model inference to Amazon Bedrock in AWS GovCloud (US-West) using API-mode sign-in, a managed device policy, a named AWS profile, and network restrictions, so a security team can validate it before broader use.",
+      "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30T20:26:10+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "anthropic",
+        "training"
+      ],
+      "score": 8.5,
+      "source": "The Verge AI",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+    },
+    {
+      "canonical_url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "published": "2026-10-30T09:30:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "training"
+      ],
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    },
+    {
+      "canonical_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "published": "2026-10-30T09:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt"
+      ],
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9AF",
+      "published": "2026-10-30T16:07:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpu",
+        "sql"
+      ],
+      "score": 7.2,
+      "source": "Planet PostgreSQL",
+      "summary": "It’s been exactly one month since I published my work porting Greenplum to PostgreSQL 19 and isolating the minimal PostgreSQL core patches needed to run this minimal fork. It all started as a way to extract its ORCA analytical query planner and turn PostgreSQL into a modern, vectorized, high-performance DBMS. And I pulled it off! After a month of development, the database keeps getting faster. I’m now working on a GPU version. Even as a rough draft, on my MSI Raider A18 HX A9W laptop it runs queries faster than LTS ClickHouse: on MergeTree, 1.9x faster by geometric mean and 1.3x by total time, and on vexec_parquet, 13x faster by geometric me…",
+      "title": "Igor Suhorukov: pg_vexec one month on: ahead of ClickHouse on Parquet, close behind on MergeTree",
+      "url": "https://postgr.es/p/9AF"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+      "published": "2026-10-30T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "deepmind",
+        "model"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "published": "2026-10-30T18:21:38+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "chip"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "published": "2026-10-30T09:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "training"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/sql-server-2016-has-reached-end-of-support-now-what",
+      "published": "2026-10-30T03:17:02+00:00",
+      "reasons": [
+        "fresh <30h",
+        "sql",
+        "sql server"
+      ],
+      "score": 6.6,
+      "source": "SQLServerCentral",
+      "summary": "SQL Server 2016 Has Reached End of Support. Now What? On July 14, 2026, SQL Server 2016 reached the end of extended support. That means regular... The post SQL Server 2016 Has Reached End of Support. Now What? appeared first on SQLServerCentral .",
+      "title": "SQL Server 2016 Has Reached End of Support. Now What?",
+      "url": "https://www.sqlservercentral.com/blogs/sql-server-2016-has-reached-end-of-support-now-what"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "published": "2026-10-30T13:01:14+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "research"
+      ],
+      "score": 5.9,
+      "source": "The Verge AI",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/car-update-october-2026",
+      "published": "2026-10-30T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.7,
+      "source": "SQLServerCentral",
+      "summary": "This month I want to look at a few of the things I’ve seen posted about cars during the last month. These are a few headlines, as well as... The post Car Update October 2026 appeared first on SQLServerCentral .",
+      "title": "Car Update October 2026",
+      "url": "https://www.sqlservercentral.com/blogs/car-update-october-2026"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9AC",
+      "published": "2026-10-30T15:53:50+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "Over the past decade, the timing of PostgreSQL major releases has become very predictable: no earlier than the middle of September, and no later than the middle of October. This year is going to be different. PostgreSQL 19 most likely won’t be released until November, and it’s not impossible that the project could decide to postpone the release further. Moreover, this year, several rather large features were reverted quite late in the beta period: UPDATE/DELETE FOR PORTION OF , SQL Property Graph Queries (SQL/PGQ), and ALTER TABLE … MERGE PARTITION/SPLIT PARTITION were all reverted between August 27 and September 15. While major feature reve…",
+      "title": "Robert Haas: Postgres 19 is late, and it's AI's fault",
+      "url": "https://postgr.es/p/9AC"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
+      "published": "2026-10-30T17:47:12+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock",
+      "published": "2026-10-30T17:32:20+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.",
+      "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "published": "2026-10-30T13:54:25+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+      "published": "2026-10-30T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "startup",
+        "fabric"
+      ],
+      "score": 5.1,
+      "source": "TechCrunch AI",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9AE",
+      "published": "2026-10-30T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "sql"
+      ],
+      "score": 4.7,
+      "source": "Planet PostgreSQL",
+      "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0! Best Served with PostgreSQL 19 RC 1 , GEOS 3.15.0 , postgis_tiger_geocoder 2025.2 , and address_standardizer . This version requires GEOS 3.10+, PostgreSQL 14-19, Proj 6.1+, and libgmp. To take advantage of all postgis extension features, GEOS 3.15+ is needed. To take advantage of all postgis_sfcgal extension features SFCGAL 2.3+ is needed. Python 3 is a new requirement to build the documentation images. Visual examples in the docs are off by default. To build docs with them, configure with --with-visual-examples and make sure you have a running PostgreSQL instance; they are then generate…",
+      "title": "Regina Obe: PostGIS 3.7.0",
+      "url": "https://postgr.es/p/9AE"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026",
+      "published": "2026-10-29T20:16:40+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.",
+      "title": "How the UK Amazon Quick User Group grew in 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/"
+    }
+  ]
+}

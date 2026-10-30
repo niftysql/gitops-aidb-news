@@ -1,265 +1,254 @@
 {
-  "digest_date": "2026-10-30",
-  "generated_at": "2026-10-30T10:11:21.449986+13:00",
+  "digest_date": "2026-10-31",
+  "generated_at": "2026-10-31T09:50:15.672212+13:00",
   "items": [
     {
-      "canonical_url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "published": "2026-10-28T20:03:00+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
+      "published": "2026-10-30T17:27:45+00:00",
       "reasons": [
-        "fresh <30h",
-        "gemini",
+        "fresh <12h",
         "gpt",
-        "claude",
         "model",
-        "agent",
-        "benchmark",
+        "inference",
         "security"
       ],
-      "score": 13.6,
+      "score": 9.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US). This post walks through a controlled local deployment that routes model inference to Amazon Bedrock in AWS GovCloud (US-West) using API-mode sign-in, a managed device policy, a named AWS profile, and network restrictions, so a security team can validate it before broader use.",
+      "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30T20:26:10+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "anthropic",
+        "training"
+      ],
+      "score": 8.5,
       "source": "The Verge AI",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
     },
     {
-      "canonical_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "published": "2026-10-29T09:00:00+00:00",
+      "canonical_url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "published": "2026-10-30T09:30:00+00:00",
       "reasons": [
-        "fresh <30h",
+        "fresh <12h",
         "openai",
-        "model",
-        "agent"
+        "training"
       ],
-      "score": 8.6,
+      "score": 7.7,
       "source": "OpenAI Blog",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
     },
     {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/the-new-unified-copilot-in-fabric-and-project-osmos-from-ai-assistance-to-agentic-data-engineering",
-      "published": "2026-10-29T15:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent",
-        "sql",
-        "fabric"
-      ],
-      "score": 8.2,
-      "source": "SQLServerCentral",
-      "summary": "(This post starts a three-part series on how AI is changing the way we build solutions in Microsoft Fabric. First, we’ll explore how the new unified Copilot in Fabric... The post The New Unified Copilot in Fabric and Project Osmos: From AI Assistance to Agentic Data Engineering appeared first on SQLServerCentral .",
-      "title": "The New Unified Copilot in Fabric and Project Osmos: From AI Assistance to Agentic Data Engineering",
-      "url": "https://www.sqlservercentral.com/blogs/the-new-unified-copilot-in-fabric-and-project-osmos-from-ai-assistance-to-agentic-data-engineering"
-    },
-    {
-      "canonical_url": "https://openai.com/index/updated-model-spec",
-      "published": "2026-10-29T17:00:00+00:00",
+      "canonical_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "published": "2026-10-30T09:00:00+00:00",
       "reasons": [
         "fresh <12h",
         "openai",
+        "gpt"
+      ],
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9AF",
+      "published": "2026-10-30T16:07:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpu",
+        "sql"
+      ],
+      "score": 7.2,
+      "source": "Planet PostgreSQL",
+      "summary": "It’s been exactly one month since I published my work porting Greenplum to PostgreSQL 19 and isolating the minimal PostgreSQL core patches needed to run this minimal fork. It all started as a way to extract its ORCA analytical query planner and turn PostgreSQL into a modern, vectorized, high-performance DBMS. And I pulled it off! After a month of development, the database keeps getting faster. I’m now working on a GPU version. Even as a rough draft, on my MSI Raider A18 HX A9W laptop it runs queries faster than LTS ClickHouse: on MergeTree, 1.9x faster by geometric mean and 1.3x by total time, and on vexec_parquet, 13x faster by geometric me…",
+      "title": "Igor Suhorukov: pg_vexec one month on: ahead of ClickHouse on Parquet, close behind on MergeTree",
+      "url": "https://postgr.es/p/9AF"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+      "published": "2026-10-30T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "deepmind",
         "model"
       ],
-      "score": 7.7,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
-      "published": "2026-10-29T17:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "mistral",
-        "model",
-        "security"
-      ],
-      "score": 7.7,
+      "score": 6.9,
       "source": "TechCrunch AI",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks",
-      "published": "2026-10-29T16:11:08+00:00",
+      "canonical_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "published": "2026-10-30T18:21:38+00:00",
       "reasons": [
         "fresh <12h",
         "model",
-        "agent",
-        "multimodal"
+        "chip"
       ],
-      "score": 7.7,
-      "source": "AWS Machine Learning Blog",
-      "summary": "NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores its architecture and use cases, then shows how to deploy it on Amazon EKS, EKS Auto Mode, and Amazon SageMaker HyperPod EKS with NVIDIA Dynamo and vLLM.",
-      "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "published": "2026-10-29T14:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic",
-        "chip",
-        "research"
-      ],
-      "score": 7.6,
+      "score": 6.8,
       "source": "The Verge AI",
-      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
-      "title": "Anthropic is asking Wall Street to believe in AGI",
-      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
     },
     {
-      "canonical_url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
-      "published": "2026-10-29T10:11:12+00:00",
+      "canonical_url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "published": "2026-10-30T09:00:00+00:00",
       "reasons": [
         "fresh <12h",
-        "openai",
-        "agent",
-        "security"
+        "model",
+        "training"
       ],
-      "score": 7.6,
-      "source": "MIT Technology Review AI",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
     },
     {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/sql-server-problems-you-can-reproduce-measure-and-fix-a-free-demo-library",
-      "published": "2026-10-29T13:00:00+00:00",
+      "canonical_url": "https://www.sqlservercentral.com/blogs/sql-server-2016-has-reached-end-of-support-now-what",
+      "published": "2026-10-30T03:17:02+00:00",
       "reasons": [
-        "fresh <12h",
+        "fresh <30h",
         "sql",
         "sql server"
       ],
-      "score": 7.4,
+      "score": 6.6,
       "source": "SQLServerCentral",
-      "summary": "I built a free library of runnable SQL Server demos. Each reproduces a real production problem on purpose, measures the fixes, and checks its own predictions on SQL Server... The post SQL Server Problems You Can Reproduce, Measure and Fix: A Free Demo Library appeared first on SQLServerCentral .",
-      "title": "SQL Server Problems You Can Reproduce, Measure and Fix: A Free Demo Library",
-      "url": "https://www.sqlservercentral.com/blogs/sql-server-problems-you-can-reproduce-measure-and-fix-a-free-demo-library"
+      "summary": "SQL Server 2016 Has Reached End of Support. Now What? On July 14, 2026, SQL Server 2016 reached the end of extended support. That means regular... The post SQL Server 2016 Has Reached End of Support. Now What? appeared first on SQLServerCentral .",
+      "title": "SQL Server 2016 Has Reached End of Support. Now What?",
+      "url": "https://www.sqlservercentral.com/blogs/sql-server-2016-has-reached-end-of-support-now-what"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
-      "published": "2026-10-29T16:58:57+00:00",
-      "reasons": [
-        "fresh <12h",
-        "training",
-        "gpu"
-      ],
-      "score": 6.9,
-      "source": "AWS Machine Learning Blog",
-      "summary": "AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, all without manual coordination.",
-      "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
-      "url": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway",
-      "published": "2026-10-29T16:54:52+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent",
-        "mcp"
-      ],
-      "score": 6.9,
-      "source": "AWS Machine Learning Blog",
-      "summary": "MoEngage turned roughly 400 private REST APIs across 7 AWS Regions into permission-scoped agent tools with Amazon Bedrock AgentCore Gateway. No per-service MCP servers, no public endpoints, and no 400-tool context bloat. See how OpenAPI specs, Cedar policies, and managed Amazon VPC Lattice egress made it work.",
-      "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/"
-    },
-    {
-      "canonical_url": "https://postgr.es/p/9AA",
-      "published": "2026-10-29T12:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "security"
-      ],
-      "score": 6.3,
-      "source": "Planet PostgreSQL",
-      "summary": "If you store PHI on Supabase, you need a signed BAA and a project set to High Compliance. That takes care of the platform. It doesn't cover your RLS policies, your functions or your audit tables, and a HIPAA review will ask about those too. Supabase's shared responsibility model says the same. It tells you to \"always apply Row Level Security (RLS)\" and leaves the access rules on sensitive tables to you. The part Supabase handles On the hosted platform, Supabase encrypts data at rest and in transit, signs the BAA and checks your project settings. Its HIPAA guide asks you to turn on Point in Time Recovery, SSL enforcement, network restrictions…",
-      "title": "Munaf Khatri: Supabase is one part of your HIPAA compliance",
-      "url": "https://postgr.es/p/9AA"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks",
-      "published": "2026-10-28T18:19:54+00:00",
-      "reasons": [
-        "fresh <30h",
-        "training",
-        "gpu"
-      ],
-      "score": 6.1,
-      "source": "AWS Machine Learning Blog",
-      "summary": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the container exactly as published.",
-      "title": "Distributed training with Ray Train DLCs and EFA on EKS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
-      "published": "2026-10-29T19:56:19+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "published": "2026-10-30T13:01:14+00:00",
       "reasons": [
         "fresh <12h",
         "openai",
-        "security"
+        "research"
       ],
-      "score": 6.0,
-      "source": "TechCrunch AI",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+      "score": 5.9,
+      "source": "The Verge AI",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
-      "published": "2026-10-29T16:42:32+00:00",
+      "canonical_url": "https://www.sqlservercentral.com/blogs/car-update-october-2026",
+      "published": "2026-10-30T13:00:00+00:00",
       "reasons": [
         "fresh <12h",
-        "chip"
+        "sql"
+      ],
+      "score": 5.7,
+      "source": "SQLServerCentral",
+      "summary": "This month I want to look at a few of the things I’ve seen posted about cars during the last month. These are a few headlines, as well as... The post Car Update October 2026 appeared first on SQLServerCentral .",
+      "title": "Car Update October 2026",
+      "url": "https://www.sqlservercentral.com/blogs/car-update-october-2026"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9AC",
+      "published": "2026-10-30T15:53:50+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "Over the past decade, the timing of PostgreSQL major releases has become very predictable: no earlier than the middle of September, and no later than the middle of October. This year is going to be different. PostgreSQL 19 most likely won’t be released until November, and it’s not impossible that the project could decide to postpone the release further. Moreover, this year, several rather large features were reverted quite late in the beta period: UPDATE/DELETE FOR PORTION OF , SQL Property Graph Queries (SQL/PGQ), and ALTER TABLE … MERGE PARTITION/SPLIT PARTITION were all reverted between August 27 and September 15. While major feature reve…",
+      "title": "Robert Haas: Postgres 19 is late, and it's AI's fault",
+      "url": "https://postgr.es/p/9AC"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
+      "published": "2026-10-30T17:47:12+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
       ],
       "score": 5.2,
       "source": "TechCrunch AI",
-      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
-      "published": "2026-10-29T16:21:00+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock",
+      "published": "2026-10-30T17:32:20+00:00",
       "reasons": [
         "fresh <12h",
-        "model"
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.",
+      "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "published": "2026-10-30T13:54:25+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
       ],
       "score": 5.2,
       "source": "TechCrunch AI",
-      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
     },
     {
-      "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "published": "2026-10-29T13:37:07+00:00",
+      "canonical_url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+      "published": "2026-10-30T13:00:00+00:00",
       "reasons": [
         "fresh <12h",
-        "model"
+        "startup",
+        "fabric"
       ],
-      "score": 5.2,
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+      "score": 5.1,
+      "source": "TechCrunch AI",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
     },
     {
-      "canonical_url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "published": "2026-10-29T07:00:00+00:00",
+      "canonical_url": "https://postgr.es/p/9AE",
+      "published": "2026-10-30T00:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "openai"
+        "sql"
       ],
-      "score": 5.2,
-      "source": "OpenAI Blog",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence"
+      "score": 4.7,
+      "source": "Planet PostgreSQL",
+      "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0! Best Served with PostgreSQL 19 RC 1 , GEOS 3.15.0 , postgis_tiger_geocoder 2025.2 , and address_standardizer . This version requires GEOS 3.10+, PostgreSQL 14-19, Proj 6.1+, and libgmp. To take advantage of all postgis extension features, GEOS 3.15+ is needed. To take advantage of all postgis_sfcgal extension features SFCGAL 2.3+ is needed. Python 3 is a new requirement to build the documentation images. Visual examples in the docs are off by default. To build docs with them, configure with --with-visual-examples and make sure you have a running PostgreSQL instance; they are then generate…",
+      "title": "Regina Obe: PostGIS 3.7.0",
+      "url": "https://postgr.es/p/9AE"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026",
+      "published": "2026-10-29T20:16:40+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.",
+      "title": "How the UK Amazon Quick User Group grew in 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/"
     }
   ]
 }
