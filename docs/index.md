@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-10-31T09:50:15.672212+13:00._
+_Last updated: 2026-11-01T09:01:04.755361+13:00._
 
-[Read the latest digest](digests/2026-10-31.html)
+[Read the latest digest](digests/2026-11-01.html)
 
 ## Latest top links
 
-- [Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/) — AWS Machine Learning Blog
-- [The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out) — The Verge AI
-- [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences) — OpenAI Blog
-- [Community safety report and new protections for teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens) — OpenAI Blog
-- [Igor Suhorukov: pg_vexec one month on: ahead of ClickHouse on Parquet, close behind on MergeTree](https://postgr.es/p/9AF) — Planet PostgreSQL
-- [Google’s first data center satellite is online and writing poetry](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/) — TechCrunch AI
-- [Google’s satellite AI server transmits its first response to Earth](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission) — The Verge AI
-- [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright) — The Verge AI
+- [SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World](https://arxiv.org/abs/2610.37919) — arXiv cs.AI
+- [An Alignment Benchmark for Enterprise Agents on Era by Eon](https://arxiv.org/abs/2610.38544) — arXiv cs.AI
+- [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](https://arxiv.org/abs/2610.37720) — arXiv cs.AI
+- [FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision](https://arxiv.org/abs/2610.37905) — arXiv cs.AI
+- [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/) — TechCrunch AI
+- [Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/) — TechCrunch AI
+- [It’s 2026 and I’m retired, so lets get Visual Basic 6.0 to run on Windows 11](https://www.sqlservercentral.com/blogs/its-2026-and-im-retired-so-lets-get-visual-basic-6-0-to-run-on-windows-11) — SQLServerCentral
+- [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-11-01](digests/2026-11-01.html)
 - [2026-10-31](digests/2026-10-31.html)
 - [2026-10-30](digests/2026-10-30.html)
 - [2026-10-29](digests/2026-10-29.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-10-31T09:50:15.672212+13:00._
 - [2026-10-05](digests/2026-10-05.html)
 - [2026-10-04](digests/2026-10-04.html)
 - [2026-10-03](digests/2026-10-03.html)
-- [2026-10-02](digests/2026-10-02.html)
 
 ## About this site
 
