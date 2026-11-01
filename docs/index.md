@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-01T09:01:04.755361+13:00._
+_Last updated: 2026-11-02T09:32:06.557802+13:00._
 
-[Read the latest digest](digests/2026-11-01.html)
+[Read the latest digest](digests/2026-11-02.html)
 
 ## Latest top links
 
-- [SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World](https://arxiv.org/abs/2610.37919) — arXiv cs.AI
-- [An Alignment Benchmark for Enterprise Agents on Era by Eon](https://arxiv.org/abs/2610.38544) — arXiv cs.AI
-- [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](https://arxiv.org/abs/2610.37720) — arXiv cs.AI
-- [FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision](https://arxiv.org/abs/2610.37905) — arXiv cs.AI
-- [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/) — TechCrunch AI
-- [Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/) — TechCrunch AI
-- [It’s 2026 and I’m retired, so lets get Visual Basic 6.0 to run on Windows 11](https://www.sqlservercentral.com/blogs/its-2026-and-im-retired-so-lets-get-visual-basic-6-0-to-run-on-windows-11) — SQLServerCentral
-- [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/) — TechCrunch AI
+- [Christophe Pettus: All Your GUCs in a Row: row_security](https://postgr.es/p/9AL) — Planet PostgreSQL
+- [Installing and Configuring containerd as a Kubernetes Container Runtime](https://www.sqlservercentral.com/blogs/installing-and-configuring-containerd-as-a-kubernetes-container-runtime-4) — SQLServerCentral
+- [Microsoft 365 Copilot And Power BI: The Easiest Way To Chat With Your Data](https://blog.crossjoin.co.uk/2026/11/01/microsoft-365-copilot-and-power-bi-the-easiest-way-to-chat-with-your-data/) — Chris Webb's BI Blog
+- [Radim Marek: Getting rid of a 4 TB table in PostgreSQL](https://postgr.es/p/9AI) — Planet PostgreSQL
+- [Vadim Yatsenko: Splitting the Read-Only Transaction: Replica Reads Inside an Open Transaction](https://postgr.es/p/9AK) — Planet PostgreSQL
+- [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/) — TechCrunch AI
+- [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/) — TechCrunch AI
+- [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-11-02](digests/2026-11-02.html)
 - [2026-11-01](digests/2026-11-01.html)
 - [2026-10-31](digests/2026-10-31.html)
 - [2026-10-30](digests/2026-10-30.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-01T09:01:04.755361+13:00._
 - [2026-10-06](digests/2026-10-06.html)
 - [2026-10-05](digests/2026-10-05.html)
 - [2026-10-04](digests/2026-10-04.html)
-- [2026-10-03](digests/2026-10-03.html)
 
 ## About this site
 
