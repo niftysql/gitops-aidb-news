@@ -1,0 +1,264 @@
+{
+  "digest_date": "2026-11-03",
+  "generated_at": "2026-11-03T12:35:37.262275+13:00",
+  "items": [
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.41574",
+      "published": "2026-11-02T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "llama",
+        "mistral",
+        "model",
+        "training"
+      ],
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.41574v1 Announce Type: new Abstract: Unlike autoregressive (AR) models, diffusion language models (DLMs) permit parallel token updates, flexible generation, and bidirectional attention, but leading systems rely on costly pretraining or full-model fine-tuning. We present Build Your Own DLM (BYOD), a generalizable LoRA-only recipe for parameter-efficient AR-to-DLM conversion. Without architecture-specific tuning, BYOD induces diffusion generation in Gemma 2 9B, Llama 3.1 8B, Qwen2.5 7B, and Ministral 8B; to our knowledge, this is the first reported AR-to-DLM conversion of a Mistral model. The adapters comprise 4.1-5.8% of final para…",
+      "title": "BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion",
+      "url": "https://arxiv.org/abs/2610.41574"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+      "published": "2026-11-02T23:13:53+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "training",
+        "startup"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.40726",
+      "published": "2026-11-02T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.40726v1 Announce Type: new Abstract: Asynchronous reinforcement learning (RL) is becoming a mainstream paradigm for post-training large language models (LLMs), as it improves training efficiency by updating the model as rollouts arrive. Recent work argues that group-wise sampling in GRPO does not naturally fit asynchronous RL training because rollout lengths follow a long-tailed distribution, and proposes Single-rollout Asynchronous Optimization (SAO) to improve stability and off-policy behavior, especially on agentic tasks. However, SAO relies on a closed-source value model obtained from scaling value pretraining. In this paper,…",
+      "title": "Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping",
+      "url": "https://arxiv.org/abs/2610.40726"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.41079",
+      "published": "2026-11-02T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.41079v1 Announce Type: new Abstract: Many automated decisions in education involve choosing from a fixed set of options: assigning a rubric score, checking whether an answer meets a marking criterion, or identifying the first wrong step in a solution. Generative language models are increasingly used to make these decisions, but their responses require parsing, longer outputs increase inference costs, and confidence expressed in words does not necessarily reflect the probability of being correct. We present EDU-Jev, a family of single-pass (\"System One\") decision models at 0.8B, 2B and 4B parameters. Given an assessment context and…",
+      "title": "EDU-Jev Training System-One Decision Models for Education",
+      "url": "https://arxiv.org/abs/2610.41079"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.41177",
+      "published": "2026-11-02T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2610.41177v1 Announce Type: new Abstract: LLM agents execute tasks through repeated model calls over evolving histories of reasoning, actions, and tool feedback. Aggregate speculative-decoding metrics merge these distinct decisions, providing limited guidance on where draft supervision is needed. We present TraceSpec, a framework connecting trajectory evaluation with adaptive draft training. It combines dynamic execution with fixed-prefix replay and introduces TraceSpec-Traj, a corpus of 10,000 training states and 2,500 test states spanning browsing and software engineering. Analysis of five speculative baselines reveals that aggregate…",
+      "title": "TraceSpec: Understanding and Improving Speculative Decoding for LLM Agents",
+      "url": "https://arxiv.org/abs/2610.41177"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/a-front-door-for-the-dba-team-agentdba-ui",
+      "published": "2026-11-02T20:21:30+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "sql"
+      ],
+      "score": 7.4,
+      "source": "SQLServerCentral",
+      "summary": "AgentDBA began as a command line. That suits one DBA on one server, but it’s a poor way to give a team a read-only advisor. The obvious fix is... The post A Front Door for the DBA Team – AgentDBA UI appeared first on SQLServerCentral .",
+      "title": "A Front Door for the DBA Team – AgentDBA UI",
+      "url": "https://www.sqlservercentral.com/blogs/a-front-door-for-the-dba-team-agentdba-ui"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/cleaning-up-azure-ms-defender-billing",
+      "published": "2026-11-02T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql",
+        "sql server"
+      ],
+      "score": 7.4,
+      "source": "SQLServerCentral",
+      "summary": "I have a few Azure subscriptions, which are fairly small and not used that often. Mainly I do some SQL Server or Azure SQL experimentation. Sometimes I might create... The post Cleaning Up Azure MS Defender Billing appeared first on SQLServerCentral .",
+      "title": "Cleaning Up Azure MS Defender Billing",
+      "url": "https://www.sqlservercentral.com/blogs/cleaning-up-azure-ms-defender-billing"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9AQ",
+      "published": "2026-11-02T15:28:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql",
+        "open source",
+        "developer"
+      ],
+      "score": 7.1,
+      "source": "Planet PostgreSQL",
+      "summary": "We’re excited to announce that sponsorship opportunities for 2027 Nordic PGDay are now available. Our event returns to Stockholm, bringing together attendees from all over the Nordic region. Developers, DBAs, and users, meet for a day of learning and networking.This years main conference will be held in Stockholm, Sweden, and for the first time we will also run an auxiliary event in Gothenburg - and sponsorships cover both! Sponsoring is a great way to connect with the PostgreSQL community, gain visibility, and show your support for our open source community. Details about sponsorship levels and benefits are available on our website . Spaces…",
+      "title": "Magnus Hagander: Nordic PGDay 2027 - Sponsorships for Nordic PGDay 2027 Are Now Open",
+      "url": "https://postgr.es/p/9AQ"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+      "published": "2026-11-02T22:14:50+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "training"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai",
+      "published": "2026-11-02T17:01:31+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent"
+      ],
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation (SeqKD) to transfer a frontier teacher's agentic behavior into a small, lower-cost student on Amazon SageMaker AI.",
+      "title": "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
+      "published": "2026-11-02T13:57:53+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "published": "2026-11-02T18:56:02+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "claude"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
+      "published": "2026-11-02T19:19:17+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "privacy"
+      ],
+      "score": 6.0,
+      "source": "TechCrunch AI",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore",
+      "published": "2026-11-02T17:01:16+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "multimodal"
+      ],
+      "score": 6.0,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping the engineer as the decision-maker.",
+      "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/grid-protectors-program",
+      "published": "2026-11-02T15:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai"
+      ],
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program"
+    },
+    {
+      "canonical_url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
+      "published": "2026-11-02T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "enterprise"
+      ],
+      "score": 5.9,
+      "source": "MIT Technology Review AI",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+    },
+    {
+      "canonical_url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
+      "published": "2026-11-02T13:10:32+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "developer"
+      ],
+      "score": 5.9,
+      "source": "MIT Technology Review AI",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2610.41022",
+      "published": "2026-11-02T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent"
+      ],
+      "score": 5.9,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2610.41022v1 Announce Type: cross Abstract: Latent world models allow reinforcement learning agents to learn policies from imagined trajectories, yet determining the optimal depth of model reliance remains a fundamental challenge. Fixed imagination horizons apply uniform prediction depths regardless of trajectory reliability, exposing target values to compounding model error or over-relying on critic approximations. We introduce density-guided bootstrap boundaries, a trajectory-dependent mechanism that adapts the depth of imagined returns using a score-informed relative density proxy. The proxy accumulates the estimated divergence of a…",
+      "title": "Density-Guided Bootstrap Boundaries for Latent World-Model Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.41022"
+    }
+  ]
+}

@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-02T09:32:06.557802+13:00._
+_Last updated: 2026-11-03T12:35:37.262275+13:00._
 
-[Read the latest digest](digests/2026-11-02.html)
+[Read the latest digest](digests/2026-11-03.html)
 
 ## Latest top links
 
-- [Christophe Pettus: All Your GUCs in a Row: row_security](https://postgr.es/p/9AL) — Planet PostgreSQL
-- [Installing and Configuring containerd as a Kubernetes Container Runtime](https://www.sqlservercentral.com/blogs/installing-and-configuring-containerd-as-a-kubernetes-container-runtime-4) — SQLServerCentral
-- [Microsoft 365 Copilot And Power BI: The Easiest Way To Chat With Your Data](https://blog.crossjoin.co.uk/2026/11/01/microsoft-365-copilot-and-power-bi-the-easiest-way-to-chat-with-your-data/) — Chris Webb's BI Blog
-- [Radim Marek: Getting rid of a 4 TB table in PostgreSQL](https://postgr.es/p/9AI) — Planet PostgreSQL
-- [Vadim Yatsenko: Splitting the Read-Only Transaction: Replica Reads Inside an Open Transaction](https://postgr.es/p/9AK) — Planet PostgreSQL
-- [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/) — TechCrunch AI
-- [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/) — TechCrunch AI
-- [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/) — TechCrunch AI
+- [BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion](https://arxiv.org/abs/2610.41574) — arXiv cs.CL
+- [Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/) — TechCrunch AI
+- [Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping](https://arxiv.org/abs/2610.40726) — arXiv cs.CL
+- [EDU-Jev Training System-One Decision Models for Education](https://arxiv.org/abs/2610.41079) — arXiv cs.CL
+- [TraceSpec: Understanding and Improving Speculative Decoding for LLM Agents](https://arxiv.org/abs/2610.41177) — arXiv cs.CL
+- [A Front Door for the DBA Team – AgentDBA UI](https://www.sqlservercentral.com/blogs/a-front-door-for-the-dba-team-agentdba-ui) — SQLServerCentral
+- [Cleaning Up Azure MS Defender Billing](https://www.sqlservercentral.com/blogs/cleaning-up-azure-ms-defender-billing) — SQLServerCentral
+- [Magnus Hagander: Nordic PGDay 2027 - Sponsorships for Nordic PGDay 2027 Are Now Open](https://postgr.es/p/9AQ) — Planet PostgreSQL
 
 ## Recent digests
 
+- [2026-11-03](digests/2026-11-03.html)
 - [2026-11-02](digests/2026-11-02.html)
 - [2026-11-01](digests/2026-11-01.html)
 - [2026-10-31](digests/2026-10-31.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-02T09:32:06.557802+13:00._
 - [2026-10-07](digests/2026-10-07.html)
 - [2026-10-06](digests/2026-10-06.html)
 - [2026-10-05](digests/2026-10-05.html)
-- [2026-10-04](digests/2026-10-04.html)
 
 ## About this site
 
