@@ -1,264 +1,263 @@
 {
-  "digest_date": "2026-11-03",
-  "generated_at": "2026-11-03T12:35:37.262275+13:00",
+  "digest_date": "2026-11-04",
+  "generated_at": "2026-11-04T10:48:27.854038+13:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2610.41574",
-      "published": "2026-11-02T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "llama",
-        "mistral",
-        "model",
-        "training"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.41574v1 Announce Type: new Abstract: Unlike autoregressive (AR) models, diffusion language models (DLMs) permit parallel token updates, flexible generation, and bidirectional attention, but leading systems rely on costly pretraining or full-model fine-tuning. We present Build Your Own DLM (BYOD), a generalizable LoRA-only recipe for parameter-efficient AR-to-DLM conversion. Without architecture-specific tuning, BYOD induces diffusion generation in Gemma 2 9B, Llama 3.1 8B, Qwen2.5 7B, and Ministral 8B; to our knowledge, this is the first reported AR-to-DLM conversion of a Mistral model. The adapters comprise 4.1-5.8% of final para…",
-      "title": "BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion",
-      "url": "https://arxiv.org/abs/2610.41574"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
-      "published": "2026-11-02T23:13:53+00:00",
+      "canonical_url": "https://postgr.es/p/9AX",
+      "published": "2026-11-03T15:18:18+00:00",
       "reasons": [
         "fresh <12h",
-        "model",
+        "sql",
+        "sql server",
+        "oracle",
+        "mysql"
+      ],
+      "score": 9.7,
+      "source": "Planet PostgreSQL",
+      "summary": "The November 2026 DB-Engines rankings are out. PostgreSQL is the only database in the top four whose line is going up and to the right. Oracle, MySQL and Microsoft SQL Server all lost points this month, and all three are down from a year ago. PostgreSQL gained points on both counts. It now sits just 3.84 points behind SQL Server for third place. On the past year's trend, PostgreSQL could move ahead of SQL Server as early as next month. So it's time to celebrate, right? Maybe not yet. Before anyone orders the cake, let's look at what the numbers say, why people are moving, and how hard the next step up will be. The numbers Only PostgreSQL gai…",
+      "title": "Dave Stokes: Is PostgreSQL Really Winning?",
+      "url": "https://postgr.es/p/9AX"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/asking-for-help-isnt-a-weakness",
+      "published": "2026-11-03T15:40:18+00:00",
+      "reasons": [
+        "fresh <12h",
         "training",
-        "startup"
+        "sql",
+        "developer",
+        "enterprise"
+      ],
+      "score": 9.0,
+      "source": "SQLServerCentral",
+      "summary": "During COVID, I attended training on software/enterprise architecture given by Mark Richards. One of the things he pointed out that differentiates an architect from a senior administrator/developer/engineer is that... The post Asking for Help Isn’t a Weakness appeared first on SQLServerCentral .",
+      "title": "Asking for Help Isn’t a Weakness",
+      "url": "https://www.sqlservercentral.com/blogs/asking-for-help-isnt-a-weakness"
+    },
+    {
+      "canonical_url": "https://openai.com/index/cisco-cyber",
+      "published": "2026-11-03T08:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "model",
+        "security",
+        "enterprise"
+      ],
+      "score": 8.5,
+      "source": "OpenAI Blog",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber"
+    },
+    {
+      "canonical_url": "https://openai.com/index/heimstaden",
+      "published": "2026-11-03T08:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "gpt",
+        "enterprise"
       ],
       "score": 7.7,
-      "source": "TechCrunch AI",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+      "source": "OpenAI Blog",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2610.40726",
-      "published": "2026-11-02T05:00:00+00:00",
+      "canonical_url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment",
+      "published": "2026-11-03T10:43:41+00:00",
       "reasons": [
-        "fresh <30h",
+        "fresh <12h",
         "model",
         "agent",
-        "training"
+        "research"
       ],
       "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.40726v1 Announce Type: new Abstract: Asynchronous reinforcement learning (RL) is becoming a mainstream paradigm for post-training large language models (LLMs), as it improves training efficiency by updating the model as rollouts arrive. Recent work argues that group-wise sampling in GRPO does not naturally fit asynchronous RL training because rollout lengths follow a long-tailed distribution, and proposes Single-rollout Asynchronous Optimization (SAO) to improve stability and off-policy behavior, especially on agentic tasks. However, SAO relies on a closed-source value model obtained from scaling value pretraining. In this paper,…",
-      "title": "Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping",
-      "url": "https://arxiv.org/abs/2610.40726"
+      "source": "MIT Technology Review AI",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2610.41079",
-      "published": "2026-11-02T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.41079v1 Announce Type: new Abstract: Many automated decisions in education involve choosing from a fixed set of options: assigning a rubric score, checking whether an answer meets a marking criterion, or identifying the first wrong step in a solution. Generative language models are increasingly used to make these decisions, but their responses require parsing, longer outputs increase inference costs, and confidence expressed in words does not necessarily reflect the probability of being correct. We present EDU-Jev, a family of single-pass (\"System One\") decision models at 0.8B, 2B and 4B parameters. Given an assessment context and…",
-      "title": "EDU-Jev Training System-One Decision Models for Education",
-      "url": "https://arxiv.org/abs/2610.41079"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.41177",
-      "published": "2026-11-02T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2610.41177v1 Announce Type: new Abstract: LLM agents execute tasks through repeated model calls over evolving histories of reasoning, actions, and tool feedback. Aggregate speculative-decoding metrics merge these distinct decisions, providing limited guidance on where draft supervision is needed. We present TraceSpec, a framework connecting trajectory evaluation with adaptive draft training. It combines dynamic execution with fixed-prefix replay and introduces TraceSpec-Traj, a corpus of 10,000 training states and 2,500 test states spanning browsing and software engineering. Analysis of five speculative baselines reveals that aggregate…",
-      "title": "TraceSpec: Understanding and Improving Speculative Decoding for LLM Agents",
-      "url": "https://arxiv.org/abs/2610.41177"
-    },
-    {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/a-front-door-for-the-dba-team-agentdba-ui",
-      "published": "2026-11-02T20:21:30+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent",
-        "sql"
-      ],
-      "score": 7.4,
-      "source": "SQLServerCentral",
-      "summary": "AgentDBA began as a command line. That suits one DBA on one server, but it’s a poor way to give a team a read-only advisor. The obvious fix is... The post A Front Door for the DBA Team – AgentDBA UI appeared first on SQLServerCentral .",
-      "title": "A Front Door for the DBA Team – AgentDBA UI",
-      "url": "https://www.sqlservercentral.com/blogs/a-front-door-for-the-dba-team-agentdba-ui"
-    },
-    {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/cleaning-up-azure-ms-defender-billing",
-      "published": "2026-11-02T13:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "sql",
-        "sql server"
-      ],
-      "score": 7.4,
-      "source": "SQLServerCentral",
-      "summary": "I have a few Azure subscriptions, which are fairly small and not used that often. Mainly I do some SQL Server or Azure SQL experimentation. Sometimes I might create... The post Cleaning Up Azure MS Defender Billing appeared first on SQLServerCentral .",
-      "title": "Cleaning Up Azure MS Defender Billing",
-      "url": "https://www.sqlservercentral.com/blogs/cleaning-up-azure-ms-defender-billing"
-    },
-    {
-      "canonical_url": "https://postgr.es/p/9AQ",
-      "published": "2026-11-02T15:28:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "sql",
-        "open source",
-        "developer"
-      ],
-      "score": 7.1,
-      "source": "Planet PostgreSQL",
-      "summary": "We’re excited to announce that sponsorship opportunities for 2027 Nordic PGDay are now available. Our event returns to Stockholm, bringing together attendees from all over the Nordic region. Developers, DBAs, and users, meet for a day of learning and networking.This years main conference will be held in Stockholm, Sweden, and for the first time we will also run an auxiliary event in Gothenburg - and sponsorships cover both! Sponsoring is a great way to connect with the PostgreSQL community, gain visibility, and show your support for our open source community. Details about sponsorship levels and benefits are available on our website . Spaces…",
-      "title": "Magnus Hagander: Nordic PGDay 2027 - Sponsorships for Nordic PGDay 2027 Are Now Open",
-      "url": "https://postgr.es/p/9AQ"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
-      "published": "2026-11-02T22:14:50+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic",
-        "training"
-      ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai",
-      "published": "2026-11-02T17:01:31+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws",
+      "published": "2026-11-03T16:40:54+00:00",
       "reasons": [
         "fresh <12h",
         "model",
-        "agent"
+        "gpu"
       ],
       "score": 6.9,
       "source": "AWS Machine Learning Blog",
-      "summary": "Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation (SeqKD) to transfer a frontier teacher's agentic behavior into a small, lower-cost student on Amazon SageMaker AI.",
-      "title": "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/"
+      "summary": "Learn how Cartesia, an AWS Partner, uses purpose-built State Space Models and AWS infrastructure to deliver sub-100ms text-to-speech and speech-to-text at global scale, and how to deploy its Sonic model on Amazon SageMaker AI or self-managed Amazon EC2 GPU instances.",
+      "title": "Building ultra-low-latency voice AI applications on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
-      "published": "2026-11-02T13:57:53+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "published": "2026-11-03T18:30:42+00:00",
       "reasons": [
         "fresh <12h",
         "openai",
         "gpt"
       ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "published": "2026-11-02T18:56:02+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic",
-        "claude"
-      ],
       "score": 6.8,
       "source": "The Verge AI",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
-      "published": "2026-11-02T19:19:17+00:00",
+      "canonical_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published": "2026-11-02T18:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "research",
+        "security"
+      ],
+      "score": 6.8,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9AT",
+      "published": "2026-11-02T23:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "training",
+        "sql"
+      ],
+      "score": 6.4,
+      "source": "Planet PostgreSQL",
+      "summary": "PostgreSQL Conference Europe 2026 This years conference took place in Valencia, Spain, from Tuesday October 20 until Friday, October 23. We had a whole conference center for the conference, the Palacio de Congresos Valencia . In previous years the first day was training, later community stuff. Now it is the last day for the community day events. In the opening talk Magnus Hagander introduced our new big Slonik. Member of the Talk Selection Committee I was honoured to be part of the Talk Selection Committee and part of the DBA and Internals Subcommittee. We had more than 450 talks submitted. Some abstracts where near a whole talk. And as the…",
+      "title": "Stefanie Janine: PostgreSQL Conference Europe Wrapup",
+      "url": "https://postgr.es/p/9AT"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9AU",
+      "published": "2026-11-03T13:50:00+00:00",
       "reasons": [
         "fresh <12h",
-        "anthropic",
+        "sql",
+        "open source"
+      ],
+      "score": 6.3,
+      "source": "Planet PostgreSQL",
+      "summary": "In 2014, if you wanted Postgres servers on several continents, each of them accepting writes and all of them sharing their rows, there was one serious open source answer: BDR, from 2ndQuadrant. It needed a patched PostgreSQL 9.4 and a plugin, which means it needed a server that was not Postgres. Ten years of work on logical replication have since moved most of what BDR needed into the stock server, and in this article we build the same kind of system with Postgres 19 release candidate 1 and pg_auto_failover, to see how far that incremental progress has taken us, and what is still left to build. This is the last article of a series on logical…",
+      "title": "Dimitri Fontaine: Postgres logical replication beyond one writer",
+      "url": "https://postgr.es/p/9AU"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9AS",
+      "published": "2026-11-03T11:30:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql",
+        "mysql"
+      ],
+      "score": 6.3,
+      "source": "Planet PostgreSQL",
+      "summary": "Again, apologies for the delay. PGConf.dev was back in May, and it has taken me until November to follow up on Part One . This part is about \"Establishing the PostgreSQL standard: What's Postgres compatible?\" , the session I ran with Hettie Dombrovskaya on the Tuesday afternoon in Vancouver, in the Community Discussion track of PGConf.dev 2026 . It follows on from the working session Hettie, Boriss Mejías and I organised at PGConf.EU 2025 in Riga, and from the talk at FOSDEM in February where Daniël van Eeden and I looked at the question from the Postgres and MySQL sides. What came out of Riga is written up on the PostgreSQL wiki as the Riga…",
+      "title": "Jimmy Angelakos: Establishing the PostgreSQL Standard: PGConf.dev 2026 Part Two",
+      "url": "https://postgr.es/p/9AS"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+      "published": "2026-11-03T19:34:43+00:00",
+      "reasons": [
+        "fresh <12h",
+        "inference",
+        "startup"
+      ],
+      "score": 6.0,
+      "source": "TechCrunch AI",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search",
+      "published": "2026-11-03T16:43:20+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
         "privacy"
       ],
       "score": 6.0,
-      "source": "TechCrunch AI",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+      "source": "AWS Machine Learning Blog",
+      "summary": "Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on Amazon Bedrock AgentCore. See how the Gen team delivers real-time, cited content suggestions, goal setting, and news feeds with zero data egress and Norton-grade privacy.",
+      "title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore",
-      "published": "2026-11-02T17:01:16+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore",
+      "published": "2026-11-03T16:41:13+00:00",
       "reasons": [
         "fresh <12h",
         "agent",
-        "multimodal"
+        "security"
       ],
       "score": 6.0,
       "source": "AWS Machine Learning Blog",
-      "summary": "Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping the engineer as the decision-maker.",
-      "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/"
+      "summary": "Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in Postgres, with GRANT and row-level security enforcing what each agent can read.",
+      "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/"
     },
     {
-      "canonical_url": "https://openai.com/index/grid-protectors-program",
-      "published": "2026-11-02T15:00:00+00:00",
+      "canonical_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "published": "2026-11-03T12:00:00+00:00",
       "reasons": [
         "fresh <12h",
-        "openai"
+        "gpt"
       ],
       "score": 6.0,
       "source": "OpenAI Blog",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program"
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
     },
     {
-      "canonical_url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
-      "published": "2026-11-02T17:00:00+00:00",
+      "canonical_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+      "published": "2026-11-03T17:01:49+00:00",
       "reasons": [
         "fresh <12h",
-        "agent",
-        "enterprise"
-      ],
-      "score": 5.9,
-      "source": "MIT Technology Review AI",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
-    },
-    {
-      "canonical_url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
-      "published": "2026-11-02T13:10:32+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent",
-        "developer"
-      ],
-      "score": 5.9,
-      "source": "MIT Technology Review AI",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2610.41022",
-      "published": "2026-11-02T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
         "agent"
       ],
-      "score": 5.9,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2610.41022v1 Announce Type: cross Abstract: Latent world models allow reinforcement learning agents to learn policies from imagined trajectories, yet determining the optimal depth of model reliance remains a fundamental challenge. Fixed imagination horizons apply uniform prediction depths regardless of trajectory reliability, exposing target values to compounding model error or over-relying on critic approximations. We introduce density-guided bootstrap boundaries, a trajectory-dependent mechanism that adapts the depth of imagined returns using a score-informed relative density proxy. The proxy accumulates the estimated divergence of a…",
-      "title": "Density-Guided Bootstrap Boundaries for Latent World-Model Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.41022"
+      "score": 5.7,
+      "source": "Google DeepMind Blog",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/the-proof-of-the-backup-is-in-the-pudding",
+      "published": "2026-11-03T14:15:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.7,
+      "source": "SQLServerCentral",
+      "summary": "For me, the objective is straightforward: have a backup strategy that is reliable, understandable, maintainable, and, most importantly, restorable. A successful backup job is good news. A successful restore... The post The Proof of the Backup Is in the Pudding appeared first on SQLServerCentral .",
+      "title": "The Proof of the Backup Is in the Pudding",
+      "url": "https://www.sqlservercentral.com/blogs/the-proof-of-the-backup-is-in-the-pudding"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/allenai/statebench",
+      "published": "2026-11-03T17:15:21+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model"
+      ],
+      "score": 5.2,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench"
     }
   ]
 }
