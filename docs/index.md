@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-04T10:48:27.854038+13:00._
+_Last updated: 2026-11-05T10:55:10.326917+13:00._
 
-[Read the latest digest](digests/2026-11-04.html)
+[Read the latest digest](digests/2026-11-05.html)
 
 ## Latest top links
 
-- [Dave Stokes: Is PostgreSQL Really Winning?](https://postgr.es/p/9AX) — Planet PostgreSQL
-- [Asking for Help Isn’t a Weakness](https://www.sqlservercentral.com/blogs/asking-for-help-isnt-a-weakness) — SQLServerCentral
-- [How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber) — OpenAI Blog
-- [Heimstaden is changing residential real estate management with AI](https://openai.com/index/heimstaden) — OpenAI Blog
-- [How “reverse game theory” could keep AI agents in check](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/) — MIT Technology Review AI
-- [Building ultra-low-latency voice AI applications on AWS](https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/) — AWS Machine Learning Blog
-- [OpenAI says ChatGPT is catching up to Google in search](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search) — The Verge AI
-- [Rewarding defenders with bigger bug bounties](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties) — OpenAI Blog
+- [When LLMs Modify Themselves: Convergence, Values, and Stopping in Iterative Self-Improvement](https://arxiv.org/abs/2611.01304) — arXiv cs.CL
+- [ChatGPT will now make you animated GIFs](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6) — The Verge AI
+- [How Indegene is modernizing and scaling enterprise data quality in life sciences](https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/) — AWS Machine Learning Blog
+- [Open source AI is booming. Hugging Face explains who profits.](https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/) — TechCrunch AI
+- [Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs](https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/) — TechCrunch AI
+- [MEMENTO: Learning Context Management for Long Context Processing Agents](https://arxiv.org/abs/2611.00244) — arXiv cs.CL
+- [Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries](https://arxiv.org/abs/2611.00420) — arXiv cs.CL
+- [From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory](https://arxiv.org/abs/2611.00450) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-11-05](digests/2026-11-05.html)
 - [2026-11-04](digests/2026-11-04.html)
 - [2026-11-03](digests/2026-11-03.html)
 - [2026-11-02](digests/2026-11-02.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-04T10:48:27.854038+13:00._
 - [2026-10-09](digests/2026-10-09.html)
 - [2026-10-08](digests/2026-10-08.html)
 - [2026-10-07](digests/2026-10-07.html)
-- [2026-10-06](digests/2026-10-06.html)
 
 ## About this site
 

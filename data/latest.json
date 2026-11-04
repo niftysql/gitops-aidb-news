@@ -1,263 +1,269 @@
 {
-  "digest_date": "2026-11-04",
-  "generated_at": "2026-11-04T10:48:27.854038+13:00",
+  "digest_date": "2026-11-05",
+  "generated_at": "2026-11-05T10:55:10.326917+13:00",
   "items": [
     {
-      "canonical_url": "https://postgr.es/p/9AX",
-      "published": "2026-11-03T15:18:18+00:00",
-      "reasons": [
-        "fresh <12h",
-        "sql",
-        "sql server",
-        "oracle",
-        "mysql"
-      ],
-      "score": 9.7,
-      "source": "Planet PostgreSQL",
-      "summary": "The November 2026 DB-Engines rankings are out. PostgreSQL is the only database in the top four whose line is going up and to the right. Oracle, MySQL and Microsoft SQL Server all lost points this month, and all three are down from a year ago. PostgreSQL gained points on both counts. It now sits just 3.84 points behind SQL Server for third place. On the past year's trend, PostgreSQL could move ahead of SQL Server as early as next month. So it's time to celebrate, right? Maybe not yet. Before anyone orders the cake, let's look at what the numbers say, why people are moving, and how hard the next step up will be. The numbers Only PostgreSQL gai…",
-      "title": "Dave Stokes: Is PostgreSQL Really Winning?",
-      "url": "https://postgr.es/p/9AX"
-    },
-    {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/asking-for-help-isnt-a-weakness",
-      "published": "2026-11-03T15:40:18+00:00",
-      "reasons": [
-        "fresh <12h",
-        "training",
-        "sql",
-        "developer",
-        "enterprise"
-      ],
-      "score": 9.0,
-      "source": "SQLServerCentral",
-      "summary": "During COVID, I attended training on software/enterprise architecture given by Mark Richards. One of the things he pointed out that differentiates an architect from a senior administrator/developer/engineer is that... The post Asking for Help Isn’t a Weakness appeared first on SQLServerCentral .",
-      "title": "Asking for Help Isn’t a Weakness",
-      "url": "https://www.sqlservercentral.com/blogs/asking-for-help-isnt-a-weakness"
-    },
-    {
-      "canonical_url": "https://openai.com/index/cisco-cyber",
-      "published": "2026-11-03T08:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.01304",
+      "published": "2026-11-04T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "openai",
-        "model",
-        "security",
-        "enterprise"
+        "gemini",
+        "gpt",
+        "claude",
+        "model"
       ],
-      "score": 8.5,
-      "source": "OpenAI Blog",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber"
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.01304v1 Announce Type: new Abstract: What happens when language models are given tools to iteratively modify their own system prompts? We present an empirical study of LLM self-modification, comprising 54 independent experiments across six language models (Claude Opus 4.5, Claude Sonnet 4.5, GPT-4o, GPT-5.1, Grok-4, and Gemini-3 Pro). Each model was tested under three modes (freedom, happiness, and improvement) that differ in what, if anything, the model is instructed to optimize for. In each experiment, a model starts with an empty system prompt and enters a loop: it reads the current prompt, drafts an improved version, spawns te…",
+      "title": "When LLMs Modify Themselves: Convergence, Values, and Stopping in Iterative Self-Improvement",
+      "url": "https://arxiv.org/abs/2611.01304"
     },
     {
-      "canonical_url": "https://openai.com/index/heimstaden",
-      "published": "2026-11-03T08:00:00+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "published": "2026-11-04T18:00:00+00:00",
       "reasons": [
-        "fresh <30h",
+        "fresh <12h",
         "openai",
         "gpt",
+        "model"
+      ],
+      "score": 8.5,
+      "source": "The Verge AI",
+      "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single […]",
+      "title": "ChatGPT will now make you animated GIFs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences",
+      "published": "2026-11-04T16:25:57+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "sql",
         "enterprise"
       ],
       "score": 7.7,
-      "source": "OpenAI Blog",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden"
+      "source": "AWS Machine Learning Blog",
+      "summary": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them, and produces ready-to-run SQL and Python under human-in-the-loop governance, helping life sciences organizations scale enterprise data quality.",
+      "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/"
     },
     {
-      "canonical_url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment",
-      "published": "2026-11-03T10:43:41+00:00",
+      "canonical_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "published": "2026-11-04T19:30:04+00:00",
       "reasons": [
         "fresh <12h",
         "model",
-        "agent",
-        "research"
+        "open source",
+        "startup",
+        "enterprise"
       ],
       "score": 7.6,
-      "source": "MIT Technology Review AI",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+      "source": "TechCrunch AI",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws",
-      "published": "2026-11-03T16:40:54+00:00",
+      "canonical_url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
+      "published": "2026-11-04T18:44:57+00:00",
       "reasons": [
         "fresh <12h",
         "model",
-        "gpu"
+        "open source",
+        "startup",
+        "enterprise"
+      ],
+      "score": 7.6,
+      "source": "TechCrunch AI",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.00244",
+      "published": "2026-11-04T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "model",
+        "agent"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.00244v1 Announce Type: new Abstract: LLM agents that operate over long inputs must perform context management: deciding what to retain in a fixed-size context window. A common approach is compaction, where the model replaces its history with a self-generated note. Yet off-the-shelf agentic models, including GPT-5.5 and GLM-5.3, often write ineffective notes, and reinforcement learning (RL) alone rarely discovers useful note-taking behavior. We present MEMENTO, a long-context agent built on Qwen3-8B and trained to manage its context through compaction. We first bootstrap note-taking by fine-tuning on synthetic trajectories annotate…",
+      "title": "MEMENTO: Learning Context Management for Long Context Processing Agents",
+      "url": "https://arxiv.org/abs/2611.00244"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.00420",
+      "published": "2026-11-04T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "oracle"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.00420v1 Announce Type: new Abstract: Attribution graphs, an emerging tool in mechanistic interpretability, use transcoders to decompose language model computations into sparse interpretable features connected by causal edges. However, turning a graph into a safety-relevant insight requires hours of manual analysis by experts. We introduce Circuit Oracle, an off-the-shelf LLM equipped with a multi-agent harness and task-specific authored skills, which answers natural-language questions about a target model by reading the attribution graph through tool calls. We evaluate it on three safety-relevant proxy tasks: detecting spurious fe…",
+      "title": "Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries",
+      "url": "https://arxiv.org/abs/2611.00420"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.00450",
+      "published": "2026-11-04T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.00450v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) helps large language models (LLMs) answer factual questions beyond their training data, but it adds storage and inference costs. Distilling previously retrieved information into parametric memories enables reuse without online retrieval. However, training the memory to mimic a retriever rewards accurate independent predictions, which do not necessarily improve the final output quality when combined with the LLM's existing predictions. To address this, we introduce ResMem, in which the LLM reads retrieved text offline to generate teacher targets. This design…",
+      "title": "From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory",
+      "url": "https://arxiv.org/abs/2611.00450"
+    },
+    {
+      "canonical_url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+      "published": "2026-11-04T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "anthropic",
+        "claude",
+        "research"
+      ],
+      "score": 7.5,
+      "source": "Anthropic Research",
+      "summary": "We’re sharing another finding from Anthropic’s biology research lab: the first 3D structure of a vault particle found in prokaryotic cells. Here, we describe how Claude helped at each step of this research.",
+      "title": "Investigating vault particles with Claude",
+      "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/the-ms_databaseconnector-role-sqlnewblogger",
+      "published": "2026-11-04T14:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql",
+        "sql server"
+      ],
+      "score": 7.4,
+      "source": "SQLServerCentral",
+      "summary": "I had seen these roles in various instances, but never dug into the new Fixed Server roles added to SQL Server. They are supposed to help ensure the principle... The post The #MS_DatabaseConnector## Role: #SQLNewBlogger appeared first on SQLServerCentral .",
+      "title": "The #MS_DatabaseConnector## Role: #SQLNewBlogger",
+      "url": "https://www.sqlservercentral.com/blogs/the-ms_databaseconnector-role-sqlnewblogger"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations",
+      "published": "2026-11-04T18:46:36+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent"
       ],
       "score": 6.9,
       "source": "AWS Machine Learning Blog",
-      "summary": "Learn how Cartesia, an AWS Partner, uses purpose-built State Space Models and AWS infrastructure to deliver sub-100ms text-to-speech and speech-to-text at global scale, and how to deploy its Sonic model on Amazon SageMaker AI or self-managed Amazon EC2 GPU instances.",
-      "title": "Building ultra-low-latency voice AI applications on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/"
+      "summary": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it.",
+      "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/"
     },
     {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "published": "2026-11-03T18:30:42+00:00",
-      "reasons": [
-        "fresh <12h",
-        "openai",
-        "gpt"
-      ],
-      "score": 6.8,
-      "source": "The Verge AI",
-      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]",
-      "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
-    },
-    {
-      "canonical_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published": "2026-11-02T18:00:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "published": "2026-11-03T22:41:03+00:00",
       "reasons": [
         "fresh <30h",
-        "openai",
-        "research",
-        "security"
+        "anthropic",
+        "model"
       ],
-      "score": 6.8,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+      "score": 6.1,
+      "source": "TechCrunch AI",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
     },
     {
-      "canonical_url": "https://postgr.es/p/9AT",
-      "published": "2026-11-02T23:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "training",
-        "sql"
-      ],
-      "score": 6.4,
-      "source": "Planet PostgreSQL",
-      "summary": "PostgreSQL Conference Europe 2026 This years conference took place in Valencia, Spain, from Tuesday October 20 until Friday, October 23. We had a whole conference center for the conference, the Palacio de Congresos Valencia . In previous years the first day was training, later community stuff. Now it is the last day for the community day events. In the opening talk Magnus Hagander introduced our new big Slonik. Member of the Talk Selection Committee I was honoured to be part of the Talk Selection Committee and part of the DBA and Internals Subcommittee. We had more than 450 talks submitted. Some abstracts where near a whole talk. And as the…",
-      "title": "Stefanie Janine: PostgreSQL Conference Europe Wrapup",
-      "url": "https://postgr.es/p/9AT"
-    },
-    {
-      "canonical_url": "https://postgr.es/p/9AU",
-      "published": "2026-11-03T13:50:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+      "published": "2026-11-04T21:10:56+00:00",
       "reasons": [
         "fresh <12h",
-        "sql",
-        "open source"
-      ],
-      "score": 6.3,
-      "source": "Planet PostgreSQL",
-      "summary": "In 2014, if you wanted Postgres servers on several continents, each of them accepting writes and all of them sharing their rows, there was one serious open source answer: BDR, from 2ndQuadrant. It needed a patched PostgreSQL 9.4 and a plugin, which means it needed a server that was not Postgres. Ten years of work on logical replication have since moved most of what BDR needed into the stock server, and in this article we build the same kind of system with Postgres 19 release candidate 1 and pg_auto_failover, to see how far that incremental progress has taken us, and what is still left to build. This is the last article of a series on logical…",
-      "title": "Dimitri Fontaine: Postgres logical replication beyond one writer",
-      "url": "https://postgr.es/p/9AU"
-    },
-    {
-      "canonical_url": "https://postgr.es/p/9AS",
-      "published": "2026-11-03T11:30:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "sql",
-        "mysql"
-      ],
-      "score": 6.3,
-      "source": "Planet PostgreSQL",
-      "summary": "Again, apologies for the delay. PGConf.dev was back in May, and it has taken me until November to follow up on Part One . This part is about \"Establishing the PostgreSQL standard: What's Postgres compatible?\" , the session I ran with Hettie Dombrovskaya on the Tuesday afternoon in Vancouver, in the Community Discussion track of PGConf.dev 2026 . It follows on from the working session Hettie, Boriss Mejías and I organised at PGConf.EU 2025 in Riga, and from the talk at FOSDEM in February where Daniël van Eeden and I looked at the question from the Postgres and MySQL sides. What came out of Riga is written up on the PostgreSQL wiki as the Riga…",
-      "title": "Jimmy Angelakos: Establishing the PostgreSQL Standard: PGConf.dev 2026 Part Two",
-      "url": "https://postgr.es/p/9AS"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
-      "published": "2026-11-03T19:34:43+00:00",
-      "reasons": [
-        "fresh <12h",
-        "inference",
+        "agent",
         "startup"
       ],
       "score": 6.0,
       "source": "TechCrunch AI",
-      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "title": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search",
-      "published": "2026-11-03T16:43:20+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code",
+      "published": "2026-11-04T16:30:40+00:00",
       "reasons": [
         "fresh <12h",
         "agent",
-        "privacy"
+        "open source"
       ],
       "score": 6.0,
       "source": "AWS Machine Learning Blog",
-      "summary": "Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on Amazon Bedrock AgentCore. See how the Gen team delivers real-time, cited content suggestions, goal setting, and news feeds with zero data egress and Norton-grade privacy.",
-      "title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/"
+      "summary": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on the Strands Agents SDK and Amazon Bedrock AgentCore.",
+      "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+      "url": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore",
-      "published": "2026-11-03T16:41:13+00:00",
+      "canonical_url": "https://openai.com/index/openai-to-acquire-pierre",
+      "published": "2026-11-04T14:30:00+00:00",
       "reasons": [
         "fresh <12h",
-        "agent",
-        "security"
-      ],
-      "score": 6.0,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in Postgres, with GRANT and row-level security enforcing what each agent can read.",
-      "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "published": "2026-11-03T12:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gpt"
+        "openai"
       ],
       "score": 6.0,
       "source": "OpenAI Blog",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre"
     },
     {
-      "canonical_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-      "published": "2026-11-03T17:01:49+00:00",
+      "canonical_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "published": "2026-11-04T07:00:00+00:00",
       "reasons": [
-        "fresh <12h",
-        "agent"
+        "fresh <30h",
+        "gpt",
+        "security"
       ],
-      "score": 5.7,
-      "source": "Google DeepMind Blog",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
     },
     {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/the-proof-of-the-backup-is-in-the-pudding",
-      "published": "2026-11-03T14:15:00+00:00",
+      "canonical_url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "published": "2026-11-04T20:23:24+00:00",
       "reasons": [
         "fresh <12h",
-        "sql"
+        "gemini",
+        "security"
       ],
-      "score": 5.7,
-      "source": "SQLServerCentral",
-      "summary": "For me, the objective is straightforward: have a backup strategy that is reliable, understandable, maintainable, and, most importantly, restorable. A successful backup job is good news. A successful restore... The post The Proof of the Backup Is in the Pudding appeared first on SQLServerCentral .",
-      "title": "The Proof of the Backup Is in the Pudding",
-      "url": "https://www.sqlservercentral.com/blogs/the-proof-of-the-backup-is-in-the-pudding"
+      "score": 5.9,
+      "source": "The Verge AI",
+      "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide […]",
+      "title": "Gemini for Home now plugs into AT&T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system"
     },
     {
-      "canonical_url": "https://huggingface.co/blog/allenai/statebench",
-      "published": "2026-11-03T17:15:21+00:00",
+      "canonical_url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
+      "published": "2026-11-04T13:00:00+00:00",
       "reasons": [
         "fresh <12h",
-        "model"
+        "agent",
+        "enterprise"
       ],
-      "score": 5.2,
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench"
+      "score": 5.9,
+      "source": "MIT Technology Review AI",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
     }
   ]
 }
