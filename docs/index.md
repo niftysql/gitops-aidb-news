@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-06T11:04:07.824162+13:00._
+_Last updated: 2026-11-07T10:32:26.171466+13:00._
 
-[Read the latest digest](digests/2026-11-06.html)
+[Read the latest digest](digests/2026-11-07.html)
 
 ## Latest top links
 
-- [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](https://openai.com/index/introducing-gpt-6-cyber) — OpenAI Blog
-- [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](https://arxiv.org/abs/2611.05771) — arXiv cs.CL
-- [Iterated creation, grading, and revision of data science projects by language models](https://arxiv.org/abs/2611.05548) — arXiv cs.AI
-- [OpenAI says its new cybersecurity model is better at not hacking other companies](https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch) — The Verge AI
-- [Agents, Think Only When it Helps](https://arxiv.org/abs/2611.05709) — arXiv cs.AI
-- [OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/) — TechCrunch AI
-- [OpenAI president Greg Brockman says company could be IPO ready in 2027](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/) — TechCrunch AI
-- [Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure](https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/) — TechCrunch AI
+- [The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks](https://arxiv.org/abs/2611.07461) — arXiv cs.CL
+- [Create Your Own Work Stack: Deploying Self-hosted AI and Tooling in a Tech Startup](https://arxiv.org/abs/2611.08116) — arXiv cs.AI
+- [Serverless MCP server for AI agent data lake access on Amazon ECS Fargate](https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/) — AWS Machine Learning Blog
+- [Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls](https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/) — AWS Machine Learning Blog
+- [MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents](https://arxiv.org/abs/2611.07689) — arXiv cs.AI
+- [The Memory Trap: Language Agents Overgeneralize from Benign Interactions](https://arxiv.org/abs/2611.07554) — arXiv cs.CL
+- [SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints](https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/) — AWS Machine Learning Blog
+- [Measuring how AI agents handle everyday wet-lab science](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science) — OpenAI Blog
 
 ## Recent digests
 
+- [2026-11-07](digests/2026-11-07.html)
 - [2026-11-06](digests/2026-11-06.html)
 - [2026-11-05](digests/2026-11-05.html)
 - [2026-11-04](digests/2026-11-04.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-06T11:04:07.824162+13:00._
 - [2026-10-11](digests/2026-10-11.html)
 - [2026-10-10](digests/2026-10-10.html)
 - [2026-10-09](digests/2026-10-09.html)
-- [2026-10-08](digests/2026-10-08.html)
 
 ## About this site
 
