@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-08T09:15:29.001270+13:00._
+_Last updated: 2026-11-09T09:30:54.778088+13:00._
 
-[Read the latest digest](digests/2026-11-08.html)
+[Read the latest digest](digests/2026-11-09.html)
 
 ## Latest top links
 
-- [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development) — The Verge AI
-- [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation) — The Verge AI
-- [Dave Stokes: Is PostgreSQL Really Winning Part 2: The Evidence Beyond the Rankings](https://postgr.es/p/9Be) — Planet PostgreSQL
-- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) — TechCrunch AI
-- [How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
-- [The US let Nvidia sell chips to an empty office in China](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government) — The Verge AI
-- [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) — The Verge AI
+- [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic) — The Verge AI
+- [Mirroring D365 Business Central Data To Fabric](https://blog.crossjoin.co.uk/2026/11/08/mirroring-d365-business-central-data-to-fabric/) — Chris Webb's BI Blog
+- [Hollis Varden: Thirteen small measurements on PostgreSQL 18](https://postgr.es/p/9Bh) — Planet PostgreSQL
+- [Nvidia is investigating Jensen Huang’s relationship with a Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy) — The Verge AI
+- [Vadim Yatsenko: The Server-First Reader Pool: Exact Connection Reuse and Hot-Path Performance](https://postgr.es/p/9Bi) — Planet PostgreSQL
+- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) — TechCrunch AI
+- [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit) — The Verge AI
+- [AI broke the cybersecurity world. What’s next?](https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos) — The Verge AI
 
 ## Recent digests
 
+- [2026-11-09](digests/2026-11-09.html)
 - [2026-11-08](digests/2026-11-08.html)
 - [2026-11-07](digests/2026-11-07.html)
 - [2026-11-06](digests/2026-11-06.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-08T09:15:29.001270+13:00._
 - [2026-10-13](digests/2026-10-13.html)
 - [2026-10-12](digests/2026-10-12.html)
 - [2026-10-11](digests/2026-10-11.html)
-- [2026-10-10](digests/2026-10-10.html)
 
 ## About this site
 
