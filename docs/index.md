@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-09T09:30:54.778088+13:00._
+_Last updated: 2026-11-10T13:17:20.088840+13:00._
 
-[Read the latest digest](digests/2026-11-09.html)
+[Read the latest digest](digests/2026-11-10.html)
 
 ## Latest top links
 
-- [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic) — The Verge AI
-- [Mirroring D365 Business Central Data To Fabric](https://blog.crossjoin.co.uk/2026/11/08/mirroring-d365-business-central-data-to-fabric/) — Chris Webb's BI Blog
-- [Hollis Varden: Thirteen small measurements on PostgreSQL 18](https://postgr.es/p/9Bh) — Planet PostgreSQL
-- [Nvidia is investigating Jensen Huang’s relationship with a Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy) — The Verge AI
-- [Vadim Yatsenko: The Server-First Reader Pool: Exact Connection Reuse and Hot-Path Performance](https://postgr.es/p/9Bi) — Planet PostgreSQL
-- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) — TechCrunch AI
-- [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit) — The Verge AI
-- [AI broke the cybersecurity world. What’s next?](https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos) — The Verge AI
+- [NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/) — AWS Machine Learning Blog
+- [Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room) — OpenAI Blog
+- [Does Reasoning Improve Psychological Depth in Large Language Models?](https://arxiv.org/abs/2611.09061) — arXiv cs.CL
+- [The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed](https://arxiv.org/abs/2611.09085) — arXiv cs.CL
+- [On the Effectiveness and Limitations of Open-Weight LLMs for Low-Resource Offensive Language Detection in Danish](https://arxiv.org/abs/2611.09506) — arXiv cs.CL
+- [CodeRabbit scales agentic software development and ships 20x more](https://openai.com/index/coderabbit-codex-daybreak) — OpenAI Blog
+- [Anthropic launches new Claude Fable and Mythos 5.2 models](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2) — The Verge AI
+- [Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP](https://arxiv.org/abs/2611.08639) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-11-10](digests/2026-11-10.html)
 - [2026-11-09](digests/2026-11-09.html)
 - [2026-11-08](digests/2026-11-08.html)
 - [2026-11-07](digests/2026-11-07.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-09T09:30:54.778088+13:00._
 - [2026-10-14](digests/2026-10-14.html)
 - [2026-10-13](digests/2026-10-13.html)
 - [2026-10-12](digests/2026-10-12.html)
-- [2026-10-11](digests/2026-10-11.html)
 
 ## About this site
 
