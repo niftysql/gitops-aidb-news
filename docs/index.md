@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-10T13:17:20.088840+13:00._
+_Last updated: 2026-11-11T10:49:40.619854+13:00._
 
-[Read the latest digest](digests/2026-11-10.html)
+[Read the latest digest](digests/2026-11-11.html)
 
 ## Latest top links
 
-- [NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/) — AWS Machine Learning Blog
-- [Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room) — OpenAI Blog
-- [Does Reasoning Improve Psychological Depth in Large Language Models?](https://arxiv.org/abs/2611.09061) — arXiv cs.CL
-- [The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed](https://arxiv.org/abs/2611.09085) — arXiv cs.CL
-- [On the Effectiveness and Limitations of Open-Weight LLMs for Low-Resource Offensive Language Detection in Danish](https://arxiv.org/abs/2611.09506) — arXiv cs.CL
-- [CodeRabbit scales agentic software development and ships 20x more](https://openai.com/index/coderabbit-codex-daybreak) — OpenAI Blog
-- [Anthropic launches new Claude Fable and Mythos 5.2 models](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2) — The Verge AI
-- [Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP](https://arxiv.org/abs/2611.08639) — arXiv cs.CL
+- [Google releases Gemini 4 Carbon with agent ‘swarm’ feature](https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout) — The Verge AI
+- [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/) — TechCrunch AI
+- [Anthropic has its own AI-powered office suite now](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now) — The Verge AI
+- [Google broadens its AI hardware portfolio with two new specialized chips](https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/) — TechCrunch AI
+- [Helping caregivers use AI in everyday life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life) — OpenAI Blog
+- [Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training](https://arxiv.org/abs/2611.08892) — arXiv cs.CL
+- [Language, Not Code Abstraction: Natural-language Training Shapes Brain-aligned Geometry](https://arxiv.org/abs/2611.09027) — arXiv cs.CL
+- [Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation](https://arxiv.org/abs/2611.09042) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-11-11](digests/2026-11-11.html)
 - [2026-11-10](digests/2026-11-10.html)
 - [2026-11-09](digests/2026-11-09.html)
 - [2026-11-08](digests/2026-11-08.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-10T13:17:20.088840+13:00._
 - [2026-10-15](digests/2026-10-15.html)
 - [2026-10-14](digests/2026-10-14.html)
 - [2026-10-13](digests/2026-10-13.html)
-- [2026-10-12](digests/2026-10-12.html)
 
 ## About this site
 
