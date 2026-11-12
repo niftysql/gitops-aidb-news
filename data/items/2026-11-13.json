@@ -1,0 +1,264 @@
+{
+  "digest_date": "2026-11-13",
+  "generated_at": "2026-11-13T11:15:59.391814+13:00",
+  "items": [
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/using-ai-to-build-semantic-models-ontologies-and-fabric-data-agents",
+      "published": "2026-11-12T16:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent",
+        "sql",
+        "fabric"
+      ],
+      "score": 9.9,
+      "source": "SQLServerCentral",
+      "summary": "(This is the third post in a three-part series on how AI is changing the way we build solutions in Microsoft Fabric. The first post explored how the new... The post Using AI to Build Semantic Models, Ontologies, and Fabric Data Agents appeared first on SQLServerCentral .",
+      "title": "Using AI to Build Semantic Models, Ontologies, and Fabric Data Agents",
+      "url": "https://www.sqlservercentral.com/blogs/using-ai-to-build-semantic-models-ontologies-and-fabric-data-agents"
+    },
+    {
+      "canonical_url": "https://openai.com/index/amplitude",
+      "published": "2026-11-12T20:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "model",
+        "agent"
+      ],
+      "score": 9.4,
+      "source": "OpenAI Blog",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/index/amplitude"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock",
+      "published": "2026-11-11T23:35:47+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "model",
+        "security",
+        "developer",
+        "enterprise"
+      ],
+      "score": 8.5,
+      "source": "AWS Machine Learning Blog",
+      "summary": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
+      "title": "OpenAI Codex on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm",
+      "published": "2026-11-12T18:41:12+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "model",
+        "developer"
+      ],
+      "score": 7.7,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain per-user cost controls, quota isolation, and observability.",
+      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "published": "2026-11-12T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gemini",
+        "gpt",
+        "research"
+      ],
+      "score": 7.6,
+      "source": "The Verge AI",
+      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of […]",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock",
+      "published": "2026-11-12T18:43:19+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent"
+      ],
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Comparing per-token prices hides the real cost of running a model on Amazon Bedrock. This post shows how to calculate the true cost per task across four hidden cost drivers, reduce it with caching, routing, and output constraints, and prove agent ROI with human baselines, holdout experiments, and a five-dimension scorecard.",
+      "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools",
+      "published": "2026-11-12T15:40:24+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "mcp"
+      ],
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity, Policy in AgentCore validates it independently, and a resource-based policy restricts direct access to the knowledge base.",
+      "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "published": "2026-11-12T21:55:32+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gemini",
+        "model"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9BC",
+      "published": "2026-11-11T22:51:31+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "sql"
+      ],
+      "score": 6.4,
+      "source": "Planet PostgreSQL",
+      "summary": "Build PostgreSQL vector search with pgvector and Next.js. Compare keyword and hybrid ranking, enforce tenant access, and reproduce filtered HNSW recall. A support engineer searches for AUTH-4017. The most useful result is the ticket with that exact error code. Another engineer types “sign-in works until I close the browser” and wants the ticket about a session cookie disappearing on restart. These queries need different kinds of evidence. A useful search feature can combine both without sending the entire support archive to a model. This guide builds keyword, vector, and hybrid retrieval in PostgreSQL, then connects the query to a Next.js Ro…",
+      "title": "uzair aslam: PostgreSQL Vector Search with pgvector: Hybrid Search in Next.js",
+      "url": "https://postgr.es/p/9BC"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9BH",
+      "published": "2026-11-12T19:12:24+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql",
+        "enterprise"
+      ],
+      "score": 6.3,
+      "source": "Planet PostgreSQL",
+      "summary": "Postgres API and ABI stability has been a topic of discussion for a long time. To understand why this matters so much, start with Dave Stokes recent blog post [ Is PostgreSQL Really Winning Part 2: The Evidence Beyond the Rankings ]. It’s fundamentally about “a slow core with a fast edge is a pretty good design” and how the Postgres extension API enables an amazing ecosystem around Postgres. The official postgres docs have [ guidance on API/ABI stability ], and for a bit of extra background check out [ David Wheeler’s 2024 post-pgconf blog ], and EnterpriseDB’s [ explainer about the Postgres 17.1 ABI breakage ]. The postgres community works…",
+      "title": "Jeremy Schneider: Postgres 18.7 minor breaks ABI compatibility again",
+      "url": "https://postgr.es/p/9BH"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9BF",
+      "published": "2026-11-12T16:22:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql",
+        "open source"
+      ],
+      "score": 6.3,
+      "source": "Planet PostgreSQL",
+      "summary": "Last month, the Apache Software Foundation's Community Over Code came to Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, taking place from October 11th to 14th at the Hilton Glasgow. Even though I've been in the open source world for 25+ years, this was my first Community Over Code (!), and I loved it: great talks, an amazing hallway track with Apache community rockstars, and a Community track that I very much enjoyed. I also came away convinced that there is huge potential for synergy between the Apache data ecosystem and the PostgreSQL community. Many thanks to the ASF and everyone who made Community Over Code Glasgow 2026 possible. The lightning talk: ColdFront ColdFr…",
+      "title": "Jimmy Angelakos: Community Over Code Glasgow 2026 and a ColdFront lightning talk",
+      "url": "https://postgr.es/p/9BF"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+      "published": "2026-11-12T18:39:23+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "open source"
+      ],
+      "score": 6.0,
+      "source": "TechCrunch AI",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+      "published": "2026-11-12T17:17:58+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "security"
+      ],
+      "score": 6.0,
+      "source": "TechCrunch AI",
+      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/children-first-declaration",
+      "published": "2026-11-12T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "research"
+      ],
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration"
+    },
+    {
+      "canonical_url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+      "published": "2026-11-12T20:16:24+00:00",
+      "reasons": [
+        "fresh <12h",
+        "chip",
+        "security"
+      ],
+      "score": 5.9,
+      "source": "MIT Technology Review AI",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "published": "2026-11-12T19:42:40+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "research"
+      ],
+      "score": 5.9,
+      "source": "The Verge AI",
+      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+    },
+    {
+      "canonical_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "published": "2026-11-12T18:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gemini"
+      ],
+      "score": 5.7,
+      "source": "Google AI Blog",
+      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9BD",
+      "published": "2026-11-12T12:58:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "PostgreSQL 18.7, 17.12, 16.16, 15.20 and 14.25 are out today. If you use the PGDG RPM repositories ( yum.postgresql.org or zypp.postgresql.org ), please update PostgreSQL and all of your extensions in the same transaction this time. Do not update the server today and the extensions next month, and do not hold one back while the other moves. This release is different from a usual minor release. It contains the fix for CVE-2026-6460 , and that fix reaches into the extensions too. So we rebuilt every extension in the repositories against the new minor releases. That covers every package built separately for each PostgreSQL version, on all suppo…",
+      "title": "Devrim GÜNDÜZ: PostgreSQL November 2026 minor releases: update the server and extensions together",
+      "url": "https://postgr.es/p/9BD"
+    }
+  ]
+}

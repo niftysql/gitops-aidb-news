@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-12T11:43:46.474115+13:00._
+_Last updated: 2026-11-13T11:15:59.391814+13:00._
 
-[Read the latest digest](digests/2026-11-12.html)
+[Read the latest digest](digests/2026-11-13.html)
 
 ## Latest top links
 
-- [The attendee’s guide to the AWS re:Invent 2026 AI/ML track](https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/) — AWS Machine Learning Blog
-- [BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research](https://arxiv.org/abs/2611.12966) — arXiv cs.AI
-- [Agent-Guided Discovery of Exchange-Correlation Functionals with Physics-based Validation](https://arxiv.org/abs/2611.13329) — arXiv cs.AI
-- [IntentTwin: Deconfounding Candidate Support and the Oracle-to-Deployment Gap in Offline Web Behavior Prediction](https://arxiv.org/abs/2611.12918) — arXiv cs.CL
-- [Beyond Passive Imitation: On-Policy Mid-Training Distillation for Language Models](https://arxiv.org/abs/2611.13855) — arXiv cs.CL
-- [Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams](https://arxiv.org/abs/2611.13217) — arXiv cs.AI
-- [Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) — Google AI Blog
-- [Introducing Kimi K3.1 Pro on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Using AI to Build Semantic Models, Ontologies, and Fabric Data Agents](https://www.sqlservercentral.com/blogs/using-ai-to-build-semantic-models-ontologies-and-fabric-data-agents) — SQLServerCentral
+- [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/index/amplitude) — OpenAI Blog
+- [OpenAI Codex on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Building a self-service LLM gateway with Amazon Bedrock and LiteLLM](https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/) — AWS Machine Learning Blog
+- [AI chatbots are recommending fake retail websites, study finds](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations) — The Verge AI
+- [Optimizing cost per task and proving agent ROI on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/) — AWS Machine Learning Blog
+- [Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools](https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/) — AWS Machine Learning Blog
+- [Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen) — The Verge AI
 
 ## Recent digests
 
+- [2026-11-13](digests/2026-11-13.html)
 - [2026-11-12](digests/2026-11-12.html)
 - [2026-11-11](digests/2026-11-11.html)
 - [2026-11-10](digests/2026-11-10.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-12T11:43:46.474115+13:00._
 - [2026-10-17](digests/2026-10-17.html)
 - [2026-10-16](digests/2026-10-16.html)
 - [2026-10-15](digests/2026-10-15.html)
-- [2026-10-14](digests/2026-10-14.html)
 
 ## About this site
 
