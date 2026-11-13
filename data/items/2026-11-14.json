@@ -1,0 +1,259 @@
+{
+  "digest_date": "2026-11-14",
+  "generated_at": "2026-11-14T10:59:54.732700+13:00",
+  "items": [
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture",
+      "published": "2026-11-13T18:01:15+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 8.6,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift.",
+      "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/"
+    },
+    {
+      "canonical_url": "https://openai.com/business/customer-stories/amplitude",
+      "published": "2026-11-12T20:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "model",
+        "agent"
+      ],
+      "score": 8.6,
+      "source": "OpenAI Blog",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "published": "2026-11-13T20:45:10+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt",
+        "agent"
+      ],
+      "score": 8.5,
+      "source": "The Verge AI",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "published": "2026-11-13T14:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "claude",
+        "agent"
+      ],
+      "score": 8.5,
+      "source": "The Verge AI",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures",
+      "published": "2026-11-13T21:53:40+00:00",
+      "reasons": [
+        "fresh <12h",
+        "inference",
+        "gpu",
+        "privacy"
+      ],
+      "score": 7.7,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
+      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "published": "2026-11-13T19:37:57+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent",
+        "startup"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "published": "2026-11-13T18:40:30+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "chip",
+        "research"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published": "2026-11-13T15:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt",
+        "agent"
+      ],
+      "score": 7.7,
+      "source": "OpenAI Blog",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
+      "published": "2026-11-13T19:35:35+00:00",
+      "reasons": [
+        "fresh <12h",
+        "inference",
+        "gpu"
+      ],
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
+      "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "published": "2026-11-13T16:00:12+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt",
+        "agent"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock",
+      "published": "2026-11-13T18:44:02+00:00",
+      "reasons": [
+        "fresh <12h",
+        "inference",
+        "developer"
+      ],
+      "score": 6.0,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",
+      "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/a-new-word-semaphorism",
+      "published": "2026-11-13T14:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.7,
+      "source": "SQLServerCentral",
+      "summary": "semaphorism – n. a conversational hint that you have something personal to say on the subject but don’t go any further – an emphatic nod, a half-told anecdote, an... The post A New Word: Semaphorism appeared first on SQLServerCentral .",
+      "title": "A New Word: Semaphorism",
+      "url": "https://www.sqlservercentral.com/blogs/a-new-word-semaphorism"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9BM",
+      "published": "2026-11-13T15:46:55+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "New features PGXSExtension module — a single config-driven module for testing out-of-tree PGXS extensions, keyed by a pgxs_extensions hash in the config (one entry per extension). New test extensions no longer need their own bespoke .pm file. The existing BlackholeFDW, FileTextArrayFDW and RedisFDW modules remain for now so existing configs keep working. New branches-to-build tags UNRELEASED and HEAD_PLUS_UNRELEASED , covering branches between the time the tree is forked and a release is tagged. CheckIndent can now run on any branch that loads it, not just HEAD. locales entries can now be a hashref naming both the locale and the encoding, e.…",
+      "title": "Andrew Dunstan: Announcing Release 22 of the PostgreSQL Buildfarm client",
+      "url": "https://postgr.es/p/9BM"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9BI",
+      "published": "2026-11-12T23:45:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent",
+        "enterprise"
+      ],
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "Discover how DBOS and Fujitsu Enterprise Postgres combine durable execution, automatic recovery, and robust data encryption to power resilient, secure AI agents and applications, demonstrated through a practical Python deployment.",
+      "title": "Greg Nancarrow: Build resilient AI workflows with DBOS and Fujitsu Enterprise Postgres",
+      "url": "https://postgr.es/p/9BI"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "published": "2026-11-13T14:05:22+00:00",
+      "reasons": [
+        "fresh <12h",
+        "llama"
+      ],
+      "score": 5.2,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9BK",
+      "published": "2026-11-13T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "sql"
+      ],
+      "score": 4.7,
+      "source": "Planet PostgreSQL",
+      "summary": "PostgreSQL’s November minor releases patch 52 CVEs and 140+ bugs across all supported branches and retire PostgreSQL 14. Notes on what continuous AI code auditing is doing to 30-year-old C codebases, the post-upgrade steps you can’t skip, same-day Pigsty 4.6 packages, and Simplified Chinese localization landing in PG 14–19.",
+      "title": "Ruohang Feng: PostgreSQL Just Patched 52 CVEs in a Single Minor Release",
+      "url": "https://postgr.es/p/9BK"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "published": "2026-11-12T18:00:50+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gemini"
+      ],
+      "score": 4.6,
+      "source": "Google DeepMind Blog",
+      "summary": "",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+      "published": "2026-11-12T21:27:10+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+    }
+  ]
+}

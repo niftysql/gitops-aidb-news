@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-13T11:15:59.391814+13:00._
+_Last updated: 2026-11-14T10:59:54.732700+13:00._
 
-[Read the latest digest](digests/2026-11-13.html)
+[Read the latest digest](digests/2026-11-14.html)
 
 ## Latest top links
 
-- [Using AI to Build Semantic Models, Ontologies, and Fabric Data Agents](https://www.sqlservercentral.com/blogs/using-ai-to-build-semantic-models-ontologies-and-fabric-data-agents) — SQLServerCentral
-- [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/index/amplitude) — OpenAI Blog
-- [OpenAI Codex on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Building a self-service LLM gateway with Amazon Bedrock and LiteLLM](https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/) — AWS Machine Learning Blog
-- [AI chatbots are recommending fake retail websites, study finds](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations) — The Verge AI
-- [Optimizing cost per task and proving agent ROI on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/) — AWS Machine Learning Blog
-- [Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools](https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/) — AWS Machine Learning Blog
-- [Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen) — The Verge AI
+- [Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture](https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/) — AWS Machine Learning Blog
+- [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude) — OpenAI Blog
+- [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet) — The Verge AI
+- [Claude’s Duet agent is a little neurotic and surprisingly helpful](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on) — The Verge AI
+- [OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures](https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/) — AWS Machine Learning Blog
+- [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/) — TechCrunch AI
+- [Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/) — TechCrunch AI
+- [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet) — OpenAI Blog
 
 ## Recent digests
 
+- [2026-11-14](digests/2026-11-14.html)
 - [2026-11-13](digests/2026-11-13.html)
 - [2026-11-12](digests/2026-11-12.html)
 - [2026-11-11](digests/2026-11-11.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-13T11:15:59.391814+13:00._
 - [2026-10-18](digests/2026-10-18.html)
 - [2026-10-17](digests/2026-10-17.html)
 - [2026-10-16](digests/2026-10-16.html)
-- [2026-10-15](digests/2026-10-15.html)
 
 ## About this site
 
