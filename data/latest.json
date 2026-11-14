@@ -1,259 +1,256 @@
 {
-  "digest_date": "2026-11-14",
-  "generated_at": "2026-11-14T10:59:54.732700+13:00",
+  "digest_date": "2026-11-15",
+  "generated_at": "2026-11-15T09:45:39.590735+13:00",
   "items": [
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture",
-      "published": "2026-11-13T18:01:15+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "inference",
-        "training"
-      ],
-      "score": 8.6,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift.",
-      "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/"
-    },
-    {
-      "canonical_url": "https://openai.com/business/customer-stories/amplitude",
-      "published": "2026-11-12T20:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.14924",
+      "published": "2026-11-14T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "openai",
-        "model",
-        "agent"
-      ],
-      "score": 8.6,
-      "source": "OpenAI Blog",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "published": "2026-11-13T20:45:10+00:00",
-      "reasons": [
-        "fresh <12h",
-        "openai",
         "gpt",
-        "agent"
-      ],
-      "score": 8.5,
-      "source": "The Verge AI",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "published": "2026-11-13T14:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic",
-        "claude",
-        "agent"
-      ],
-      "score": 8.5,
-      "source": "The Verge AI",
-      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures",
-      "published": "2026-11-13T21:53:40+00:00",
-      "reasons": [
-        "fresh <12h",
-        "inference",
-        "gpu",
-        "privacy"
-      ],
-      "score": 7.7,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
-      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
-      "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
-      "published": "2026-11-13T19:37:57+00:00",
-      "reasons": [
-        "fresh <12h",
         "model",
+        "gpu",
+        "multimodal"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.14924v1 Announce Type: new Abstract: Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations. A standard 7B parameter model consumes 14 GB Video Random Access Memory (VRAM) in half-precision (FP16), precluding co-location of vector indices and Key-Value (KV) caches. This paper presents an engineering integration and empirical evaluation of a multimodal RAG framework optimized for consumer-grade Turing hardware (e.g., NVIDIA Tesla T4). Our system-level analysis identifies a critical trade-off: while generative pre-trained transformer quantization (GPTQ) offers superior throu…",
+      "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
+      "url": "https://arxiv.org/abs/2611.14924"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.14942",
+      "published": "2026-11-14T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training",
+        "multimodal"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.14942v1 Announce Type: new Abstract: Does multimodal training shape how a language model thinks, even when the input is text only? We test this with targeted causal ablations across 10 multimodal configurations from 6 model families, with matched text-only backbones and cross-family transfer controls. We contrast spatial-imagery tasks that invite mental scene construction with symbol-manipulation tasks solvable by symbolic rules alone. We identify a vision-language axis in hidden-state space and ablate its projection at inference. In Chameleon-7B, this ablation drops accuracy on BIG-Bench Hard (BBH) navigate by 27.6 pp while leavi…",
+      "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
+      "url": "https://arxiv.org/abs/2611.14942"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "published": "2026-11-14T15:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "ai safety",
+        "security"
+      ],
+      "score": 7.6,
+      "source": "The Verge AI",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.14681",
+      "published": "2026-11-14T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "inference"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems struggle with continual compilation due to a tradeoff between measurement throughput and fidelity. Many systems use agents to optimize individual kernels from the inference forward pass using offline benchma…",
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "url": "https://arxiv.org/abs/2611.14681"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.14949",
+      "published": "2026-11-14T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "benchmark"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.14949v1 Announce Type: new Abstract: Identifying and solving partial differential equations (PDEs) from sampled solution data often requires substantial expert effort in equation discovery, coefficient estimation, and numerical solver configuration, especially under noise and distribution shifts. Can large language model (LLM) agents automate this workflow accurately and efficiently? To investigate this question, we introduce \\bench{}, a benchmark of 1,001 cases spanning 42 equation templates, including both classical and fractional PDEs. It provides three evaluation settings: Full evaluates performance on noise-free solution data…",
+      "title": "RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving",
+      "url": "https://arxiv.org/abs/2611.14949"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9BP",
+      "published": "2026-11-14T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "sql",
+        "startup"
+      ],
+      "score": 7.2,
+      "source": "Planet PostgreSQL",
+      "summary": "How pg_orca replaced ORCA's Greenplum-calibrated cost model with a port of PostgreSQL's costsize.c: where it plugs in, how it bridges ORCA's total-only costs and rebinds to PostgreSQL's startup costs and loop counts, and how a regression harness keeps both planners within 2%.",
+      "title": "Jianghua yang: Pricing plans in PostgreSQL's currency: pg_orca's PG-aligned cost model",
+      "url": "https://postgr.es/p/9BP"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
+      "published": "2026-11-13T23:22:09+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference"
+      ],
+      "score": 6.1,
+      "source": "AWS Machine Learning Blog",
+      "summary": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
+      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
+      "published": "2026-11-13T22:30:12+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent"
+      ],
+      "score": 6.1,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
+      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "published": "2026-11-14T17:30:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "startup"
+      ],
+      "score": 6.0,
+      "source": "TechCrunch AI",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9BQ",
+      "published": "2026-11-14T18:45:15+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "How to reduce PostgreSQL memory usage and your cloud bill: one pooler setting took a customer from 93% memory to 50%, and from $630 to $320 a month.",
+      "title": "Dinesh Kumar: How to Reduce PostgreSQL Memory Usage and Cut Your Cloud Bill in Half",
+      "url": "https://postgr.es/p/9BQ"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+      "published": "2026-11-14T16:34:15+00:00",
+      "reasons": [
+        "fresh <12h",
+        "chip"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime",
+      "published": "2026-11-13T22:02:39+00:00",
+      "reasons": [
+        "fresh <30h",
         "agent",
         "startup"
       ],
-      "score": 7.7,
-      "source": "TechCrunch AI",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-      "published": "2026-11-13T18:40:30+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "chip",
-        "research"
-      ],
-      "score": 7.7,
-      "source": "TechCrunch AI",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "published": "2026-11-13T15:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gpt",
-        "agent"
-      ],
-      "score": 7.7,
-      "source": "OpenAI Blog",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
-      "published": "2026-11-13T19:35:35+00:00",
-      "reasons": [
-        "fresh <12h",
-        "inference",
-        "gpu"
-      ],
-      "score": 6.9,
+      "score": 5.2,
       "source": "AWS Machine Learning Blog",
-      "summary": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
-      "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
-      "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/"
+      "summary": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
+      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
-      "published": "2026-11-13T16:00:12+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gpt",
-        "agent"
-      ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock",
-      "published": "2026-11-13T18:44:02+00:00",
-      "reasons": [
-        "fresh <12h",
-        "inference",
-        "developer"
-      ],
-      "score": 6.0,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",
-      "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/"
-    },
-    {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/a-new-word-semaphorism",
-      "published": "2026-11-13T14:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "sql"
-      ],
-      "score": 5.7,
-      "source": "SQLServerCentral",
-      "summary": "semaphorism – n. a conversational hint that you have something personal to say on the subject but don’t go any further – an emphatic nod, a half-told anecdote, an... The post A New Word: Semaphorism appeared first on SQLServerCentral .",
-      "title": "A New Word: Semaphorism",
-      "url": "https://www.sqlservercentral.com/blogs/a-new-word-semaphorism"
-    },
-    {
-      "canonical_url": "https://postgr.es/p/9BM",
-      "published": "2026-11-13T15:46:55+00:00",
-      "reasons": [
-        "fresh <12h",
-        "sql"
-      ],
-      "score": 5.5,
-      "source": "Planet PostgreSQL",
-      "summary": "New features PGXSExtension module — a single config-driven module for testing out-of-tree PGXS extensions, keyed by a pgxs_extensions hash in the config (one entry per extension). New test extensions no longer need their own bespoke .pm file. The existing BlackholeFDW, FileTextArrayFDW and RedisFDW modules remain for now so existing configs keep working. New branches-to-build tags UNRELEASED and HEAD_PLUS_UNRELEASED , covering branches between the time the tree is forked and a release is tagged. CheckIndent can now run on any branch that loads it, not just HEAD. locales entries can now be a hashref naming both the locale and the encoding, e.…",
-      "title": "Andrew Dunstan: Announcing Release 22 of the PostgreSQL Buildfarm client",
-      "url": "https://postgr.es/p/9BM"
-    },
-    {
-      "canonical_url": "https://postgr.es/p/9BI",
-      "published": "2026-11-12T23:45:00+00:00",
+      "canonical_url": "https://www.sqlbi.com/blog/marco/2026/11/14/opening-your-microsoft-whiteboard-boards-in-sqlbi-whiteboard",
+      "published": "2026-11-14T08:00:12+00:00",
       "reasons": [
         "fresh <30h",
-        "agent",
-        "enterprise"
+        "sql"
       ],
-      "score": 5.5,
-      "source": "Planet PostgreSQL",
-      "summary": "Discover how DBOS and Fujitsu Enterprise Postgres combine durable execution, automatic recovery, and robust data encryption to power resilient, secure AI agents and applications, demonstrated through a practical Python deployment.",
-      "title": "Greg Nancarrow: Build resilient AI workflows with DBOS and Fujitsu Enterprise Postgres",
-      "url": "https://postgr.es/p/9BI"
+      "score": 4.8,
+      "source": "SQLBI",
+      "summary": "Microsoft retired the standalone Microsoft Whiteboard apps on October 16, 2026. You can now use the web version only with a work account; with a personal Microsoft account, you cannot use it at all. Boards not exported from your personal…",
+      "title": "Opening your Microsoft Whiteboard boards in SQLBI Whiteboard",
+      "url": "https://www.sqlbi.com/blog/marco/2026/11/14/opening-your-microsoft-whiteboard-boards-in-sqlbi-whiteboard/"
     },
     {
-      "canonical_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "published": "2026-11-13T14:05:22+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "published": "2026-11-13T22:43:00+00:00",
       "reasons": [
-        "fresh <12h",
-        "llama"
+        "fresh <30h",
+        "startup",
+        "funding"
       ],
-      "score": 5.2,
+      "score": 4.3,
+      "source": "TechCrunch AI",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "published": "2026-11-13T15:58:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "security"
+      ],
+      "score": 3.5,
+      "source": "TechCrunch AI",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "published": "2026-11-14T12:00:00+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9BN",
+      "published": "2026-11-13T16:28:19+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 3.0,
+      "source": "Planet PostgreSQL",
+      "summary": "Just a short & quick follow-up to [ yesterdays blog ] before I run out the door. I hadn’t been paying attention, and yesterday’s postgres release had a few surprises for me. I’m catching up now. First: read [ Devrim’s blog ] and [ Lukas’ 5-minutes-of-postgres ] for the TLDR. Second: I had this in yesterday’s blog – “RPM packaging now adds a header to require a specific minor. I haven’t checked Debian ecosystem yet but it might also be addressing this.” I took a quick look this morning, and Debian packaging does have the same protection. This matters because lots of people won’t upgrade Postgres today (even though we tell them to). Next week…",
+      "title": "Jeremy Schneider: Postgres 18.7 Debian and Redhat Packagers Protect You",
+      "url": "https://postgr.es/p/9BN"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "published": "2026-11-13T18:00:39+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.7,
       "source": "Hugging Face Blog",
       "summary": "",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
-    },
-    {
-      "canonical_url": "https://postgr.es/p/9BK",
-      "published": "2026-11-13T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "sql"
-      ],
-      "score": 4.7,
-      "source": "Planet PostgreSQL",
-      "summary": "PostgreSQL’s November minor releases patch 52 CVEs and 140+ bugs across all supported branches and retire PostgreSQL 14. Notes on what continuous AI code auditing is doing to 30-year-old C codebases, the post-upgrade steps you can’t skip, same-day Pigsty 4.6 packages, and Simplified Chinese localization landing in PG 14–19.",
-      "title": "Ruohang Feng: PostgreSQL Just Patched 52 CVEs in a Single Minor Release",
-      "url": "https://postgr.es/p/9BK"
-    },
-    {
-      "canonical_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "published": "2026-11-12T18:00:50+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gemini"
-      ],
-      "score": 4.6,
-      "source": "Google DeepMind Blog",
-      "summary": "",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
-      "published": "2026-11-12T21:27:10+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model"
-      ],
-      "score": 4.4,
-      "source": "TechCrunch AI",
-      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
     }
   ]
 }
