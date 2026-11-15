@@ -1,22 +1,21 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-15T09:45:39.590735+13:00._
+_Last updated: 2026-11-16T10:03:56.549900+13:00._
 
-[Read the latest digest](digests/2026-11-15.html)
+[Read the latest digest](digests/2026-11-16.html)
 
 ## Latest top links
 
-- [Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs](https://arxiv.org/abs/2611.14924) — arXiv cs.AI
-- [Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training](https://arxiv.org/abs/2611.14942) — arXiv cs.AI
-- [The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview) — The Verge AI
-- [Together Compiler: Continual Compilation for AI Inference](https://arxiv.org/abs/2611.14681) — arXiv cs.AI
-- [RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving](https://arxiv.org/abs/2611.14949) — arXiv cs.AI
-- [Jianghua yang: Pricing plans in PostgreSQL's currency: pg_orca's PG-aligned cost model](https://postgr.es/p/9BP) — Planet PostgreSQL
-- [Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/) — AWS Machine Learning Blog
-- [Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard](https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/) — AWS Machine Learning Blog
+- [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) — TechCrunch AI
+- [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china) — The Verge AI
+- [Report Bursting With Dataflows Gen2 Revisited: Action Sequences](https://blog.crossjoin.co.uk/2026/11/15/report-bursting-with-dataflows-gen2-revisited-action-sequences/) — Chris Webb's BI Blog
+- [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/) — TechCrunch AI
+- [An overview of Jensen Huang’s messy days](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation) — The Verge AI
+- [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) — TechCrunch AI
 
 ## Recent digests
 
+- [2026-11-16](digests/2026-11-16.html)
 - [2026-11-15](digests/2026-11-15.html)
 - [2026-11-14](digests/2026-11-14.html)
 - [2026-11-13](digests/2026-11-13.html)
@@ -46,7 +45,6 @@ _Last updated: 2026-11-15T09:45:39.590735+13:00._
 - [2026-10-20](digests/2026-10-20.html)
 - [2026-10-19](digests/2026-10-19.html)
 - [2026-10-18](digests/2026-10-18.html)
-- [2026-10-17](digests/2026-10-17.html)
 
 ## About this site
 
