@@ -1,287 +1,266 @@
 {
-  "digest_date": "2026-11-17",
-  "generated_at": "2026-11-17T13:16:42.990546+13:00",
+  "digest_date": "2026-11-18",
+  "generated_at": "2026-11-18T12:31:36.429517+13:00",
   "items": [
     {
-      "canonical_url": "https://arxiv.org/abs/2611.18359",
-      "published": "2026-11-16T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gpt",
-        "model",
-        "agent",
-        "benchmark",
-        "training",
-        "robotics"
-      ],
-      "score": 11.8,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.18359v1 Announce Type: cross Abstract: The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to open-world embodied tasks. It operates in a closed loop: observing the environment, interpreting user intent, reasoning about the task, invoking skills and tools, verifying outcomes, and adapting its strategy. Despite these advances, the community has yet t…",
-      "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
-      "url": "https://arxiv.org/abs/2611.18359"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.17621",
-      "published": "2026-11-16T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "benchmark",
-        "inference",
-        "training"
-      ],
-      "score": 11.0,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.17621v1 Announce Type: new Abstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations drawn from real workloads. To address this requirement, we introduce AscendGYM, a benchmark whose initial suite comprises 48 kernels across three difficulty levels. Each kernel is paired with test cases whose data types and tensor shapes are collected from real-world training and inference tasks. Consequent…",
-      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
-      "url": "https://arxiv.org/abs/2611.17621"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.17820",
-      "published": "2026-11-16T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "anthropic",
-        "model",
-        "agent",
-        "training"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.17820v1 Announce Type: new Abstract: Previous work has shown that alignment training on individual LLM agents can fail to transfer to multi-agent settings. We investigate the underlying mechanisms for this failure, and explore interventions to preserve alignment transfer to multi-agent LLM teams. We focus on two software-engineering tasks (sepsis triage, a news recommender) and ten consulting-proposal generation tasks. We present four findings: (1) The single-vs-team safety gap does not show a clear trend with more capable models. We find that Anthropic's Mythos Preview shows the largest gap on one of our tasks but the smallest on…",
-      "title": "Aligning AI Teams",
-      "url": "https://arxiv.org/abs/2611.17820"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.17780",
-      "published": "2026-11-16T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "claude",
-        "model",
-        "agent",
-        "sql"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.17780v1 Announce Type: new Abstract: Frontier LLM agents that query databases with tools are among the most accurate text-to-SQL systems, but per-query calls to a hosted model are slow, costly, and expose sensitive organizational queries to external APIs. For example, a Claude Opus 5.5 agent serving 10,000 queries a day costs over $70,000 a year at list price. To what extent can local hardware already owned by an organization offload this burden without compromising the agent's accuracy? We present LuthorSQL, a non-autoregressive 7B text-to-SQL model that serves as a rapid System 1 gate for a slower LLM agent (System 2), escalatin…",
-      "title": "LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent",
-      "url": "https://arxiv.org/abs/2611.17780"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.17811",
-      "published": "2026-11-16T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gpt",
-        "claude",
-        "model",
-        "agent"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.17811v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used by reviewers to highlight weaknesses during the reviewing process, and their outputs often shape the reviews that humans submit. Prior work studies how LLM reviews align with human ones, yet we know little about which parts of a paper these models actually criticize. In this work, we investigate 2,000 papers from ACL, EMNLP, COLM, and ICLR, and show that the latest GPT and Claude models draw about 50% or more of their review weaknesses from the appendix. This behavior holds across the API, coding-agent, and web access methods for using LLMs to…",
-      "title": "AI Reviews Are Biased Towards the Appendix",
-      "url": "https://arxiv.org/abs/2611.17811"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.17836",
-      "published": "2026-11-16T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gpt",
-        "model",
-        "benchmark",
-        "training"
-      ],
-      "score": 9.3,
-      "source": "arXiv cs.CL",
-      "summary": "arXiv:2611.17836v1 Announce Type: new Abstract: Evaluating grammatical knowledge in language models requires benchmarks that cover diverse linguistic phenomena and are validated against human judgments. We introduce BLiMP-RO, a Romanian minimal-pair benchmark covering 50 grammatical phenomena across ten domains. It comprises 493 linguist-constructed sentence pairs, evaluated by native speakers in five experiments, and 5,942 additional semi-automatically generated, human-validated pairs. We further investigate grammatical generalization under limited linguistic input by training GPT-2 and GPT-BERT models from scratch on Romanian BabyBabelLM d…",
-      "title": "BLiMP-RO: A Benchmark of Linguistic Minimal Pairs for Romanian",
-      "url": "https://arxiv.org/abs/2611.17836"
-    },
-    {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/why-ai-agents-need-an-eval-framework",
-      "published": "2026-11-16T13:08:28+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "agent",
-        "sql"
-      ],
-      "score": 9.1,
-      "source": "SQLServerCentral",
-      "summary": "AgentDBA (the database agent I have been building) has more than 1000 automated tests, and until this week none of them measured a single decision the model makes. Every... The post Why Ai Agents need an eval framework appeared first on SQLServerCentral .",
-      "title": "Why Ai Agents need an eval framework",
-      "url": "https://www.sqlservercentral.com/blogs/why-ai-agents-need-an-eval-framework"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore",
-      "published": "2026-11-16T22:06:08+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "agent",
-        "mcp"
-      ],
-      "score": 8.6,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Duco, a data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and Amazon Bedrock AgentCore. With strict per-tenant isolation, a multi-model strategy, and an MCP skills architecture that cut context overhead by 90%, Duco cut reconciliation deployment time 10x and onboarding costs 70%.",
-      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "published": "2026-11-16T17:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gpt",
-        "model",
-        "research"
-      ],
-      "score": 8.5,
-      "source": "OpenAI Blog",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "title": "Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.17339",
-      "published": "2026-11-16T05:00:00+00:00",
+      "canonical_url": "https://postgr.es/p/9C9",
+      "published": "2026-11-17T01:30:17+00:00",
       "reasons": [
         "fresh <30h",
         "llama",
         "model",
-        "gpu",
-        "research"
+        "sql",
+        "open source",
+        "privacy"
       ],
-      "score": 8.4,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini, Llama-3.2-3B-Instruct, Qwen2.5-3B-Instruct, and Gemma-2-2B-Instruct, typically at 4-bit precision, sit outside this evidence base. We present a reproducible one-GPU audit of four detectors spanning three paradigms: length-normalized token-margin calibration, a lexical n-gram baseline, and two sampling-based consistency methods (semantic entropy…",
-      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-      "url": "https://arxiv.org/abs/2611.17339"
+      "score": 9.7,
+      "source": "Planet PostgreSQL",
+      "summary": "Ollama is popular because it makes running large language models (LLMs) locally simple, private, and inexpensive . DBeaver 26.2.5, also free & open-source, recently added support for Ollama. And both pair well with PostgreSQL. Why Ollama Is Popular? Runs AI Locally — Execute models such as Llama, Qwen, Gemma, and DeepSeek on your own computer without relying on cloud services. Privacy and Data Control — Prompts and data can remain entirely on your machine, making Ollama attractive for sensitive business information and internal applications. Free and Open Source — Ollama is free to use locally, with no per-token API charges. Individual model…",
+      "title": "Dave Stokes: Getting Started With Ollama With DBeaver Community Edition",
+      "url": "https://postgr.es/p/9C9"
     },
     {
-      "canonical_url": "https://arxiv.org/abs/2611.17790",
-      "published": "2026-11-16T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training",
-        "research"
-      ],
-      "score": 8.4,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2611.17790v1 Announce Type: new Abstract: Recursive self-improvement (RSI) is one of the most promising paths toward an AI singularity for superintelligence. Achieving this vision requires AI systems to undertake the full training pipeline for iterative improvement. Reinforcement learning (RL) plays an essential role in this cycle to improve model capabilities and generalization, yet automating RL remains difficult due to unstable training dynamics and the need for sustained supervision. We introduce AutoRL, a multi-agent system for automating RL training, as a cornerstone for future RSI. Different from conducting research by end-to-en…",
-      "title": "AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.17790"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2607.29617",
-      "published": "2026-11-16T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "agent",
-        "training",
-        "robotics"
-      ],
-      "score": 8.4,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2607.29617v2 Announce Type: replace-cross Abstract: Imitation learning (IL)---training an agent to replicate expert behavior from demonstrations---underpins applications from robotics to language model training. Standard approaches such as Behavior Cloning (BC) are known to suffer from compounding errors and performance plateaus, particularly when the learner cannot perfectly represent the expert's policy (as is typical, e.g., in distillation). Two interventions are widely understood empirically to improve performance: querying the expert interactively along the learner's own trajectories, and using value function estimation en route t…",
-      "title": "When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning",
-      "url": "https://arxiv.org/abs/2607.29617"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
-      "published": "2026-11-16T17:02:43+00:00",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows",
+      "published": "2026-11-17T19:40:01+00:00",
       "reasons": [
         "fresh <12h",
-        "openai",
-        "model",
-        "research"
-      ],
-      "score": 7.7,
-      "source": "TechCrunch AI",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "published": "2026-11-16T08:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "openai",
-        "model",
-        "research"
-      ],
-      "score": 7.7,
-      "source": "OpenAI Blog",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "title": "Our first phase of embedded assessments",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
-    },
-    {
-      "canonical_url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise",
-      "published": "2026-11-16T13:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "agent",
-        "enterprise"
-      ],
-      "score": 7.6,
-      "source": "MIT Technology Review AI",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.17503",
-      "published": "2026-11-16T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "model",
-        "inference",
-        "training"
-      ],
-      "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2611.17503v1 Announce Type: new Abstract: This paper presents a multifidelity (MF) formulation of Operator Inference (OpInf) for learning non-intrusive, physics-based reduced-order models (ROMs) of nonlinear dynamical systems. OpInf learns reduced operators from projections of snapshot data by solving a least squares regression problem. However, generating high-fidelity snapshots can be computationally expensive, limiting parameter coverage and the temporal extent of training trajectories for many aerospace applications, which can lead to inaccurate or unstable ROM predictions. This work proposes MF-OpInf, which combines limited high-f…",
-      "title": "Multifidelity Operator Inference for Dynamical Systems",
-      "url": "https://arxiv.org/abs/2611.17503"
-    },
-    {
-      "canonical_url": "https://arxiv.org/abs/2611.11985",
-      "published": "2026-11-16T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
         "model",
         "agent",
         "training"
       ],
-      "score": 7.6,
-      "source": "arXiv stat.ML",
-      "summary": "arXiv:2611.11985v2 Announce Type: replace Abstract: Many problems across the sciences compare two stochastic processes through the sequences they generate. Reinforcement learning asks what a new policy would return from the trajectories of an old one; molecular simulation asks how much more a ligand binds from samples of the unbound state; climate attribution asks how a heat wave shifted under warming; and language-model post-training asks what a deployed agent will do from logged interactions. In every case, one quantity would answer all these questions at once: the ratio of the two probability laws over their generated sequences, the traje…",
-      "title": "Trajectory Density Ratios under Weak Support: A Survey across the Sciences",
-      "url": "https://arxiv.org/abs/2611.11985"
+      "score": 8.6,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon SageMaker AI now offers AI data preparation capabilities for building high-quality training and evaluation data. Generate synthetic examples, assess and improve datasets, auto-label at scale, and bring in expert review through Python SDK APIs and an agent skill, all from your own notebook or IDE.",
+      "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/"
     },
     {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
-      "published": "2026-11-16T21:53:46+00:00",
+      "canonical_url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "published": "2026-11-17T18:58:01+00:00",
       "reasons": [
         "fresh <12h",
+        "gemini",
         "model",
         "agent"
       ],
+      "score": 8.5,
+      "source": "The Verge AI",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/whats-new-in-sql-server-for-the-developer-sql-server-2012",
+      "published": "2026-11-17T13:00:12+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql",
+        "sql server",
+        "developer"
+      ],
+      "score": 8.2,
+      "source": "SQLServerCentral",
+      "summary": "Part 1 of my What's New in SQL Server for the Developer series. IIF, CHOOSE, TRY_CONVERT, FORMAT, THROW, SEQUENCE, OFFSET/FETCH and EOMONTH, with examples you can run today. The post What's New in SQL Server for the Developer: SQL Server 2012 appeared first on SQLServerCentral .",
+      "title": "What's New in SQL Server for the Developer: SQL Server 2012",
+      "url": "https://www.sqlservercentral.com/blogs/whats-new-in-sql-server-for-the-developer-sql-server-2012"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
+      "published": "2026-11-17T19:32:11+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "agent",
+        "startup"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart",
+      "published": "2026-11-17T18:06:44+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "training",
+        "open source"
+      ],
+      "score": 7.7,
+      "source": "AWS Machine Learning Blog",
+      "summary": "OpenTSLM, an open source family of time-series language models, is now available in Amazon SageMaker JumpStart. See how Nexthink and Aionic Labs apply it to proactive IT support, then deploy OpenTSLM to a real-time endpoint and fine-tune it on your own data with TimeNet and a SageMaker training job.",
+      "title": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
+      "published": "2026-11-17T17:32:25+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt",
+        "claude",
+        "privacy"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing",
+      "published": "2026-11-17T21:11:51+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "inference"
+      ],
       "score": 6.9,
       "source": "AWS Machine Learning Blog",
-      "summary": "Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable systems on AWS.",
-      "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
-      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/"
+      "summary": "Amazon SageMaker AI real-time endpoints now support KV cache-aware routing, a new strategy that routes each request to the instance holding the longest cached match for its prompt. Learn how it works, when to use it compared with prefix-aware routing, and how to enable, invoke, and verify it on single model and inference component endpoints.",
+      "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry",
+      "published": "2026-11-17T20:31:04+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "mcp"
+      ],
+      "score": 6.9,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Custom metadata schemas in AWS Agent Registry let an administrator define typed, validated fields that every agent, MCP server, and skill must carry. This post follows an MCP record from schema definition through registration, enrichment, approval, and discovery, so teams govern and find resources with one shared set of facts.",
+      "title": "Govern and discover records with common metadata in AWS Agent Registry",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "published": "2026-11-17T21:00:55+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "agent"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and […]",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
+    },
+    {
+      "canonical_url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Ignite-Building-on-the-momentum/ba-p/5422974",
+      "published": "2026-11-17T18:30:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql",
+        "fabric"
+      ],
+      "score": 6.6,
+      "source": "Microsoft Power BI Blog",
+      "summary": "If you haven't already, read Bogdan Crivat's Microsoft Fabric Ignite blog post for a complete look at our Ignite announcements across Microsoft Fabric. Coming out of FabCon/SQLCon in Barcelona and the Power Platform Community Conference, I'm more excited than ever about what's ahead for Power BI. It's been inspiring to see the community explore new AI-powered experiences and rethink how we interact with data, uncover insights, and make decisions. At FabCon, I shared that Power BI is entering its next chapter. Your ideas, enthusiasm, and feedback since then have helped shape what we're delivering this week. At Ignite, two key parts of that ch…",
+      "title": "Power BI at Ignite: Building on the momentum",
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Ignite-Building-on-the-momentum/ba-p/5422974"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/why-run-mongodb-on-everpure-flasharray",
+      "published": "2026-11-17T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "sql",
+        "sql server"
+      ],
+      "score": 6.6,
+      "source": "SQLServerCentral",
+      "summary": "I’ve spent a lot of years around SQL Server on shared storage, and lately I’ve been spending that time with MongoDB. The database engine couldn’t be more different, but... The post Why Run MongoDB on Everpure FlashArray? appeared first on SQLServerCentral .",
+      "title": "Why Run MongoDB on Everpure FlashArray?",
+      "url": "https://www.sqlservercentral.com/blogs/why-run-mongodb-on-everpure-flasharray"
+    },
+    {
+      "canonical_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "published": "2026-11-17T17:45:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "gpt"
+      ],
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game",
+      "published": "2026-11-17T17:20:41+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "startup"
+      ],
+      "score": 6.0,
+      "source": "TechCrunch AI",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
+      "published": "2026-11-17T14:50:58+00:00",
+      "reasons": [
+        "fresh <12h",
+        "deepmind",
+        "funding"
+      ],
+      "score": 6.0,
+      "source": "TechCrunch AI",
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+    },
+    {
+      "canonical_url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "published": "2026-11-17T08:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "research"
+      ],
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+    },
+    {
+      "canonical_url": "https://openai.com/index/astra-law-6-2",
+      "published": "2026-11-17T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "gpt",
+        "enterprise"
+      ],
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2"
+    },
+    {
+      "canonical_url": "https://openai.com/index/introducing-openai-for-chile",
+      "published": "2026-11-17T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "openai",
+        "startup"
+      ],
+      "score": 6.0,
+      "source": "OpenAI Blog",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile"
     }
   ]
 }
