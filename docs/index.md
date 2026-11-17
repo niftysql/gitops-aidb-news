@@ -1,20 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-16T10:03:56.549900+13:00._
+_Last updated: 2026-11-17T13:16:42.990546+13:00._
 
-[Read the latest digest](digests/2026-11-16.html)
+[Read the latest digest](digests/2026-11-17.html)
 
 ## Latest top links
 
-- [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) — TechCrunch AI
-- [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china) — The Verge AI
-- [Report Bursting With Dataflows Gen2 Revisited: Action Sequences](https://blog.crossjoin.co.uk/2026/11/15/report-bursting-with-dataflows-gen2-revisited-action-sequences/) — Chris Webb's BI Blog
-- [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/) — TechCrunch AI
-- [An overview of Jensen Huang’s messy days](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation) — The Verge AI
-- [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) — TechCrunch AI
+- [Envisioning Agentic Robotics: A New Era of Robotic Systems](https://arxiv.org/abs/2611.18359) — arXiv cs.CL
+- [AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://arxiv.org/abs/2611.17621) — arXiv cs.AI
+- [Aligning AI Teams](https://arxiv.org/abs/2611.17820) — arXiv cs.AI
+- [LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent](https://arxiv.org/abs/2611.17780) — arXiv cs.CL
+- [AI Reviews Are Biased Towards the Appendix](https://arxiv.org/abs/2611.17811) — arXiv cs.CL
+- [BLiMP-RO: A Benchmark of Linguistic Minimal Pairs for Romanian](https://arxiv.org/abs/2611.17836) — arXiv cs.CL
+- [Why Ai Agents need an eval framework](https://www.sqlservercentral.com/blogs/why-ai-agents-need-an-eval-framework) — SQLServerCentral
+- [How Duco transforms financial data automation with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/) — AWS Machine Learning Blog
 
 ## Recent digests
 
+- [2026-11-17](digests/2026-11-17.html)
 - [2026-11-16](digests/2026-11-16.html)
 - [2026-11-15](digests/2026-11-15.html)
 - [2026-11-14](digests/2026-11-14.html)
@@ -44,7 +47,6 @@ _Last updated: 2026-11-16T10:03:56.549900+13:00._
 - [2026-10-21](digests/2026-10-21.html)
 - [2026-10-20](digests/2026-10-20.html)
 - [2026-10-19](digests/2026-10-19.html)
-- [2026-10-18](digests/2026-10-18.html)
 
 ## About this site
 
