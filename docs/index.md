@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-18T12:31:36.429517+13:00._
+_Last updated: 2026-11-19T11:57:24.875925+13:00._
 
-[Read the latest digest](digests/2026-11-18.html)
+[Read the latest digest](digests/2026-11-19.html)
 
 ## Latest top links
 
-- [Dave Stokes: Getting Started With Ollama With DBeaver Community Edition](https://postgr.es/p/9C9) — Planet PostgreSQL
-- [Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows](https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/) — AWS Machine Learning Blog
-- [Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free) — The Verge AI
-- [What's New in SQL Server for the Developer: SQL Server 2012](https://www.sqlservercentral.com/blogs/whats-new-in-sql-server-for-the-developer-sql-server-2012) — SQLServerCentral
-- [Model ML raises $250M to automate investment banking grunt work](https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/) — TechCrunch AI
-- [Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/) — AWS Machine Learning Blog
-- [Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/) — TechCrunch AI
-- [Amazon SageMaker AI real-time endpoints now support KV cache aware routing](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/) — AWS Machine Learning Blog
+- [Remember the frontier AI pause? Chip companies don’t either](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models) — The Verge AI
+- [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models) — OpenAI Blog
+- [Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection](https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/) — AWS Machine Learning Blog
+- [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](https://arxiv.org/abs/2611.21799) — arXiv cs.AI
+- [TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](https://arxiv.org/abs/2611.22115) — arXiv cs.AI
+- [Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)](https://arxiv.org/abs/2611.22148) — arXiv cs.AI
+- [The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News](https://arxiv.org/abs/2611.22177) — arXiv cs.AI
+- [LMMR: Learned Multigranular Memory Retrieval for Small Language Model Agents](https://arxiv.org/abs/2611.22425) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-11-19](digests/2026-11-19.html)
 - [2026-11-18](digests/2026-11-18.html)
 - [2026-11-17](digests/2026-11-17.html)
 - [2026-11-16](digests/2026-11-16.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-18T12:31:36.429517+13:00._
 - [2026-10-23](digests/2026-10-23.html)
 - [2026-10-22](digests/2026-10-22.html)
 - [2026-10-21](digests/2026-10-21.html)
-- [2026-10-20](digests/2026-10-20.html)
 
 ## About this site
 
