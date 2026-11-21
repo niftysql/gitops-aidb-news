@@ -1,0 +1,241 @@
+{
+  "digest_date": "2026-11-22",
+  "generated_at": "2026-11-22T10:41:07.976750+13:00",
+  "items": [
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill",
+      "published": "2026-11-21T00:14:26+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent",
+        "inference",
+        "gpu"
+      ],
+      "score": 7.8,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up the cache from your coding agent.",
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9Db",
+      "published": "2026-11-21T12:59:52+00:00",
+      "reasons": [
+        "fresh <12h",
+        "model",
+        "sql"
+      ],
+      "score": 7.2,
+      "source": "Planet PostgreSQL",
+      "summary": "The retrieval was perfect. That was the problem. Picture an internal assistant that answers employee questions from a shared document store. Someone asks a reasonable question about bonus timelines. The vector search does exactly what it was built to do and finds the most semantically similar chunks. One of those chunks comes from a compensation review meant only for HR. No model hallucinated, no index was corrupted, and no query timed out. Every component worked as designed, and that’s why no alert fired. The system answered the question it was asked, which was “what is most relevant?” Nobody had asked it “what is this person allowed to see…",
+      "title": "Vibhor Kumar: Relevance Is Not Permission: Filter-First Vector Search in PostgreSQL",
+      "url": "https://postgr.es/p/9Db"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "published": "2026-11-21T15:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "claude"
+      ],
+      "score": 6.8,
+      "source": "The Verge AI",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "published": "2026-11-21T17:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/dazzling-stuff-in-databricks-sql-qualify",
+      "published": "2026-11-20T14:29:22+00:00",
+      "reasons": [
+        "recent <72h",
+        "sql",
+        "databricks"
+      ],
+      "score": 4.9,
+      "source": "SQLServerCentral",
+      "summary": "Once upon a time I had a series about some cool stuff in Snowflake: features in their SQL dialect that were not available in the T-SQL dialect at the... The post Dazzling Stuff in Databricks (SQL) – Qualify appeared first on SQLServerCentral .",
+      "title": "Dazzling Stuff in Databricks (SQL) – Qualify",
+      "url": "https://www.sqlservercentral.com/blogs/dazzling-stuff-in-databricks-sql-qualify"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together",
+      "published": "2026-11-21T01:06:42+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads and Amplitude.",
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters",
+      "published": "2026-11-20T22:35:24+00:00",
+      "reasons": [
+        "fresh <30h",
+        "inference"
+      ],
+      "score": 4.4,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink.",
+      "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing",
+      "published": "2026-11-20T17:40:01+00:00",
+      "reasons": [
+        "fresh <30h",
+        "chip"
+      ],
+      "score": 4.4,
+      "source": "TechCrunch AI",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+      "published": "2026-11-21T16:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "startup"
+      ],
+      "score": 4.3,
+      "source": "TechCrunch AI",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
+      "published": "2026-11-20T19:53:41+00:00",
+      "reasons": [
+        "fresh <30h",
+        "research",
+        "startup"
+      ],
+      "score": 4.3,
+      "source": "TechCrunch AI",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    },
+    {
+      "canonical_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+      "published": "2026-11-20T18:15:15+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model"
+      ],
+      "score": 4.3,
+      "source": "MIT Technology Review AI",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/advice-i-like-overnight-success",
+      "published": "2026-11-20T14:01:00+00:00",
+      "reasons": [
+        "recent <72h",
+        "sql"
+      ],
+      "score": 4.1,
+      "source": "SQLServerCentral",
+      "summary": "“Most overnight successes – in fact any significant successes – take at least 5 years. Budget your life accordingly” – from Excellent Advice for Living I’ll use a friend... The post Advice I Like: Overnight Success appeared first on SQLServerCentral .",
+      "title": "Advice I Like: Overnight Success",
+      "url": "https://www.sqlservercentral.com/blogs/advice-i-like-overnight-success"
+    },
+    {
+      "canonical_url": "https://www.sqlservercentral.com/blogs/a-clr-assembly-broke-my-availability-group",
+      "published": "2026-11-20T10:23:36+00:00",
+      "reasons": [
+        "recent <72h",
+        "sql"
+      ],
+      "score": 4.1,
+      "source": "SQLServerCentral",
+      "summary": "Sounds scary! Did I get your attention? The post A CLR Assembly Broke My Availability Group appeared first on SQLServerCentral .",
+      "title": "A CLR Assembly Broke My Availability Group",
+      "url": "https://www.sqlservercentral.com/blogs/a-clr-assembly-broke-my-availability-group"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "published": "2026-11-21T20:03:37+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "published": "2026-11-21T14:00:00+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+    },
+    {
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm",
+      "published": "2026-11-20T23:07:03+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.7,
+      "source": "AWS Machine Learning Blog",
+      "summary": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter of running a shared Slurm cluster with them.",
+      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "published": "2026-11-20T18:50:19+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 2.6,
+      "source": "The Verge AI",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9D9",
+      "published": "2026-11-20T13:08:00+00:00",
+      "reasons": [
+        "recent <72h"
+      ],
+      "score": 2.2,
+      "source": "Planet PostgreSQL",
+      "summary": "Yesterday, Thursday, November 19th, was a cold night in Edinburgh, but the wonderful Law School in the University of Edinburgh's Old College was warm and cosy for our November meetup. We were a speaker short, though. Alastair Turner of Percona was on his way to Edinburgh when his train turned back, because an incident on the line had cancelled all northbound trains for several hours, and there was no other way for him to get here in time. Alastair spoke at our February meetup , and we were very sorry not to see him again, or to discuss his topic with him in person. Radar + Radar Analyst, expanded and live So I stepped in with an expanded ver…",
+      "title": "Jimmy Angelakos: postgres.scot November 2026: a live Radar demo and Call for Presentations for December meetup",
+      "url": "https://postgr.es/p/9D9"
+    }
+  ]
+}
