@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-22T10:41:07.976750+13:00._
+_Last updated: 2026-11-23T10:51:00.177580+13:00._
 
-[Read the latest digest](digests/2026-11-22.html)
+[Read the latest digest](digests/2026-11-23.html)
 
 ## Latest top links
 
-- [Cut self-hosted LLM cost and latency with the distributed KV caching agent skill](https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/) — AWS Machine Learning Blog
-- [Vibhor Kumar: Relevance Is Not Permission: Filter-First Vector Search in PostgreSQL](https://postgr.es/p/9Db) — Planet PostgreSQL
-- [Can Anthropic afford to put safety first?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure) — The Verge AI
-- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/) — TechCrunch AI
-- [Dazzling Stuff in Databricks (SQL) – Qualify](https://www.sqlservercentral.com/blogs/dazzling-stuff-in-databricks-sql-qualify) — SQLServerCentral
-- [New in AWS Quick: More capable flows, an updated web experience, and agents that work together](https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/) — AWS Machine Learning Blog
-- [Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/) — AWS Machine Learning Blog
-- [Chips can survive the space environment — can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/) — TechCrunch AI
+- [Combining Fabric Semantic Views](https://blog.crossjoin.co.uk/2026/11/22/combining-fabric-semantic-views/) — Chris Webb's BI Blog
+- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence) — OpenAI Blog
+- [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/) — TechCrunch AI
+- [Word to the wise: don’t turn on SQL vulnerability checks on a blog about SQL](https://www.sqlservercentral.com/blogs/word-to-the-wise-dont-turn-on-sql-vulnerability-checks-on-a-blog-about-sql) — SQLServerCentral
+- [uzair aslam: PostgreSQL Connection Pooling on Vercel with Next.js](https://postgr.es/p/9Dc) — Planet PostgreSQL
+- [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music) — The Verge AI
+- [Mats Kindahl: Building a Table Access Method, Part 9: UNLOGGED tables and surviving a restart](https://postgr.es/p/9Dg) — Planet PostgreSQL
+- [Henrietta Dombrovskaya: The Last Prairie PUG Meetup of 2026](https://postgr.es/p/9Df) — Planet PostgreSQL
 
 ## Recent digests
 
+- [2026-11-23](digests/2026-11-23.html)
 - [2026-11-22](digests/2026-11-22.html)
 - [2026-11-21](digests/2026-11-21.html)
 - [2026-11-20](digests/2026-11-20.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-22T10:41:07.976750+13:00._
 - [2026-10-27](digests/2026-10-27.html)
 - [2026-10-26](digests/2026-10-26.html)
 - [2026-10-25](digests/2026-10-25.html)
-- [2026-10-24](digests/2026-10-24.html)
 
 ## About this site
 
