@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-23T10:51:00.177580+13:00._
+_Last updated: 2026-11-24T15:55:22.851541+13:00._
 
-[Read the latest digest](digests/2026-11-23.html)
+[Read the latest digest](digests/2026-11-24.html)
 
 ## Latest top links
 
-- [Combining Fabric Semantic Views](https://blog.crossjoin.co.uk/2026/11/22/combining-fabric-semantic-views/) — Chris Webb's BI Blog
-- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence) — OpenAI Blog
-- [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/) — TechCrunch AI
-- [Word to the wise: don’t turn on SQL vulnerability checks on a blog about SQL](https://www.sqlservercentral.com/blogs/word-to-the-wise-dont-turn-on-sql-vulnerability-checks-on-a-blog-about-sql) — SQLServerCentral
-- [uzair aslam: PostgreSQL Connection Pooling on Vercel with Next.js](https://postgr.es/p/9Dc) — Planet PostgreSQL
-- [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music) — The Verge AI
-- [Mats Kindahl: Building a Table Access Method, Part 9: UNLOGGED tables and surviving a restart](https://postgr.es/p/9Dg) — Planet PostgreSQL
-- [Henrietta Dombrovskaya: The Last Prairie PUG Meetup of 2026](https://postgr.es/p/9Df) — Planet PostgreSQL
+- [How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction](https://arxiv.org/abs/2611.26875) — arXiv cs.CL
+- [CoEvoBench: Can LLMs Drive Recursive Co-Evolution of Agentic Systems?](https://arxiv.org/abs/2611.27116) — arXiv cs.AI
+- [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/) — TechCrunch AI
+- [Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders](https://arxiv.org/abs/2611.27721) — arXiv cs.CL
+- [AutoOntologyBench: A Task-Grounded Benchmark for Agentic Knowledge Engineering](https://arxiv.org/abs/2611.27734) — arXiv cs.CL
+- [Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation](https://arxiv.org/abs/2611.26717) — arXiv cs.AI
+- [Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers](https://arxiv.org/abs/2611.26906) — arXiv cs.AI
+- [Dynamic Token Merging for Efficient Vision-Language Models](https://arxiv.org/abs/2611.27064) — arXiv cs.AI
 
 ## Recent digests
 
+- [2026-11-24](digests/2026-11-24.html)
 - [2026-11-23](digests/2026-11-23.html)
 - [2026-11-22](digests/2026-11-22.html)
 - [2026-11-21](digests/2026-11-21.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-23T10:51:00.177580+13:00._
 - [2026-10-28](digests/2026-10-28.html)
 - [2026-10-27](digests/2026-10-27.html)
 - [2026-10-26](digests/2026-10-26.html)
-- [2026-10-25](digests/2026-10-25.html)
 
 ## About this site
 
