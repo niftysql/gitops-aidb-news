@@ -1,0 +1,243 @@
+{
+  "digest_date": "2026-11-26",
+  "generated_at": "2026-11-26T13:26:39.479877+13:00",
+  "items": [
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+      "published": "2026-11-25T19:44:24+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic",
+        "model",
+        "research"
+      ],
+      "score": 7.7,
+      "source": "TechCrunch AI",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+      "published": "2026-11-25T20:03:27+00:00",
+      "reasons": [
+        "fresh <12h",
+        "openai",
+        "gpt"
+      ],
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9DA",
+      "published": "2026-11-25T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "sql",
+        "open source",
+        "security"
+      ],
+      "score": 6.3,
+      "source": "Planet PostgreSQL",
+      "summary": "Last month, PgBouncer participated in the Fall 2026 CNCF Security Slam . This is a report of what we did, what we learned, and what we plan for the future. Introduction First, let’s introduce the participants. PgBouncer is a connection pooler for PostgreSQL. The CNCF is the Cloud Native Computing Foundation, the organization that supports Kubernetes and many other projects broadly related to that. There is also the OpenSSF , the Open Source Security Foundation, which publishes many tools and guides to help open-source projects improve and maintain their security practices. Both the CNCF and the OpenSSF are part of the Linux Foundation , so t…",
+      "title": "Peter Eisentraut: PgBouncer visits the CNCF Security Slam",
+      "url": "https://postgr.es/p/9DA"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "published": "2026-11-25T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent",
+        "open source"
+      ],
+      "score": 5.9,
+      "source": "The Verge AI",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no […]",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9DH",
+      "published": "2026-11-25T16:32:33+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "A fast-growing AI-native SaaS team we worked with alongside Supabase was writing 1.8 TB of WAL a day. That number alone made the database look like the ceiling. When we broke it down, about 39% of that WAL was full-page-image overhead. It didn’t come from the application, the platform or the workload. It came from a five-minute checkpoint default. This post walks through why that happens, how to check whether it’s happening to you, and what to do about it. Everything here applies to PostgreSQL on Supabase and on any other platform. What a checkpoint does PostgreSQL writes every change to the write-ahead log (WAL) before it touches the data f…",
+      "title": "Umair Shahid: Where 39% of the WAL Came From",
+      "url": "https://postgr.es/p/9DH"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9DG",
+      "published": "2026-11-25T15:27:08+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "Every now and then, a PostgreSQL database needs changes: adding a column, creating an index, updating data, or modifying constraints. Changes like these are called migrations. They can finish in seconds and go unnoticed, or lead to blocking, replication lag, unexpected load, or even downtime. Of course, no checklist can guarantee a trouble-free migration. However, asking the right questions beforehand can significantly reduce the risk . In this article, we’ll go through a checklist that can help prepare for PostgreSQL migrations more confidently: What will PostgreSQL actually do? Which lock will it take? Is the database ready? Will replicati…",
+      "title": "DARIA NIKOLAENKO: PostgreSQL DDL/DML Migration Checklist for the Anxious",
+      "url": "https://postgr.es/p/9DG"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9DF",
+      "published": "2026-11-25T12:42:05+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "PostgreSQL 19 support is now available in pglayers , with 62 extension layers , ready-to-use Full and Azure profile images , and builds for both amd64 and arm64 . The images use the official postgres:19 GA image. If you want PostgreSQL 19 with pgvector, PostGIS, pg_cron, pg_textsearch, or pg_lake, you can get started without compiling extensions yourself. A quick reminder: what is pglayers? The official PostgreSQL Docker images provide a familiar starting point, but installing additional extensions often means adding package repositories, build tools, and compilation steps to your Dockerfile. pglayers publishes extensions as small, composabl…",
+      "title": "Ismaël Mejía: PostgreSQL 19 is now supported in pglayers",
+      "url": "https://postgr.es/p/9DF"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "published": "2026-11-25T18:52:55+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "published": "2026-11-25T14:10:18+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+      "published": "2026-11-25T13:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "chip"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "published": "2026-11-25T17:44:51+00:00",
+      "reasons": [
+        "fresh <12h",
+        "chip"
+      ],
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "published": "2026-11-25T14:12:33+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "published": "2026-11-25T10:22:09+00:00",
+      "reasons": [
+        "fresh <30h",
+        "agent"
+      ],
+      "score": 4.4,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "published": "2026-11-25T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "inference"
+      ],
+      "score": 4.4,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
+    },
+    {
+      "canonical_url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+      "published": "2026-11-25T10:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "training"
+      ],
+      "score": 4.3,
+      "source": "MIT Technology Review AI",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "published": "2026-11-25T21:51:26+00:00",
+      "reasons": [
+        "fresh <12h"
+      ],
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+    },
+    {
+      "canonical_url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "published": "2026-11-25T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h"
+      ],
+      "score": 3.3,
+      "source": "Anthropic Research",
+      "summary": "How we migrated our Messages API from Python to Rust.",
+      "title": "Migrating our Messages API to Rust",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "published": "2026-11-24T13:07:53+00:00",
+      "reasons": [
+        "recent <72h"
+      ],
+      "score": 2.4,
+      "source": "Google DeepMind Blog",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/"
+    }
+  ]
+}

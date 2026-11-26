@@ -1,256 +1,243 @@
 {
-  "digest_date": "2026-11-25",
-  "generated_at": "2026-11-25T13:49:06.005424+13:00",
+  "digest_date": "2026-11-26",
+  "generated_at": "2026-11-26T13:26:39.479877+13:00",
   "items": [
     {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/whats-new-in-sql-server-for-the-developer-sql-server-2016",
-      "published": "2026-11-24T13:00:13+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+      "published": "2026-11-25T19:44:24+00:00",
       "reasons": [
         "fresh <12h",
-        "sql",
-        "sql server",
-        "security",
-        "developer"
-      ],
-      "score": 9.0,
-      "source": "SQLServerCentral",
-      "summary": "Part 2 of my What's New in SQL Server for the Developer series. STRING_SPLIT, DROP IF EXISTS, JSON, COMPRESS, Always Encrypted, Dynamic Data Masking, Row-Level Security, Query Store and... The post What's New in SQL Server for the Developer: SQL Server 2016 appeared first on SQLServerCentral .",
-      "title": "What's New in SQL Server for the Developer: SQL Server 2016",
-      "url": "https://www.sqlservercentral.com/blogs/whats-new-in-sql-server-for-the-developer-sql-server-2016"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
-      "published": "2026-11-24T21:33:29+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "agent",
-        "benchmark"
-      ],
-      "score": 8.6,
-      "source": "TechCrunch AI",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "title": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
-    },
-    {
-      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
-      "published": "2026-11-24T05:01:14+00:00",
-      "reasons": [
-        "fresh <30h",
         "anthropic",
-        "claude",
-        "model",
-        "enterprise"
-      ],
-      "score": 8.6,
-      "source": "AWS Machine Learning Blog",
-      "summary": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data when you use Claude Fable models.",
-      "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/"
-    },
-    {
-      "canonical_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "published": "2026-11-24T13:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "gpt",
-        "model"
-      ],
-      "score": 7.7,
-      "source": "OpenAI Blog",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
-    },
-    {
-      "canonical_url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-      "published": "2026-11-24T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "gpt",
         "model",
         "research"
       ],
       "score": 7.7,
-      "source": "OpenAI Blog",
-      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
-      "title": "Clay helps sales teams win with Codex and ChatGPT",
-      "url": "https://openai.com/business/customer-stories/clay-plugins-openai"
+      "source": "TechCrunch AI",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
     },
     {
-      "canonical_url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Paginated-reports-in-Power-BI-support-outbound-access-protection/ba-p/5435045",
-      "published": "2026-11-24T18:00:00+00:00",
+      "canonical_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+      "published": "2026-11-25T20:03:27+00:00",
       "reasons": [
         "fresh <12h",
-        "model",
-        "fabric"
+        "openai",
+        "gpt"
       ],
-      "score": 6.6,
-      "source": "Microsoft Power BI Blog",
-      "summary": "Paginated reports can combine data from Power BI semantic models and other data sources with external resources such as maps and images. Workspace admins can control which destinations the Power BI service can reach when it renders these reports. Paginated reports now support workspace outbound access protection (OAP). When a workspace admin enables OAP for a Fabric workspace, outbound connections from paginated reports are blocked by default. The workspace admin can then create OAP exception rules to allow the connection types and destinations that the reports in that workspace are supposed to access. Why control outbound access at the work…",
-      "title": "Paginated reports in Power BI support outbound access protection (Preview)",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Paginated-reports-in-Power-BI-support-outbound-access-protection/ba-p/5435045"
+      "score": 6.9,
+      "source": "TechCrunch AI",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
     },
     {
-      "canonical_url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-semantic/ba-p/5435053",
-      "published": "2026-11-24T17:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "model",
-        "fabric"
-      ],
-      "score": 6.6,
-      "source": "Microsoft Power BI Blog",
-      "summary": "Workspace outbound access protection (OAP) is generally available for Power BI semantic models and interactive Power BI reports in Microsoft Fabric workspaces. With OAP, workspace admins can limit which data sources semantic models reach. They can also limit which semantic models in other workspaces interactive reports can query. These rules help reduce unintended outbound access and mitigate data exfiltration risks. Semantic model creators choose their data sources. Report authors choose their semantic models. Workspace admins decide which outbound connections they want to allow in their workspaces. You can have semantic models and reports…",
-      "title": "Workspace outbound access protection for Power BI semantic models and interactive reports (Generally Available)",
-      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-semantic/ba-p/5435053"
-    },
-    {
-      "canonical_url": "https://www.sqlservercentral.com/blogs/the-dba-moves-up-the-stack-from-sql-server-on-a-vm-to-azure-sql-and-managed-instance",
-      "published": "2026-11-24T12:05:00+00:00",
+      "canonical_url": "https://postgr.es/p/9DA",
+      "published": "2026-11-25T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
         "sql",
-        "sql server"
+        "open source",
+        "security"
       ],
-      "score": 6.6,
-      "source": "SQLServerCentral",
-      "summary": "Note: This is more of a note to myself than an attempt to preach something obvious or already known to many. Back in 2012, I wrote that the cloud... The post The DBA Moves Up the Stack: From SQL Server on a VM to Azure SQL and Managed Instance appeared first on SQLServerCentral .",
-      "title": "The DBA Moves Up the Stack: From SQL Server on a VM to Azure SQL and Managed Instance",
-      "url": "https://www.sqlservercentral.com/blogs/the-dba-moves-up-the-stack-from-sql-server-on-a-vm-to-azure-sql-and-managed-instance"
+      "score": 6.3,
+      "source": "Planet PostgreSQL",
+      "summary": "Last month, PgBouncer participated in the Fall 2026 CNCF Security Slam . This is a report of what we did, what we learned, and what we plan for the future. Introduction First, let’s introduce the participants. PgBouncer is a connection pooler for PostgreSQL. The CNCF is the Cloud Native Computing Foundation, the organization that supports Kubernetes and many other projects broadly related to that. There is also the OpenSSF , the Open Source Security Foundation, which publishes many tools and guides to help open-source projects improve and maintain their security practices. Both the CNCF and the OpenSSF are part of the Linux Foundation , so t…",
+      "title": "Peter Eisentraut: PgBouncer visits the CNCF Security Slam",
+      "url": "https://postgr.es/p/9DA"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
-      "published": "2026-11-24T18:30:42+00:00",
-      "reasons": [
-        "fresh <12h",
-        "anthropic",
-        "startup"
-      ],
-      "score": 6.0,
-      "source": "TechCrunch AI",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
-    },
-    {
-      "canonical_url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
-      "published": "2026-11-24T15:15:16+00:00",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "published": "2026-11-25T13:00:00+00:00",
       "reasons": [
         "fresh <12h",
         "agent",
-        "enterprise"
+        "open source"
       ],
       "score": 5.9,
-      "source": "MIT Technology Review AI",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+      "source": "The Verge AI",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no […]",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
     },
     {
-      "canonical_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-      "published": "2026-11-24T16:00:00+00:00",
+      "canonical_url": "https://postgr.es/p/9DH",
+      "published": "2026-11-25T16:32:33+00:00",
       "reasons": [
         "fresh <12h",
-        "gemini"
+        "sql"
       ],
-      "score": 5.7,
-      "source": "Google AI Blog",
-      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "A fast-growing AI-native SaaS team we worked with alongside Supabase was writing 1.8 TB of WAL a day. That number alone made the database look like the ceiling. When we broke it down, about 39% of that WAL was full-page-image overhead. It didn’t come from the application, the platform or the workload. It came from a five-minute checkpoint default. This post walks through why that happens, how to check whether it’s happening to you, and what to do about it. Everything here applies to PostgreSQL on Supabase and on any other platform. What a checkpoint does PostgreSQL writes every change to the write-ahead log (WAL) before it touches the data f…",
+      "title": "Umair Shahid: Where 39% of the WAL Came From",
+      "url": "https://postgr.es/p/9DH"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
-      "published": "2026-11-25T00:12:02+00:00",
+      "canonical_url": "https://postgr.es/p/9DG",
+      "published": "2026-11-25T15:27:08+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "Every now and then, a PostgreSQL database needs changes: adding a column, creating an index, updating data, or modifying constraints. Changes like these are called migrations. They can finish in seconds and go unnoticed, or lead to blocking, replication lag, unexpected load, or even downtime. Of course, no checklist can guarantee a trouble-free migration. However, asking the right questions beforehand can significantly reduce the risk . In this article, we’ll go through a checklist that can help prepare for PostgreSQL migrations more confidently: What will PostgreSQL actually do? Which lock will it take? Is the database ready? Will replicati…",
+      "title": "DARIA NIKOLAENKO: PostgreSQL DDL/DML Migration Checklist for the Anxious",
+      "url": "https://postgr.es/p/9DG"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9DF",
+      "published": "2026-11-25T12:42:05+00:00",
+      "reasons": [
+        "fresh <12h",
+        "sql"
+      ],
+      "score": 5.5,
+      "source": "Planet PostgreSQL",
+      "summary": "PostgreSQL 19 support is now available in pglayers , with 62 extension layers , ready-to-use Full and Azure profile images , and builds for both amd64 and arm64 . The images use the official postgres:19 GA image. If you want PostgreSQL 19 with pgvector, PostGIS, pg_cron, pg_textsearch, or pg_lake, you can get started without compiling extensions yourself. A quick reminder: what is pglayers? The official PostgreSQL Docker images provide a familiar starting point, but installing additional extensions often means adding package repositories, build tools, and compilation steps to your Dockerfile. pglayers publishes extensions as small, composabl…",
+      "title": "Ismaël Mejía: PostgreSQL 19 is now supported in pglayers",
+      "url": "https://postgr.es/p/9DF"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "published": "2026-11-25T18:52:55+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "published": "2026-11-25T14:10:18+00:00",
+      "reasons": [
+        "fresh <12h",
+        "agent"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+      "published": "2026-11-25T13:00:00+00:00",
       "reasons": [
         "fresh <12h",
         "chip"
       ],
       "score": 5.2,
       "source": "TechCrunch AI",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
     },
     {
-      "canonical_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
-      "published": "2026-11-24T21:32:38+00:00",
+      "canonical_url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "published": "2026-11-25T17:44:51+00:00",
+      "reasons": [
+        "fresh <12h",
+        "chip"
+      ],
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "published": "2026-11-25T14:12:33+00:00",
       "reasons": [
         "fresh <12h",
         "agent"
       ],
-      "score": 5.2,
-      "source": "TechCrunch AI",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+      "score": 5.1,
+      "source": "The Verge AI",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
     },
     {
-      "canonical_url": "https://openai.com/business/customer-stories/ifood",
-      "published": "2026-11-24T00:00:00+00:00",
+      "canonical_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "published": "2026-11-25T10:22:09+00:00",
       "reasons": [
         "fresh <30h",
         "agent"
       ],
-      "score": 4.9,
-      "source": "OpenAI Blog",
+      "score": 4.4,
+      "source": "Hugging Face Blog",
       "summary": "",
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "url": "https://openai.com/business/customer-stories/ifood"
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
     },
     {
-      "canonical_url": "https://postgr.es/p/9Dr",
-      "published": "2026-11-24T09:42:35+00:00",
+      "canonical_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "published": "2026-11-25T00:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "sql"
+        "inference"
       ],
-      "score": 4.7,
-      "source": "Planet PostgreSQL",
-      "summary": "Pre-Calculating HugePages for PostgreSQL Huge pages ( HugeTLB ) are one of the most important PostgreSQL tuning steps , and they must be right before the server starts. They matter mainly for stability and reliability, more than for speed. Recently I also came across reports of up to 30% performance gain as an added benefit, but only for very specific workloads. One challenge is that the huge pages available on the host should be a near perfect fit for what PostgreSQL is going to request: If there are too few , PostgreSQL either refuses to start or quietly runs without huge pages. If there are too many , the extra pages stay unused. Memory s…",
-      "title": "Jobin Augustine: Pre-Calculating HugePages for PostgreSQL",
-      "url": "https://postgr.es/p/9Dr"
+      "score": 4.4,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
     },
     {
-      "canonical_url": "https://postgr.es/p/9Dt",
-      "published": "2026-11-24T08:00:00+00:00",
+      "canonical_url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+      "published": "2026-11-25T10:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "sql"
+        "training"
       ],
-      "score": 4.7,
-      "source": "Planet PostgreSQL",
-      "summary": "Every PostgreSQL team eventually runs a massive DELETE to free up disk space, watches df -h stay completely flat, and wonders if the command even worked. Worse, queries against the smaller table often get slower instead of faster. This is Part 2 of Postgres in Production (following Part 1 on PostgreSQL index types ). Same rule applies here: measure first, then explain. All numbers below were measured on PostgreSQL 18.6 using pgstattuple and EXPLAIN (ANALYZE, BUFFERS) on a 1,000,000-row dataset. Why DELETE and VACUUM did not shrink the file In PostgreSQL’s Multi-Version Concurrency Control (MVCC), UPDATE and DELETE never overwrite or erase ro…",
-      "title": "Aleksei Aleinikov: PostgreSQL VACUUM & Bloat: Dead Tuples, HOT Updates & Compaction",
-      "url": "https://postgr.es/p/9Dt"
+      "score": 4.3,
+      "source": "MIT Technology Review AI",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
     },
     {
-      "canonical_url": "https://postgr.es/p/9Dp",
-      "published": "2026-11-24T07:47:00+00:00",
+      "canonical_url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "published": "2026-11-25T21:51:26+00:00",
       "reasons": [
-        "fresh <30h",
-        "sql"
+        "fresh <12h"
       ],
-      "score": 4.7,
-      "source": "Planet PostgreSQL",
-      "summary": "On 3rd of July 2025, Fujii Masao committed patch: Support multi-line headers in COPY FROM command. The COPY FROM command now accepts a non-negative integer for the HEADER option, allowing multiple header lines to be skipped. This is useful when the input contains multi-line headers that should be ignored during data import. Author: … Continue reading \"Missed in PostgreSQL 19 : Support multi-line headers in COPY FROM command.\"",
-      "title": "Hubert 'depesz' Lubaczewski: Missed in PostgreSQL 19 : Support multi-line headers in COPY FROM command.",
-      "url": "https://postgr.es/p/9Dp"
+      "score": 3.4,
+      "source": "The Verge AI",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
     },
     {
-      "canonical_url": "https://postgr.es/p/9Du",
-      "published": "2026-11-24T00:00:00+00:00",
+      "canonical_url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "published": "2026-11-25T00:00:00+00:00",
       "reasons": [
-        "fresh <30h",
-        "sql"
+        "fresh <30h"
       ],
-      "score": 4.7,
-      "source": "Planet PostgreSQL",
-      "summary": "After talking about the reverts and then the remaining features of PostgreSQL 19, I want to talk about another important aspect: the statistics of the development cycle. This blog post is also somewhat of an announcement: hackorum.dev now has a new, extensive statistics page . Most of the data here comes from two of those pages: the PG19 page of the per-release statistics and the release-over-release view. My goal isn’t to blindly repeat the information already available there – if it were, this blog post could end here. Instead, I want to focus on two topics visible in the data: mostly on how PG19 was different from the previous releases, b…",
-      "title": "Zsolt Parragi: The numbers of Postgres 19",
-      "url": "https://postgr.es/p/9Du"
+      "score": 3.3,
+      "source": "Anthropic Research",
+      "summary": "How we migrated our Messages API from Python to Rust.",
+      "title": "Migrating our Messages API to Rust",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+    },
+    {
+      "canonical_url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "published": "2026-11-24T13:07:53+00:00",
+      "reasons": [
+        "recent <72h"
+      ],
+      "score": 2.4,
+      "source": "Google DeepMind Blog",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/"
     }
   ]
 }

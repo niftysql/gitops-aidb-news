@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-25T13:49:06.005424+13:00._
+_Last updated: 2026-11-26T13:26:39.479877+13:00._
 
-[Read the latest digest](digests/2026-11-25.html)
+[Read the latest digest](digests/2026-11-26.html)
 
 ## Latest top links
 
-- [What's New in SQL Server for the Developer: SQL Server 2016](https://www.sqlservercentral.com/blogs/whats-new-in-sql-server-for-the-developer-sql-server-2016) — SQLServerCentral
-- [Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/) — TechCrunch AI
-- [Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/) — AWS Machine Learning Blog
-- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) — OpenAI Blog
-- [Clay helps sales teams win with Codex and ChatGPT](https://openai.com/business/customer-stories/clay-plugins-openai) — OpenAI Blog
-- [Paginated reports in Power BI support outbound access protection (Preview)](https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Paginated-reports-in-Power-BI-support-outbound-access-protection/ba-p/5435045) — Microsoft Power BI Blog
-- [Workspace outbound access protection for Power BI semantic models and interactive reports (Generally Available)](https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-semantic/ba-p/5435053) — Microsoft Power BI Blog
-- [The DBA Moves Up the Stack: From SQL Server on a VM to Azure SQL and Managed Instance](https://www.sqlservercentral.com/blogs/the-dba-moves-up-the-stack-from-sql-server-on-a-vm-to-azure-sql-and-managed-instance) — SQLServerCentral
+- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/) — TechCrunch AI
+- [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/) — TechCrunch AI
+- [Peter Eisentraut: PgBouncer visits the CNCF Security Slam](https://postgr.es/p/9DA) — Planet PostgreSQL
+- [Has vibe coding made open source the new normal for synths?](https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware) — The Verge AI
+- [Umair Shahid: Where 39% of the WAL Came From](https://postgr.es/p/9DH) — Planet PostgreSQL
+- [DARIA NIKOLAENKO: PostgreSQL DDL/DML Migration Checklist for the Anxious](https://postgr.es/p/9DG) — Planet PostgreSQL
+- [Ismaël Mejía: PostgreSQL 19 is now supported in pglayers](https://postgr.es/p/9DF) — Planet PostgreSQL
+- [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents) — Hugging Face Blog
 
 ## Recent digests
 
+- [2026-11-26](digests/2026-11-26.html)
 - [2026-11-25](digests/2026-11-25.html)
 - [2026-11-24](digests/2026-11-24.html)
 - [2026-11-23](digests/2026-11-23.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-25T13:49:06.005424+13:00._
 - [2026-10-30](digests/2026-10-30.html)
 - [2026-10-29](digests/2026-10-29.html)
 - [2026-10-28](digests/2026-10-28.html)
-- [2026-10-27](digests/2026-10-27.html)
 
 ## About this site
 
