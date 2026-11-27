@@ -1,185 +1,260 @@
 {
-  "digest_date": "2026-11-26",
-  "generated_at": "2026-11-26T13:26:39.479877+13:00",
+  "digest_date": "2026-11-27",
+  "generated_at": "2026-11-27T13:37:41.632501+13:00",
   "items": [
     {
-      "canonical_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
-      "published": "2026-11-25T19:44:24+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.31974",
+      "published": "2026-11-26T05:00:00+00:00",
       "reasons": [
-        "fresh <12h",
-        "anthropic",
+        "fresh <30h",
         "model",
-        "research"
-      ],
-      "score": 7.7,
-      "source": "TechCrunch AI",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
-      "published": "2026-11-25T20:03:27+00:00",
-      "reasons": [
-        "fresh <12h",
-        "openai",
-        "gpt"
-      ],
-      "score": 6.9,
-      "source": "TechCrunch AI",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
-    },
-    {
-      "canonical_url": "https://postgr.es/p/9DA",
-      "published": "2026-11-25T05:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "sql",
-        "open source",
-        "security"
-      ],
-      "score": 6.3,
-      "source": "Planet PostgreSQL",
-      "summary": "Last month, PgBouncer participated in the Fall 2026 CNCF Security Slam . This is a report of what we did, what we learned, and what we plan for the future. Introduction First, let’s introduce the participants. PgBouncer is a connection pooler for PostgreSQL. The CNCF is the Cloud Native Computing Foundation, the organization that supports Kubernetes and many other projects broadly related to that. There is also the OpenSSF , the Open Source Security Foundation, which publishes many tools and guides to help open-source projects improve and maintain their security practices. Both the CNCF and the OpenSSF are part of the Linux Foundation , so t…",
-      "title": "Peter Eisentraut: PgBouncer visits the CNCF Security Slam",
-      "url": "https://postgr.es/p/9DA"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-      "published": "2026-11-25T13:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
         "agent",
-        "open source"
+        "benchmark",
+        "inference"
       ],
-      "score": 5.9,
-      "source": "The Verge AI",
-      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no […]",
-      "title": "Has vibe coding made open source the new normal for synths?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
+      "score": 9.3,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.31974v1 Announce Type: new Abstract: Games, especially modern AAA games, challenge language models to perceive complex scenes, control actions, and make decisions over long horizons. Existing game benchmarks primarily test language models as computer-use agents that query a language model throughout play, incurring repeated inference cost and, in real-time games, acting while the environment continues to evolve. We ask whether coding agents can learn from game interaction to develop standalone game-playing programs that run without language model inference. We thus introduce Coding4Games, a benchmark for evaluating whether coding…",
+      "title": "Coding4Games: Can Modern Coding Agents Play Modern Video Games?",
+      "url": "https://arxiv.org/abs/2611.31974"
     },
     {
-      "canonical_url": "https://postgr.es/p/9DH",
-      "published": "2026-11-25T16:32:33+00:00",
-      "reasons": [
-        "fresh <12h",
-        "sql"
-      ],
-      "score": 5.5,
-      "source": "Planet PostgreSQL",
-      "summary": "A fast-growing AI-native SaaS team we worked with alongside Supabase was writing 1.8 TB of WAL a day. That number alone made the database look like the ceiling. When we broke it down, about 39% of that WAL was full-page-image overhead. It didn’t come from the application, the platform or the workload. It came from a five-minute checkpoint default. This post walks through why that happens, how to check whether it’s happening to you, and what to do about it. Everything here applies to PostgreSQL on Supabase and on any other platform. What a checkpoint does PostgreSQL writes every change to the write-ahead log (WAL) before it touches the data f…",
-      "title": "Umair Shahid: Where 39% of the WAL Came From",
-      "url": "https://postgr.es/p/9DH"
-    },
-    {
-      "canonical_url": "https://postgr.es/p/9DG",
-      "published": "2026-11-25T15:27:08+00:00",
-      "reasons": [
-        "fresh <12h",
-        "sql"
-      ],
-      "score": 5.5,
-      "source": "Planet PostgreSQL",
-      "summary": "Every now and then, a PostgreSQL database needs changes: adding a column, creating an index, updating data, or modifying constraints. Changes like these are called migrations. They can finish in seconds and go unnoticed, or lead to blocking, replication lag, unexpected load, or even downtime. Of course, no checklist can guarantee a trouble-free migration. However, asking the right questions beforehand can significantly reduce the risk . In this article, we’ll go through a checklist that can help prepare for PostgreSQL migrations more confidently: What will PostgreSQL actually do? Which lock will it take? Is the database ready? Will replicati…",
-      "title": "DARIA NIKOLAENKO: PostgreSQL DDL/DML Migration Checklist for the Anxious",
-      "url": "https://postgr.es/p/9DG"
-    },
-    {
-      "canonical_url": "https://postgr.es/p/9DF",
-      "published": "2026-11-25T12:42:05+00:00",
-      "reasons": [
-        "fresh <12h",
-        "sql"
-      ],
-      "score": 5.5,
-      "source": "Planet PostgreSQL",
-      "summary": "PostgreSQL 19 support is now available in pglayers , with 62 extension layers , ready-to-use Full and Azure profile images , and builds for both amd64 and arm64 . The images use the official postgres:19 GA image. If you want PostgreSQL 19 with pgvector, PostGIS, pg_cron, pg_textsearch, or pg_lake, you can get started without compiling extensions yourself. A quick reminder: what is pglayers? The official PostgreSQL Docker images provide a familiar starting point, but installing additional extensions often means adding package repositories, build tools, and compilation steps to your Dockerfile. pglayers publishes extensions as small, composabl…",
-      "title": "Ismaël Mejía: PostgreSQL 19 is now supported in pglayers",
-      "url": "https://postgr.es/p/9DF"
-    },
-    {
-      "canonical_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "published": "2026-11-25T18:52:55+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent"
-      ],
-      "score": 5.2,
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "title": "Where scientists draw the line on AI agents",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
-      "published": "2026-11-25T14:10:18+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent"
-      ],
-      "score": 5.2,
-      "source": "TechCrunch AI",
-      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
-    },
-    {
-      "canonical_url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
-      "published": "2026-11-25T13:00:00+00:00",
-      "reasons": [
-        "fresh <12h",
-        "chip"
-      ],
-      "score": 5.2,
-      "source": "TechCrunch AI",
-      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
-      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "published": "2026-11-25T17:44:51+00:00",
-      "reasons": [
-        "fresh <12h",
-        "chip"
-      ],
-      "score": 5.1,
-      "source": "The Verge AI",
-      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
-      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "published": "2026-11-25T14:12:33+00:00",
-      "reasons": [
-        "fresh <12h",
-        "agent"
-      ],
-      "score": 5.1,
-      "source": "The Verge AI",
-      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
-      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
-    },
-    {
-      "canonical_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "published": "2026-11-25T10:22:09+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.33510",
+      "published": "2026-11-26T05:00:00+00:00",
       "reasons": [
         "fresh <30h",
-        "agent"
+        "model",
+        "agent",
+        "benchmark",
+        "inference"
       ],
-      "score": 4.4,
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "title": "An Indic Voice Agent with CUGA",
-      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+      "score": 9.3,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.33510v1 Announce Type: new Abstract: Detailed knowledge of a user's persona is valuable for personalizing generative AI models and agents, yet such details are difficult to obtain and change over time. We address the task of inferring persona attributes from a single day of mobile activity logs. No suitable publicly available benchmark exists for this task, so we introduce a synthetic benchmark of 1,600 persona-log pairs. We target on-device inference so that raw logs never leave the phone, which makes memory rather than speed the limiting constraint: a day of activity yields roughly 30K tokens, whose key-value cache alone exceeds…",
+      "title": "LogToPersona: New Benchmark and Efficient Persona Prediction through Semantic Log Filtering",
+      "url": "https://arxiv.org/abs/2611.33510"
     },
     {
-      "canonical_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-      "published": "2026-11-25T00:00:00+00:00",
+      "canonical_url": "https://arxiv.org/abs/2611.33314",
+      "published": "2026-11-26T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "github copilot",
+        "developer"
+      ],
+      "score": 8.4,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.33314v1 Announce Type: cross Abstract: AI-assisted coding ranges from fully agentic coding to inline code suggestions in the editor. Inline suggestions require predicting a developer's most likely next edit from an editing session. The next edit may lie at the cursor, in nearby lines, or farther away, and one editing intent can span several of these. The preceding system queries separate completion, nearby edit, and long-distance edit models, each with its own output format, in a fixed sequence; it thus cannot express intents spanning distant locations in one response, can require several sequential model calls per suggestion, and…",
+      "title": "Building a Unified Inline Code Editing Model for GitHub Copilot",
+      "url": "https://arxiv.org/abs/2611.33314"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2609.34887",
+      "published": "2026-11-26T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training",
+        "multimodal"
+      ],
+      "score": 8.4,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2609.34887v2 Announce Type: replace Abstract: Tabular foundation models (TFMs) provide predictive distributions for regression, but their prediction regions can exhibit undercoverage or overcoverage even when point predictions are accurate. We introduce C-USIM (Conditionally-Uniformized Score Integration Method), a lightweight application of highest predictive density split conformal prediction that accommodates multimodal predictions. Given calibration and test outputs, it requires no additional training or model inference. It provides finite-sample marginal validity under our assumptions. We bound conditional-marginal coverage gaps u…",
+      "title": "Conformal Prediction and Conditional Coverage for Tabular Foundation Models",
+      "url": "https://arxiv.org/abs/2609.34887"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.31427",
+      "published": "2026-11-26T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.31427v1 Announce Type: new Abstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. This raises a basic question: when a policy fails under a given harness, is it missing task knowledge or the competence to operate the interface? We distinguish two components of agentic competence: task competence, the knowledge and reasoning needed to solve a task, and interface competence, the ability to act on that knowledge through a given harness.…",
+      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+      "url": "https://arxiv.org/abs/2611.31427"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.31457",
+      "published": "2026-11-26T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "sql"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.31457v1 Announce Type: new Abstract: In this technical report, we present Taxi -- a system for debugging, clustering, and monitoring agents at scale. Taxi scales to millions of steps efficiently. This is made possible by a combination of scalable analysis methods. Taxi relies primarily on clustering to generate a taxonomy over steps for a structured overview of the data, and provides full SQL access for engineers and automated agents to ask complex questions. Clustering and querying are best used together in a hybrid pipeline guided by a coding agent. Taxi also includes an experimental integration of Jev-style decision models: mod…",
+      "title": "Taxi: Analyzing Agents at (Real) Scale",
+      "url": "https://arxiv.org/abs/2611.31457"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.31570",
+      "published": "2026-11-26T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.AI",
+      "summary": "arXiv:2611.31570v1 Announce Type: new Abstract: In playtesting games, a human operator is typically required to test most gameplay elements. In this work we present Buddy, an autonomous game solving agent which can solve long time horizon objectives in an unseen 3D role-playing game using off-the-shelf language model systems. Buddy will take actions, receive feedback on those actions, and pursue a goal across many turns. No written walkthrough or model training of any kind is required, and we show that this paradigm holds in a novel environment where the agent must discover solutions via exploration rather than recalling them from pretrainin…",
+      "title": "Off-the-Shelf Autonomous Agents for Game Playtesting",
+      "url": "https://arxiv.org/abs/2611.31570"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.33195",
+      "published": "2026-11-26T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "benchmark",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.33195v1 Announce Type: new Abstract: Materials discovery is an iterative loop: experiments and calculations verify predictions, and each outcome can inform the next. Yet most predictors are specialized single-task models fixed after training. Large language models have recently emerged as predictors across heterogeneous tasks but generally underperform specialized models, and retrieval-augmented variants discard their own outcomes. Benchmarks also score queries in isolation, leaving improvement from outcomes untested. Here we construct MatMemBench, a sequential benchmark of 22 materials tasks that reveals outcomes only after predi…",
+      "title": "Verified experience improves materials prediction with large language models",
+      "url": "https://arxiv.org/abs/2611.33195"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.33428",
+      "published": "2026-11-26T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "claude",
+        "llama",
+        "model"
+      ],
+      "score": 7.6,
+      "source": "arXiv cs.CL",
+      "summary": "arXiv:2611.33428v1 Announce Type: new Abstract: Assistants that answer from supplied reference material often receive material that covers some parts of a user's question and not others. Existing evaluations of insufficient context mostly score one answer per question, and often treat partially sufficient context as simply insufficient. We describe a small, open evaluation that scores each part of a three-part question separately, with a verdict for parts that are answered correctly from the material but carry an added unsupported claim. On 30 cases (five scenarios, six coverage patterns, five samples each) we test claude-haiku-4-5 and llama…",
+      "title": "When the Knowledge Runs Out: A Part-Level Pilot Evaluation of How Language Models Handle Partially Covered Questions",
+      "url": "https://arxiv.org/abs/2611.33428"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2606.31126",
+      "published": "2026-11-26T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "training"
+      ],
+      "score": 7.6,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2606.31126v3 Announce Type: replace-cross Abstract: Predicting biomolecular properties from limited labeled data is a central bottleneck in protein engineering and small-molecule design. As strong pretrained encoders now supply rich fixed-length representations, the difficulty has shifted from representation learning to building a data-efficient predictor for the few-shot regime. Tabular foundation models such as TabPFN and TabICL perform this prediction through in-context inference after pretraining on synthetic tables. We test whether they can act as flexible interpolators over informative fixed biomolecular representations. Treating…",
+      "title": "Can Tabular In-Context Learners Generalize to Biomolecular Property Prediction?",
+      "url": "https://arxiv.org/abs/2606.31126"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2611.33246",
+      "published": "2026-11-26T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "inference",
+        "machine learning"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2611.33246v1 Announce Type: cross Abstract: Estimating covariate-dependent treatment effects is a central challenge in personalized medicine. Existing approaches often emphasize either fully parametric models, risking misspecification, or flexible machine learning methods, which may require large samples to detect the small treatment effect heterogeneity common in medical settings. We propose B-SLIM (BART Sparse Linear Interaction Model), a semi-parametric model for causal inference that combines a flexible Bayesian Additive Regression Trees (BART) prognostic component with a sparse linear treatment effect component. This hybrid struct…",
+      "title": "B-SLIM: BART Sparse Linear Interactions Model for Heterogeneous Treatment Effects",
+      "url": "https://arxiv.org/abs/2611.33246"
+    },
+    {
+      "canonical_url": "https://arxiv.org/abs/2608.02826",
+      "published": "2026-11-26T05:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "model",
+        "agent",
+        "machine learning"
+      ],
+      "score": 6.7,
+      "source": "arXiv stat.ML",
+      "summary": "arXiv:2608.02826v2 Announce Type: replace-cross Abstract: Reinforcement learning is a subfield of machine learning that studies how an agent interacts with an environment in order to extract as large a reward as possible. A standard approach to study such interaction is through Markov Decision Processes (MDPs) and the task of choosing an optimal policy---a function that tells the agent which action to take. In this work, we study two types of time-dependent MDP---finite-horizon and infinite-horizon discounted---and propose new quantum algorithms for computing approximate optimal policies. Our quantum algorithms are based on a new combination…",
+      "title": "Improved Quantum Algorithms for Reinforcement Learning Under a Generative Model",
+      "url": "https://arxiv.org/abs/2608.02826"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "published": "2026-11-26T11:37:17+00:00",
+      "reasons": [
+        "fresh <30h",
+        "llama",
+        "benchmark"
+      ],
+      "score": 6.1,
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "published": "2026-11-26T20:03:54+00:00",
+      "reasons": [
+        "fresh <12h",
+        "chip"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+      "canonical_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+      "published": "2026-11-26T16:00:00+00:00",
+      "reasons": [
+        "fresh <12h",
+        "anthropic"
+      ],
+      "score": 5.2,
+      "source": "TechCrunch AI",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9DI",
+      "published": "2026-11-26T02:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "sql"
+      ],
+      "score": 4.7,
+      "source": "Planet PostgreSQL",
+      "summary": "PL/pgSQL functions inherit their caller's search_path, but autovacuum, pg_restore, and logical replication see an empty one—a silent recipe for index… (I consult on PostgreSQL through PGX Inc..)",
+      "title": "Christophe Pettus: All Your GUCs in a Row: search_path",
+      "url": "https://postgr.es/p/9DI"
+    },
+    {
+      "canonical_url": "https://postgr.es/p/9DL",
+      "published": "2026-11-26T00:00:00+00:00",
+      "reasons": [
+        "fresh <30h",
+        "sql"
+      ],
+      "score": 4.7,
+      "source": "Planet PostgreSQL",
+      "summary": "In the PostgreSQL source code, you will find memory and compiler barriers in various places like pg_memory_barrier() , pg_write_barrier() , pg_read_barrier() , or pg_compiler_barrier() . These macros are needed to ensure that the compiler and CPU do not reorder memory accesses in a way that would break the correctness of the code. Closely related are volatile variables and atomic operations, which you will find in the source code as well. PostgreSQL uses a process-based architecture, where a separate process handles each database connection. These processes use shared memory to communicate, allowing multiple processes to read and write value…",
+      "title": "Jan Kristof Nidzwetzki: Barriers, Volatile, and Atomics: How PostgreSQL Orders Memory Accesses",
+      "url": "https://postgr.es/p/9DL"
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "published": "2026-11-26T05:05:36+00:00",
       "reasons": [
         "fresh <30h",
         "inference"
@@ -187,57 +262,8 @@
       "score": 4.4,
       "source": "Hugging Face Blog",
       "summary": "",
-      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
-    },
-    {
-      "canonical_url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
-      "published": "2026-11-25T10:00:00+00:00",
-      "reasons": [
-        "fresh <30h",
-        "training"
-      ],
-      "score": 4.3,
-      "source": "MIT Technology Review AI",
-      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
-      "title": "AI is straining America’s open records systems",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
-    },
-    {
-      "canonical_url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "published": "2026-11-25T21:51:26+00:00",
-      "reasons": [
-        "fresh <12h"
-      ],
-      "score": 3.4,
-      "source": "The Verge AI",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
-    },
-    {
-      "canonical_url": "https://www.anthropic.com/research/migrating-api-to-rust",
-      "published": "2026-11-25T00:00:00+00:00",
-      "reasons": [
-        "fresh <30h"
-      ],
-      "score": 3.3,
-      "source": "Anthropic Research",
-      "summary": "How we migrated our Messages API from Python to Rust.",
-      "title": "Migrating our Messages API to Rust",
-      "url": "https://www.anthropic.com/research/migrating-api-to-rust"
-    },
-    {
-      "canonical_url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
-      "published": "2026-11-24T13:07:53+00:00",
-      "reasons": [
-        "recent <72h"
-      ],
-      "score": 2.4,
-      "source": "Google DeepMind Blog",
-      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
-      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/"
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
     }
   ]
 }

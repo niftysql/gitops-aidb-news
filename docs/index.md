@@ -1,22 +1,23 @@
 # Daily AI & DB News
 
-_Last updated: 2026-11-26T13:26:39.479877+13:00._
+_Last updated: 2026-11-27T13:37:41.632501+13:00._
 
-[Read the latest digest](digests/2026-11-26.html)
+[Read the latest digest](digests/2026-11-27.html)
 
 ## Latest top links
 
-- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/) — TechCrunch AI
-- [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/) — TechCrunch AI
-- [Peter Eisentraut: PgBouncer visits the CNCF Security Slam](https://postgr.es/p/9DA) — Planet PostgreSQL
-- [Has vibe coding made open source the new normal for synths?](https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware) — The Verge AI
-- [Umair Shahid: Where 39% of the WAL Came From](https://postgr.es/p/9DH) — Planet PostgreSQL
-- [DARIA NIKOLAENKO: PostgreSQL DDL/DML Migration Checklist for the Anxious](https://postgr.es/p/9DG) — Planet PostgreSQL
-- [Ismaël Mejía: PostgreSQL 19 is now supported in pglayers](https://postgr.es/p/9DF) — Planet PostgreSQL
-- [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents) — Hugging Face Blog
+- [Coding4Games: Can Modern Coding Agents Play Modern Video Games?](https://arxiv.org/abs/2611.31974) — arXiv cs.AI
+- [LogToPersona: New Benchmark and Efficient Persona Prediction through Semantic Log Filtering](https://arxiv.org/abs/2611.33510) — arXiv cs.CL
+- [Building a Unified Inline Code Editing Model for GitHub Copilot](https://arxiv.org/abs/2611.33314) — arXiv cs.CL
+- [Conformal Prediction and Conditional Coverage for Tabular Foundation Models](https://arxiv.org/abs/2609.34887) — arXiv stat.ML
+- [Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training](https://arxiv.org/abs/2611.31427) — arXiv cs.AI
+- [Taxi: Analyzing Agents at (Real) Scale](https://arxiv.org/abs/2611.31457) — arXiv cs.AI
+- [Off-the-Shelf Autonomous Agents for Game Playtesting](https://arxiv.org/abs/2611.31570) — arXiv cs.AI
+- [Verified experience improves materials prediction with large language models](https://arxiv.org/abs/2611.33195) — arXiv cs.CL
 
 ## Recent digests
 
+- [2026-11-27](digests/2026-11-27.html)
 - [2026-11-26](digests/2026-11-26.html)
 - [2026-11-25](digests/2026-11-25.html)
 - [2026-11-24](digests/2026-11-24.html)
@@ -46,7 +47,6 @@ _Last updated: 2026-11-26T13:26:39.479877+13:00._
 - [2026-10-31](digests/2026-10-31.html)
 - [2026-10-30](digests/2026-10-30.html)
 - [2026-10-29](digests/2026-10-29.html)
-- [2026-10-28](digests/2026-10-28.html)
 
 ## About this site
 
